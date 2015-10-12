@@ -37,6 +37,7 @@ OSSFinder is a recommendation engine application for open source software that w
 ## Deliverables, Timeline, Responsibilities
 
 ### Deliverables and Timeline
+*[Deliverable] ([Deadline])*
 1. Datastore of open source software projects *(Friday October 23)*
   - clone, store, parse top 1000 Github projects, ordered by number of stars using the Github API.
   - include project attributes: primary language, intended platform, contribution statistics.
