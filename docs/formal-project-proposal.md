@@ -29,15 +29,29 @@ OSSFinder is a recommendation engine application for open source software that w
 ***
 
 ## Usage and Workflow
-
+- See the wireframe: http://oi60.tinypic.com/2a8esg6.jpg
 
 
 ***
 ***
 
-## Timeline, Deliverables, Responsibilities
+## Deliverables, Timeline, Responsibilities
 
-
+### Deliverables
+1. Datastore of open source software projects
+  - clone, parse, store top 1000 Github projects, ordered by number of stars
+  - include project attributes like primary language, intended platform, contribution statistics
+2. Method for feature set extraction
+  - parse each stored project for features that it implements
+  - should be easily repeatable
+  - store the feature sets in the datastore
+3. Method for similarity analysis
+  - parse stored projects to determine a scale of similarity among them
+  - should be easily repeatable
+  - store the similarity values in the datastore
+4. Minimal interface to query the analysis results
+  - web-based
+  - similar to the wireframe provided above
 
 ***
 ***
