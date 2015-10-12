@@ -37,19 +37,19 @@ OSSFinder is a recommendation engine application for open source software that w
 ## Deliverables, Timeline, Responsibilities
 
 ### Deliverables and Timeline
-*[Deliverable] ([Deadline])*
-1. Datastore of open source software projects *(Friday October 23)*
+
+1. Datastore of open source software projects, Friday October 23
   - clone, store, parse top 1000 Github projects, ordered by number of stars using the Github API.
   - include project attributes: primary language, intended platform, contribution statistics.
-2. Method for feature set extraction *(Friday November 13)*
+2. Method for feature set extraction, Friday November 13
   - parse each stored project for features that it implements
   - should be easily repeatable
   - store the feature sets in the datastore
-3. Method for similarity analysis *(Friday November 20)*
+3. Method for similarity analysis, Friday November 20
   - parse stored projects to determine a scale of similarity among them
   - should be easily repeatable
   - store the similarity values in the datastore
-4. Simple interface to query the analysis results *(Friday November 30)*
+4. Simple interface to query the analysis results, Friday November 30
   - web-based
   - similar to the wireframe linked above
 
