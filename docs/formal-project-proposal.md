@@ -43,11 +43,13 @@ OSSFinder is a recommendation engine application for open source software that w
   - clone and parse top 1000 Github projects, ordered by number of stars using the Github API.
   - include project attributes: primary language, intended platform, contribution statistics.
   - store in MongoDB
-2. Method for feature set extraction, Friday November 13
+2. Method for feature set extraction, Friday November 13  
+  - research  
   - parse each stored project for features that it implements
   - should be easily repeatable (i.e. set of python scripts)
   - store the feature sets in the datastore
 3. Method for similarity analysis, Friday November 20
+  - research  
   - parse stored projects to determine a scale of similarity among them
   - should be easily repeatable (i.e. set of python scripts)
   - store the similarity values in the datastore
