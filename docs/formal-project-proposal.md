@@ -20,10 +20,10 @@ OSSFinder is a recommendation engine application for open source software that w
 
 ## Motiviation
 
-- There is an overwhelming ammount of open-source software on the Internet.
-- Programmers, both individual and teams, stand to benefit from picking:
-  - **the right tool for the job**  
-  - **the tool with the lowest possible learning curve**
+- There is an overwhelming amount of open-source software on the Internet.
+- Programers, both individual and teams, stand to benefit from:
+  - **picking the right tool for the job**  
+  - **picking the tool with the lowest possible learning curve**
 - Github provides a powerful API, but lacks powerful search features for narrowing down the many projects it hosts. We want to attempt to suplement this.
 ***
 ***
@@ -55,7 +55,7 @@ OSSFinder is a recommendation engine application for open source software that w
 ### Responsibilities
 
 - Short answer: To Be Determined
-- Long answer: Deliverables 1 and 4 are a matter of implementing minimal systems with which our group collectively has prior experience. Deliverables 2 and 3 will be a learning/exploration experience for each of us. So separating this work will depend where each of us gains the most traction the earliest in the learning process.
+- Long answer: Deliverables 1 and 4 are a matter of implementing minimal systems with which our group collectively has prior experience. Deliverables 2 and 3 will be a learning and exploration experience for each of us. So separating this work will depend where each of us gains the most traction the earliest in the learning process.
 
 ***
 ***
