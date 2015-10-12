@@ -52,7 +52,8 @@ OSSFinder is a recommendation engine application for open source software that w
   - store the similarity values in the datastore
 4. Simple interface to query the analysis results, Friday November 30
   - web-based
-  - similar to the wireframe linked above
+  - structured like the wireframe linked above
+  - make it at least temporarily available on a cloud server (e.g. AWS or DigitalOcean) for classmates, users to try.
 
 ### Responsibilities
 
