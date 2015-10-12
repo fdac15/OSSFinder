@@ -24,13 +24,12 @@ OSSFinder is a recommendation engine application for open source software that w
 - Programmers, both individual and teams, stand to benefit from picking:
   - **the right tool for the job**  
   - **the tool with the lowest possible learning curve**
-
+- Github provides a powerful API, but lacks powerful search features for narrowing down the many projects it hosts. We want to attempt to suplement this.
 ***
 ***
 
 ## Usage and Workflow
 - See the wireframe: http://oi60.tinypic.com/2a8esg6.jpg
-
 
 ***
 ***
