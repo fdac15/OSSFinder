@@ -40,28 +40,30 @@ OSSFinder is a recommendation engine application for open source software that w
 ### Deliverables and Timeline
 
 1. Datastore of open source software projects; Friday October 23; Muhammed, Yuxing
-  - clone and parse top 1000 Github projects, ordered by number of stars using the Github API.
-  - include project attributes: primary language, intended platform, contribution statistics.
-  - store in MongoDB
+  - retrieve a subset of Github repos with all of their user interactions (stars, forks, watches, issues, pull requests, commits)
+  - store in MongoDB for simple querying
 2. Method for feature set extraction; Friday November 13; Muhammed, Yuxing, Alex
-  - research  
-  - parse each stored project for features that it implements
   - should be easily repeatable (i.e. set of python scripts)
-  - store the feature sets in the datastore
+  - currently two options: 
+    - text-based feature search (like Google)
+    - feature selection (choose one or more from a set of predefined features)
 3. Method for similarity analysis; Friday November 20; Muhammed, Yuxing, Alex
-  - research  
-  - parse stored projects to determine a scale of similarity among them
+  - parse stored repos to determine a scale of similarity among them
   - should be easily repeatable (i.e. set of python scripts)
   - store the similarity values in the datastore
+  - current proposed approach:
+    - create a point system based on user interactions
+    - e.g. same user commits to two repos r1 and r2, then relationship(r1,r2) += 5
+    - create n^2 relationships among repos
 4. Simple interface to query the analysis results; Friday November 30; Alex
   - web-based
   - structured like the wireframe linked above
-  - make it at least temporarily available on a cloud server (e.g. AWS or DigitalOcean) for classmates, users to try.
+  - make it at least temporarily available on cloud hosting (e.g. AWS or DigitalOcean) for users to try.
 
 ### Responsibilities
 
 - Short answer: To Be Determined
-- Long answer: Deliverables 1 and 4 are a matter of implementing minimal systems with which our group collectively has prior experience. Deliverables 2 and 3 will be a learning and exploration experience for each of us. So separating this work will depend where each of us gains the most traction the earliest in the learning process.
+- Long answer: Deliverables 1 and 4 are a matter of implementing systems with which our group collectively has prior experience. Deliverables 2 and 3 will be a learning and exploration experience for each of us. So separating this work will depend where each of us gains the most traction the earliest in the learning process.
 
 ***
 ***
