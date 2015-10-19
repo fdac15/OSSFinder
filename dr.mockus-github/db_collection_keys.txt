@@ -1,0 +1,51 @@
+commit_comments
+**************************
+['_id', 'body', 'commit_id', 'created_at', 'html_url', 'id', 'line', 'path', 'position', 'repo', 'updated_at', 'url', 'user']
+system.indexes
+**************************
+['key', 'name', 'ns', 'v']
+commits
+**************************
+['_id', 'author', 'commit', 'committer', 'files', 'parents', 'sha', 'stats', 'url']
+events
+**************************
+['_id', 'actor', 'created_at', 'id', 'payload', 'public', 'repo', 'type']
+followers
+**************************
+['_id', 'avatar_url', 'follows', 'gravatar_id', 'id', 'login', 'url']
+forks
+**************************
+['_id', 'clone_url', 'created_at', 'description', 'fork', 'forks', 'forks_count', 'full_name', 'git_url', 'has_downloads', 'has_issues', 'has_wiki', 'homepage', 'html_url', 'id', 'language', 'mirror_url', 'name', 'open_issues', 'open_issues_count', 'owner', 'private', 'pushed_at', 'repo', 'size', 'ssh_url', 'svn_url', 'updated_at', 'url', 'watchers', 'watchers_count']
+issue_comments
+**************************
+['_id', 'body', 'created_at', 'id', 'issue_id', 'owner', 'repo', 'updated_at', 'url', 'user']
+issue_events
+**************************
+['_id', 'actor', 'commit_id', 'created_at', 'event', 'id', 'issue_id', 'owner', 'repo', 'url']
+issues
+**************************
+['_id', 'assignee', 'body', 'closed_at', 'comments', 'comments_url', 'created_at', 'events_url', 'html_url', 'id', 'labels', 'labels_url', 'milestone', 'number', 'owner', 'pull_request', 'repo', 'state', 'title', 'updated_at', 'url', 'user']
+org_members
+**************************
+['_id', 'avatar_url', 'gravatar_id', 'id', 'login', 'org', 'url']
+pull_request_comments
+**************************
+['_id', '_links', 'body', 'commit_id', 'created_at', 'id', 'issue_id', 'original_commit_id', 'original_position', 'owner', 'path', 'position', 'pullreq_id', 'repo', 'updated_at', 'url', 'user']
+pull_requests
+**************************
+['_id', '_links', 'assignee', 'base', 'body', 'closed_at', 'created_at', 'diff_url', 'head', 'html_url', 'id', 'issue_url', 'merged_at', 'milestone', 'number', 'owner', 'patch_url', 'repo', 'state', 'title', 'updated_at', 'url', 'user']
+repo_collaborators
+**************************
+['_id', 'avatar_url', 'gravatar_id', 'id', 'login', 'owner', 'repo', 'url']
+repo_labels
+**************************
+['_id', 'color', 'name', 'owner', 'repo', 'url']
+repos
+**************************
+['_id', 'clone_url', 'created_at', 'description', 'fork', 'forks', 'full_name', 'git_url', 'has_downloads', 'has_issues', 'has_wiki', 'homepage', 'html_url', 'id', 'language', 'master_branch', 'mirror_url', 'name', 'open_issues', 'organization', 'owner', 'private', 'pushed_at', 'size', 'ssh_url', 'svn_url', 'updated_at', 'url', 'watchers']
+users
+**************************
+['_id', 'avatar_url', 'bio', 'blog', 'company', 'created_at', 'email', 'followers', 'following', 'gravatar_id', 'hireable', 'html_url', 'id', 'location', 'login', 'name', 'public_gists', 'public_repos', 'type', 'url']
+watchers
+**************************
+['_id', 'avatar_url', 'gravatar_id', 'id', 'login', 'owner', 'repo', 'url']

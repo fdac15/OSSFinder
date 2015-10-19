@@ -1,0 +1,3540 @@
+commit_comments
+**************************{ '_id': ObjectId('4ffec3aad1925c7427000075'),
+  'body': 'Nice to see this quickly falling into shape throughout the code '
+          'tree!',
+  'commit_id': 'f4d11b5bb6b6004c90ed137e91ccfe145b944ea5',
+  'created_at': '2012-07-12T08:55:03Z',
+  'html_url': 'https://github.com/JuliaLang/julia/commit/f4d11b5bb6b6004c90ed137e91ccfe145b944ea5#commitcomment-1571156',
+  'id': 1571156,
+  'line': None,
+  'path': None,
+  'position': None,
+  'repo': 'julia',
+  'updated_at': '2012-07-12T08:55:03Z',
+  'url': 'https://api.github.com/repos/JuliaLang/julia/comments/1571156',
+  'user': 'JuliaLang'}
+{ '_id': ObjectId('4ffec3aad1925c7427000076'),
+  'body': 'Yes, this stuff is much needed, but easy to ignore.\n'
+          '\n'
+          'BTW, I wonder if we should follow some kind of a standard method '
+          'for input args checking, which can be turned off through a macro, '
+          'or a compiler switch in a uniform way.\n',
+  'commit_id': 'f4d11b5bb6b6004c90ed137e91ccfe145b944ea5',
+  'created_at': '2012-07-12T08:57:58Z',
+  'html_url': 'https://github.com/JuliaLang/julia/commit/f4d11b5bb6b6004c90ed137e91ccfe145b944ea5#commitcomment-1571171',
+  'id': 1571171,
+  'line': None,
+  'path': None,
+  'position': None,
+  'repo': 'julia',
+  'updated_at': '2012-07-12T08:57:58Z',
+  'url': 'https://api.github.com/repos/JuliaLang/julia/comments/1571171',
+  'user': 'JuliaLang'}
+{ '_id': ObjectId('4ffec3aad1925c7427000077'),
+  'body': 'Also, @dmbates prompted the fix.',
+  'commit_id': 'f4d11b5bb6b6004c90ed137e91ccfe145b944ea5',
+  'created_at': '2012-07-12T08:58:19Z',
+  'html_url': 'https://github.com/JuliaLang/julia/commit/f4d11b5bb6b6004c90ed137e91ccfe145b944ea5#commitcomment-1571173',
+  'id': 1571173,
+  'line': None,
+  'path': None,
+  'position': None,
+  'repo': 'julia',
+  'updated_at': '2012-07-12T08:58:19Z',
+  'url': 'https://api.github.com/repos/JuliaLang/julia/comments/1571173',
+  'user': 'JuliaLang'}
+{ '_id': ObjectId('4ffec3aad1925c7427000078'),
+  'body': "I wouldn't bother trying to disable all checks. Checks like the "
+          'ones here will have no performance impact.',
+  'commit_id': 'f4d11b5bb6b6004c90ed137e91ccfe145b944ea5',
+  'created_at': '2012-07-12T09:17:08Z',
+  'html_url': 'https://github.com/JuliaLang/julia/commit/f4d11b5bb6b6004c90ed137e91ccfe145b944ea5#commitcomment-1571219',
+  'id': 1571219,
+  'line': None,
+  'path': None,
+  'position': None,
+  'repo': 'julia',
+  'updated_at': '2012-07-12T09:17:08Z',
+  'url': 'https://api.github.com/repos/JuliaLang/julia/comments/1571219',
+  'user': 'JuliaLang'}
+{ '_id': ObjectId('4ffec47cd1925c7427000128'),
+  'body': 'Could you please try to avoid line-breaks inside an anchor-tag?\n'
+          'Then we have white-spaces inside the link which looks a little '
+          'bit ulgy. :-)\n'
+          '\n'
+          'You can use the smarty  {trim} block or you remove the '
+          'link-breaks.',
+  'commit_id': '944005c0f5c131768b823697636786fe317a1121',
+  'created_at': '2012-07-12T07:21:13Z',
+  'html_url': 'https://github.com/zikula-modules/Dizkus/commit/944005c0f5c131768b823697636786fe317a1121#commitcomment-1570841',
+  'id': 1570841,
+  'line': 16,
+  'path': 'src/modules/Dizkus/templates/admin/tree.tpl',
+  'position': 5,
+  'repo': 'Dizkus',
+  'updated_at': '2012-07-12T07:21:13Z',
+  'url': 'https://api.github.com/repos/zikula-modules/Dizkus/comments/1570841',
+  'user': 'zikula-modules'}
+system.indexes
+**************************{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.commit_comments', 'v': 1}
+{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.commits', 'v': 1}
+{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.events', 'v': 1}
+{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.followers', 'v': 1}
+{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.forks', 'v': 1}
+commits
+**************************{ '_id': ObjectId('4fc6986032503212a7005c0a'),
+  'author': { 'avatar_url': 'https://secure.gravatar.com/avatar/224f5b1b5ee448ec8152236ede91908c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+              'gravatar_id': '224f5b1b5ee448ec8152236ede91908c',
+              'id': 173797,
+              'login': 'eloyesp',
+              'url': 'https://api.github.com/users/eloyesp'},
+  'commit': { 'author': { 'date': '2012-02-15T12:54:00-08:00',
+                          'email': 'eloyesp@gmail.com',
+                          'name': 'Eloy'},
+              'committer': { 'date': '2012-02-15T12:54:00-08:00',
+                             'email': 'eloyesp@gmail.com',
+                             'name': 'Eloy'},
+              'message': 'test de beauty_dates',
+              'tree': { 'sha': 'e0b3facf354848eea4d988bc1b594c82392336dd',
+                        'url': 'https://api.github.com/repos/BlueLemon/representaciones/git/trees/e0b3facf354848eea4d988bc1b594c82392336dd'},
+              'url': 'https://api.github.com/repos/BlueLemon/representaciones/git/commits/05cae42db6f603cce682e4934c2d4e9436ef8421'},
+  'committer': { 'avatar_url': 'https://secure.gravatar.com/avatar/224f5b1b5ee448ec8152236ede91908c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                 'gravatar_id': '224f5b1b5ee448ec8152236ede91908c',
+                 'id': 173797,
+                 'login': 'eloyesp',
+                 'url': 'https://api.github.com/users/eloyesp'},
+  'files': [ { 'additions': 14,
+               'blob_url': 'https://github.com/BlueLemon/representaciones/blob/05cae42db6f603cce682e4934c2d4e9436ef8421/test/unit/helpers/date_helper_test.rb',
+               'changes': 14,
+               'deletions': 0,
+               'filename': 'test/unit/helpers/date_helper_test.rb',
+               'patch': '@@ -0,0 +1,14 @@\n'
+                        "+require 'test_helper'\n"
+                        '+\n'
+                        '+class DateHelperTest < ActionView::TestCase\n'
+                        '+  def test_beauty_date\n'
+                        '+    value = reservas(:costa_magica).salida # '
+                        '2012-03-19\n'
+                        '+    assert_equal "<time date=\'utcdate\' >19 de '
+                        'Marzo de 2012</time>", beauty_date(value)\n'
+                        '+\n'
+                        '+    value = reservas(:costa_magica).created_at  '
+                        '# 2011-05-27 21:04:01.000000000Z\n'
+                        '+    assert_equal "<time datetime=\'utcdatetime\' '
+                        '>27 de Mayo de 2011</time>", beauty_date(value)\n'
+                        '+\n'
+                        '+    assert beauty_date(value).html_safe?, "the '
+                        'html is not marked as safe"\n'
+                        '+  end\n'
+                        '+end\n'
+                        '+',
+               'raw_url': 'https://github.com/BlueLemon/representaciones/raw/05cae42db6f603cce682e4934c2d4e9436ef8421/test/unit/helpers/date_helper_test.rb',
+               'sha': '05cae42db6f603cce682e4934c2d4e9436ef8421',
+               'status': 'added'}],
+  'parents': [ { 'sha': '64a80d3668ce3ae394e3032177de9ea991494fd7',
+                 'url': 'https://api.github.com/repos/BlueLemon/representaciones/commits/64a80d3668ce3ae394e3032177de9ea991494fd7'}],
+  'sha': '05cae42db6f603cce682e4934c2d4e9436ef8421',
+  'stats': {'additions': 14, 'deletions': 0, 'total': 14},
+  'url': 'https://api.github.com/repos/BlueLemon/representaciones/commits/05cae42db6f603cce682e4934c2d4e9436ef8421'}
+{ '_id': ObjectId('4fc6986073055268ad004efd'),
+  'author': None,
+  'commit': { 'author': { 'date': '2012-02-16T07:41:04-08:00',
+                          'email': 'tgloeggl@c5b85792-5220-0410-ad23-ed5b6b8ad999',
+                          'name': 'tgloeggl'},
+              'committer': { 'date': '2012-02-16T07:41:04-08:00',
+                             'email': 'tgloeggl@c5b85792-5220-0410-ad23-ed5b6b8ad999',
+                             'name': 'tgloeggl'},
+              'message': 'fixes #2464\n'
+                         '\n'
+                         'git-svn-id: '
+                         'svn://develop.studip.de/studip/trunk@22254 '
+                         'c5b85792-5220-0410-ad23-ed5b6b8ad999',
+              'tree': { 'sha': 'c7f3127fad6d68e980b0a5a13756e394c0066523',
+                        'url': 'https://api.github.com/repos/ratbird/hope/git/trees/c7f3127fad6d68e980b0a5a13756e394c0066523'},
+              'url': 'https://api.github.com/repos/ratbird/hope/git/commits/280d78b89f70f663618dfd4c993e4f382caff256'},
+  'committer': None,
+  'files': [ { 'additions': 0,
+               'blob_url': 'https://github.com/ratbird/hope/blob/280d78b89f70f663618dfd4c993e4f382caff256/public/inst_admin.php',
+               'changes': 1,
+               'deletions': 1,
+               'filename': 'public/inst_admin.php',
+               'patch': '@@ -41,7 +41,6 @@\n'
+                        ' '
+                        "require_once('lib/classes/searchtypes/SQLSearch.class.php');\n"
+                        ' '
+                        "require_once('lib/classes/QuickSearch.class.php');\n"
+                        ' \n'
+                        "-$admin_view = Request::option('admin_view');\n"
+                        ' // if we are not in admin_view, we get the '
+                        'proper set variable from institut_members.php\n'
+                        ' if (!isset($admin_view)) {\n'
+                        '     $admin_view = true;',
+               'raw_url': 'https://github.com/ratbird/hope/raw/280d78b89f70f663618dfd4c993e4f382caff256/public/inst_admin.php',
+               'sha': '280d78b89f70f663618dfd4c993e4f382caff256',
+               'status': 'modified'}],
+  'parents': [ { 'sha': '0ff940e4e6130e137a60129d25b81eae8acb64d6',
+                 'url': 'https://api.github.com/repos/ratbird/hope/commits/0ff940e4e6130e137a60129d25b81eae8acb64d6'}],
+  'sha': '280d78b89f70f663618dfd4c993e4f382caff256',
+  'stats': {'additions': 0, 'deletions': 1, 'total': 1},
+  'url': 'https://api.github.com/repos/ratbird/hope/commits/280d78b89f70f663618dfd4c993e4f382caff256'}
+{ '_id': ObjectId('4fc71ee476d2ba10ee00c8f8'),
+  'author': None,
+  'commit': { 'author': { 'date': '2012-02-20T17:59:45-08:00',
+                          'email': 'jrusso@CHS-ROBO-03.carmelunified.org',
+                          'name': 'jrusso'},
+              'committer': { 'date': '2012-02-20T17:59:45-08:00',
+                             'email': 'jrusso@CHS-ROBO-03.carmelunified.org',
+                             'name': 'jrusso'},
+              'message': '.',
+              'tree': { 'sha': 'a0ccbda664f53dce872e85aed39fa13652ad3cc6',
+                        'url': 'https://api.github.com/repos/jesusrambo/WPILIBJ/git/trees/a0ccbda664f53dce872e85aed39fa13652ad3cc6'},
+              'url': 'https://api.github.com/repos/jesusrambo/WPILIBJ/git/commits/3190260a86fad12b0535aad29a8a205aaa69b950'},
+  'committer': None,
+  'files': [],
+  'parents': [ { 'sha': 'c59a01627be89f144fb4eb851448926bab2d7627',
+                 'url': 'https://api.github.com/repos/jesusrambo/WPILIBJ/commits/c59a01627be89f144fb4eb851448926bab2d7627'}],
+  'sha': '3190260a86fad12b0535aad29a8a205aaa69b950',
+  'stats': {'additions': 0, 'deletions': 0, 'total': 0},
+  'url': 'https://api.github.com/repos/jesusrambo/WPILIBJ/commits/3190260a86fad12b0535aad29a8a205aaa69b950'}
+{ '_id': ObjectId('4fc6986063a3f3435d00542d'),
+  'author': { 'avatar_url': 'https://secure.gravatar.com/avatar/1ac7cbb618c44ec069aee742f27a7e87?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+              'gravatar_id': '1ac7cbb618c44ec069aee742f27a7e87',
+              'id': 456803,
+              'login': 'nampham',
+              'url': 'https://api.github.com/users/nampham'},
+  'commit': { 'author': { 'date': '2012-02-16T07:44:09-08:00',
+                          'email': 'nam@caterva.com',
+                          'name': 'Nam Pham'},
+              'committer': { 'date': '2012-02-16T07:44:09-08:00',
+                             'email': 'nam@caterva.com',
+                             'name': 'Nam Pham'},
+              'message': 'Add TopicList and utilities.',
+              'tree': { 'sha': 'c0c8835f81681b65cc84b736ef2fd34138e8a492',
+                        'url': 'https://api.github.com/repos/nampham/Titan/git/trees/c0c8835f81681b65cc84b736ef2fd34138e8a492'},
+              'url': 'https://api.github.com/repos/nampham/Titan/git/commits/2c1b5e31e76ce5329375e6346a61028b79bc5249'},
+  'committer': { 'avatar_url': 'https://secure.gravatar.com/avatar/1ac7cbb618c44ec069aee742f27a7e87?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                 'gravatar_id': '1ac7cbb618c44ec069aee742f27a7e87',
+                 'id': 456803,
+                 'login': 'nampham',
+                 'url': 'https://api.github.com/users/nampham'},
+  'files': [ { 'additions': 2,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/dao/src/main/java/titan/dao/GraphDao.java',
+               'changes': 4,
+               'deletions': 2,
+               'filename': 'dao/src/main/java/titan/dao/GraphDao.java',
+               'patch': '@@ -4,7 +4,7 @@\n'
+                        ' import java.util.List;\n'
+                        ' \n'
+                        ' import titan.entity.socialgraph.Connections;\n'
+                        '-import titan.entity.socialgraph.Topics;\n'
+                        '+import titan.entity.socialgraph.TopicList;\n'
+                        ' \n'
+                        ' public interface GraphDao {\n'
+                        '     public Connections getFriends(int id) throws '
+                        'IOException;\n'
+                        '@@ -31,7 +31,7 @@ public void '
+                        'storeFriendsFollowers(int id, Connections[] '
+                        'conns)\n'
+                        ' \n'
+                        '     public boolean exists(int id) throws '
+                        'IOException;\n'
+                        ' \n'
+                        '-    public Topics getOriginalTopics(int id) '
+                        'throws IOException;\n'
+                        '+    public TopicList getOriginalTopics(int id) '
+                        'throws IOException;\n'
+                        ' \n'
+                        '     public String getLanguage(int id) throws '
+                        'IOException;\n'
+                        ' }',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/dao/src/main/java/titan/dao/GraphDao.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 3,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/dao/src/main/java/titan/dao/impl/GraphDaoHBaseImpl.java',
+               'changes': 6,
+               'deletions': 3,
+               'filename': 'dao/src/main/java/titan/dao/impl/GraphDaoHBaseImpl.java',
+               'patch': '@@ -12,7 +12,7 @@\n'
+                        ' import titan.commons.HBaseConstants;\n'
+                        ' import titan.dao.GraphDao;\n'
+                        ' import titan.entity.socialgraph.Connections;\n'
+                        '-import titan.entity.socialgraph.Topics;\n'
+                        '+import titan.entity.socialgraph.TopicList;\n'
+                        ' \n'
+                        ' import com.google.common.collect.Lists;\n'
+                        ' \n'
+                        '@@ -210,7 +210,7 @@ public boolean exists(int id) '
+                        'throws IOException {\n'
+                        '     }\n'
+                        ' \n'
+                        '     @Override\n'
+                        '-    public Topics getOriginalTopics(int id) '
+                        'throws IOException {\n'
+                        '+    public TopicList getOriginalTopics(int id) '
+                        'throws IOException {\n'
+                        '         HTable hTable = new '
+                        'HTable(HBaseConstants.conf,\n'
+                        '             HBaseConstants.TBL_GRAPH);\n'
+                        '         Get get = new Get(Bytes.toBytes(id));\n'
+                        '@@ -221,7 +221,7 @@ public Topics '
+                        'getOriginalTopics(int id) throws IOException {\n'
+                        ' \n'
+                        '         if (result.isEmpty())\n'
+                        '             return null;\n'
+                        '-        return '
+                        'Topics.fromByteArray(result.getValue(\n'
+                        '+        return '
+                        'TopicList.fromByteArray(result.getValue(\n'
+                        '             HBaseConstants.CF_CONNECTIONS, '
+                        'HBaseConstants.C_ORG_TOPICS));\n'
+                        '     }\n'
+                        ' ',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/dao/src/main/java/titan/dao/impl/GraphDaoHBaseImpl.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 2,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/dao/src/main/java/titan/dao/impl/GraphDaoS3Impl.java',
+               'changes': 4,
+               'deletions': 2,
+               'filename': 'dao/src/main/java/titan/dao/impl/GraphDaoS3Impl.java',
+               'patch': '@@ -9,7 +9,7 @@\n'
+                        ' import titan.commons.mirrorme.MirrorMeCommons;\n'
+                        ' import titan.dao.GraphDao;\n'
+                        ' import titan.entity.socialgraph.Connections;\n'
+                        '-import titan.entity.socialgraph.Topics;\n'
+                        '+import titan.entity.socialgraph.TopicList;\n'
+                        ' \n'
+                        ' import com.amazonaws.auth.AWSCredentials;\n'
+                        ' import '
+                        'com.amazonaws.services.s3.AmazonS3Client;\n'
+                        '@@ -150,7 +150,7 @@ public boolean exists(int id) '
+                        'throws IOException {\n'
+                        '      * S3 does not support this kind of data.\n'
+                        '      */\n'
+                        '     @Override\n'
+                        '-    public Topics getOriginalTopics(int id) '
+                        'throws IOException {\n'
+                        '+    public TopicList getOriginalTopics(int id) '
+                        'throws IOException {\n'
+                        '         return null;\n'
+                        '     }\n'
+                        ' ',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/dao/src/main/java/titan/dao/impl/GraphDaoS3Impl.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 464,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/java/titan/entity/socialgraph/Topic.java',
+               'changes': 464,
+               'deletions': 0,
+               'filename': 'entity/src/main/java/titan/entity/socialgraph/Topic.java',
+               'patch': '@@ -0,0 +1,464 @@\n'
+                        '+package titan.entity.socialgraph;\n'
+                        '+\n'
+                        '+import java.io.DataInput;\n'
+                        '+import java.io.DataOutput;\n'
+                        '+import java.io.IOException;\n'
+                        '+import java.util.Arrays;\n'
+                        '+import java.util.Comparator;\n'
+                        '+\n'
+                        '+import org.apache.hadoop.io.BytesWritable;\n'
+                        '+import org.apache.hadoop.io.WritableComparable;\n'
+                        '+\n'
+                        '+import '
+                        'titan.entity.socialgraph.protobuf.SocialGraph;\n'
+                        '+\n'
+                        '+import com.google.common.primitives.Doubles;\n'
+                        '+import com.google.common.primitives.Ints;\n'
+                        '+import com.google.gson.Gson;\n'
+                        '+import com.google.protobuf.ByteString;\n'
+                        '+import com.google.protobuf.CodedInputStream;\n'
+                        '+import '
+                        'com.google.protobuf.InvalidProtocolBufferException;\n'
+                        '+\n'
+                        '+/**\n'
+                        '+ * Topic entity holds the information about a '
+                        'topic. The topic information\n'
+                        '+ * includes topicId, pageRank and outDegree of '
+                        'the topic. OutDegree of a topic\n'
+                        '+ * is the number of followers having the same '
+                        'topic. Optional topic data can be\n'
+                        '+ * stored in the field topicData as a byte '
+                        'array.\n'
+                        '+ * \n'
+                        '+ * @version 1.0\n'
+                        '+ * @since Dec 2, 2011\n'
+                        '+ */\n'
+                        '+public class Topic implements '
+                        'WritableComparable<Topic> {\n'
+                        '+\n'
+                        '+    private int id = -1;\n'
+                        '+    private String name = null;\n'
+                        '+    private double score = -1.0;\n'
+                        '+    // TODO outDegree in previous version is '
+                        'initially set to -1. Check the\n'
+                        '+    // PageRank algorithm for any '
+                        'inconsistencies.\n'
+                        '+    private int outDegree = 0;\n'
+                        '+    private byte[] topicData = new byte[0];\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Helper method, used to SHALLOW copy data '
+                        'from another topic.\n'
+                        '+     * \n'
+                        '+     * @param topic\n'
+                        '+     *            topic from which data is '
+                        'copied. topic must not be null,\n'
+                        '+     *            otherwise NullPointerException '
+                        'will be thrown.\n'
+                        '+     */\n'
+                        '+    private void copyFrom(Topic topic) {\n'
+                        '+        this.id = topic.getId();\n'
+                        '+        this.name = topic.getName();\n'
+                        '+        this.score = topic.getScore();\n'
+                        '+        this.outDegree = topic.getOutDegree();\n'
+                        '+        this.topicData = topic.getTopicData();\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Factory method, used to clone data from '
+                        'other topic.\n'
+                        '+     * \n'
+                        '+     * @param right\n'
+                        '+     *            topic from which data is '
+                        'copied. right must not be null.\n'
+                        '+     * @return a clone of right.\n'
+                        '+     */\n'
+                        '+    public static Topic newTopic(Topic right) {\n'
+                        '+        if (right == null)\n'
+                        '+            throw new IllegalArgumentException(\n'
+                        '+                "Topic argument must not be '
+                        'null.");\n'
+                        '+        Topic left = new Topic();\n'
+                        '+        left.id = right.id;\n'
+                        '+        left.name = right.name;\n'
+                        '+        left.score = right.score;\n'
+                        '+        left.outDegree = right.outDegree;\n'
+                        '+        if (right.topicData.length > 0) {\n'
+                        '+            left.topicData = new '
+                        'byte[right.topicData.length];\n'
+                        '+            System.arraycopy(right.topicData, 0, '
+                        'left.topicData, 0,\n'
+                        '+                right.topicData.length);\n'
+                        '+        }\n'
+                        '+        return left;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Factory method, used to create a new '
+                        'instance of the Topic.\n'
+                        '+     * \n'
+                        '+     * @param id\n'
+                        '+     *            Id of the topic.\n'
+                        '+     * @return A new topic instance with '
+                        'topicId.\n'
+                        '+     */\n'
+                        '+    public static Topic newTopic(int id) {\n'
+                        '+        Topic topic = new Topic();\n'
+                        '+        topic.setId(id);\n'
+                        '+        return topic;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Create new Topic given the topic name.\n'
+                        '+     * \n'
+                        '+     * @param name\n'
+                        '+     *            topic name.\n'
+                        '+     * \n'
+                        '+     * @return new topic instance.\n'
+                        '+     */\n'
+                        '+    public static Topic newTopic(String name) {\n'
+                        '+        Topic topic = new Topic();\n'
+                        '+        topic.setName(name);\n'
+                        '+        return topic;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Create a new Topic given topic id and '
+                        'name.\n'
+                        '+     * \n'
+                        '+     * @param id\n'
+                        '+     *            topic id.\n'
+                        '+     * @param name\n'
+                        '+     *            topic name.\n'
+                        '+     * @return a new topic instance.\n'
+                        '+     */\n'
+                        '+    public static Topic newTopic(int id, String '
+                        'name) {\n'
+                        '+        Topic topic = new Topic();\n'
+                        '+        topic.setId(id);\n'
+                        '+        topic.setName(name);\n'
+                        '+        return topic;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Get the topicId.\n'
+                        '+     * \n'
+                        '+     * @return topicId of this object.\n'
+                        '+     */\n'
+                        '+    public int getId() {\n'
+                        '+        return id;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Set new topic id.\n'
+                        '+     * \n'
+                        '+     * @param id\n'
+                        '+     *            new id.\n'
+                        '+     */\n'
+                        '+    public void setId(int id) {\n'
+                        '+        this.id = id;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Get the topic name.\n'
+                        '+     * \n'
+                        '+     * @return topic name or null if it is not '
+                        'set.\n'
+                        '+     */\n'
+                        '+    public String getName() {\n'
+                        '+        return name;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Set the topic name.\n'
+                        '+     * \n'
+                        '+     * @param name\n'
+                        '+     *            new topic name.\n'
+                        '+     */\n'
+                        '+    public void setName(String name) {\n'
+                        '+        this.name = name;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Get the current score value. Initial '
+                        'value of score is -1.0.\n'
+                        '+     * \n'
+                        '+     * @return The current score value.\n'
+                        '+     */\n'
+                        '+    public double getScore() {\n'
+                        '+        return score;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Set the score value for this topic.\n'
+                        '+     * \n'
+                        '+     * @param score\n'
+                        '+     *            desired score value.\n'
+                        '+     */\n'
+                        '+    public void setScore(double score) {\n'
+                        '+        this.score = score;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Increase the pageRank by a certain '
+                        'amount.\n'
+                        '+     * \n'
+                        '+     * @param incr\n'
+                        '+     *            the value by which pageRank is '
+                        'increased.\n'
+                        '+     */\n'
+                        '+    public void addToScore(double incr) {\n'
+                        '+        this.score += incr;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Get the outDegree of this topic. Initial '
+                        'value of outDegree is zero.\n'
+                        '+     * \n'
+                        '+     * @return the current value of the '
+                        'outDegree of this topic.\n'
+                        '+     */\n'
+                        '+    public int getOutDegree() {\n'
+                        '+        return outDegree;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Set the outDegree of this topic.\n'
+                        '+     * \n'
+                        '+     * @param outDegree\n'
+                        '+     *            new value for outDegree\n'
+                        '+     */\n'
+                        '+    public void setOutDegree(int outDegree) {\n'
+                        '+        this.outDegree = outDegree;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Increase outDegree by a certain amount.\n'
+                        '+     * \n'
+                        '+     * @param num\n'
+                        '+     *            the value by which outDegree '
+                        'is increased.\n'
+                        '+     */\n'
+                        '+    public void increaseOutDegree(int num) {\n'
+                        '+        this.outDegree += num;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Check if the topic is a dangling topic '
+                        '(i.e., outDegree is zero)\n'
+                        '+     * \n'
+                        '+     * @return True if the topic is dangling\n'
+                        '+     */\n'
+                        '+    public boolean isDangling() {\n'
+                        '+        return outDegree == 0;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Get the optional topic data.\n'
+                        '+     * \n'
+                        '+     * @return Optional topic data in a byte '
+                        'array.\n'
+                        '+     */\n'
+                        '+    public byte[] getTopicData() {\n'
+                        '+        return topicData;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Set the optional topic data. Topic data '
+                        'must not be null, otherwise\n'
+                        '+     * IllegalArgumentException will be thrown.\n'
+                        '+     * \n'
+                        '+     * @param topicData\n'
+                        '+     *            the new optional topic data.\n'
+                        '+     * @throws IllegalArgumentException\n'
+                        '+     *             thrown if the topicData '
+                        'argument is null.\n'
+                        '+     */\n'
+                        '+    public void setTopicData(byte[] topicData) '
+                        'throws IllegalArgumentException {\n'
+                        '+        if (topicData == null)\n'
+                        '+            throw new '
+                        'IllegalArgumentException("Null argument is not '
+                        'allowed.");\n'
+                        '+        this.topicData = topicData;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Clear current topic data.\n'
+                        '+     */\n'
+                        '+    public void clearTopicData() {\n'
+                        '+        topicData = new byte[0];\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Convert this instance into protocol '
+                        'buffer format.\n'
+                        '+     * <p>\n'
+                        '+     * The protocol buffer format only holds '
+                        'pageRank if it is non negative.\n'
+                        '+     * </p>\n'
+                        '+     * <p>\n'
+                        '+     * The protocol buffer format only holds '
+                        'outDegree if it is positive.\n'
+                        '+     * </p>\n'
+                        '+     * <p>\n'
+                        '+     * The protocol buffer format only holds '
+                        'topicData if it is not null and\n'
+                        '+     * having positive length.\n'
+                        '+     * </p>\n'
+                        '+     * \n'
+                        '+     * @return Protocol buffer instance holding '
+                        'the data of this class.\n'
+                        '+     */\n'
+                        '+    public SocialGraph.Topic toProtocolBuffer() '
+                        '{\n'
+                        '+        SocialGraph.Topic.Builder builder = '
+                        'SocialGraph.Topic.newBuilder();\n'
+                        '+        if (id >= 0)\n'
+                        '+            builder.setId(id);\n'
+                        '+        if (name != null)\n'
+                        '+            builder.setName(name);\n'
+                        '+        if (score >= 0)\n'
+                        '+            builder.setScore(score);\n'
+                        '+        if (outDegree > 0)\n'
+                        '+            builder.setOutDegree(outDegree);\n'
+                        '+        if (topicData.length > 0)\n'
+                        '+            '
+                        'builder.setTopicData(ByteString.copyFrom(topicData));\n'
+                        '+        return builder.build();\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Convert a protocol buffer instance into a '
+                        'Topic instance.\n'
+                        '+     * \n'
+                        '+     * @param data\n'
+                        '+     *            protocol buffer object.\n'
+                        '+     * @return A Topic instance holding the same '
+                        'data as the protocol buffer\n'
+                        '+     *         instance.\n'
+                        '+     */\n'
+                        '+    public static Topic '
+                        'fromProtocolBuffer(SocialGraph.Topic data) {\n'
+                        '+        Topic topic = new Topic();\n'
+                        '+        if (data.hasId())\n'
+                        '+            topic.setId(data.getId());\n'
+                        '+        if (data.hasName())\n'
+                        '+            topic.setName(data.getName());\n'
+                        '+        if (data.hasScore())\n'
+                        '+            topic.setScore(data.getScore());\n'
+                        '+        if (data.hasOutDegree())\n'
+                        '+            '
+                        'topic.setOutDegree(data.getOutDegree());\n'
+                        '+        if (data.hasTopicData())\n'
+                        '+            '
+                        'topic.setTopicData(data.getTopicData().toByteArray());\n'
+                        '+        return topic;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Serialize data in to the byte array '
+                        'format using protocol buffer.\n'
+                        '+     * \n'
+                        '+     * @return Serialized data in the byte array '
+                        'format.\n'
+                        '+     */\n'
+                        '+    public byte[] toByteArray() {\n'
+                        '+        return '
+                        'toProtocolBuffer().toByteArray();\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Deserialize the byte array data into a '
+                        'Topic instance.\n'
+                        '+     * \n'
+                        '+     * @param data\n'
+                        '+     *            the byte array data.\n'
+                        '+     * @return A Topic instance holding the '
+                        'data.\n'
+                        '+     * @throws InvalidProtocolBufferException\n'
+                        '+     *             thrown if this data is not in '
+                        'proper protocol buffer format.\n'
+                        '+     */\n'
+                        '+    public static Topic fromByteArray(byte[] '
+                        'data)\n'
+                        '+            throws '
+                        'InvalidProtocolBufferException {\n'
+                        '+        return '
+                        'fromProtocolBuffer(SocialGraph.Topic.parseFrom(data));\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Wrap the data of this instance in a '
+                        '{@link BytesWritable} format suitable\n'
+                        '+     * for map-reduce jobs.\n'
+                        '+     * \n'
+                        '+     * @return BytesWritable instances holding '
+                        'the data.\n'
+                        '+     */\n'
+                        '+    public BytesWritable toBytesWritable() {\n'
+                        '+        return new '
+                        'BytesWritable(toByteArray());\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Unwrap the data back into a Topic '
+                        'instance.\n'
+                        '+     * \n'
+                        '+     * @param data\n'
+                        '+     *            input\n'
+                        '+     * @return A Topic instance holding the '
+                        'data.\n'
+                        '+     * @throws IOException\n'
+                        '+     *             thrown if error occurs during '
+                        'reading the buffer.\n'
+                        '+     */\n'
+                        '+    public static Topic '
+                        'fromBytesWritable(BytesWritable data)\n'
+                        '+            throws IOException {\n'
+                        '+        CodedInputStream ins = '
+                        'CodedInputStream.newInstance(\n'
+                        '+            data.getBytes(), 0, '
+                        'data.getLength());\n'
+                        '+        return '
+                        'fromProtocolBuffer(SocialGraph.Topic.parseFrom(ins));\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Hash code of a topic is the hash code of '
+                        'its id.\n'
+                        '+     * \n'
+                        '+     * @return Hash code of topicId\n'
+                        '+     */\n'
+                        '+    @Override\n'
+                        '+    public int hashCode() {\n'
+                        '+        return Integer.valueOf(id).hashCode();\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Hash code of two equals objects must '
+                        'equal\n'
+                        '+     * \n'
+                        '+     * @param obj\n'
+                        '+     *            the other object\n'
+                        '+     * @return True if two objects are equal.\n'
+                        '+     *         <p>\n'
+                        '+     *         False otherwise.\n'
+                        '+     *         </p>\n'
+                        '+     */\n'
+                        '+    @Override\n'
+                        '+    public boolean equals(Object obj) {\n'
+                        '+        if (this == obj)\n'
+                        '+            return true;\n'
+                        '+        if (obj == null)\n'
+                        '+            return false;\n'
+                        '+        if (getClass() != obj.getClass())\n'
+                        '+            return false;\n'
+                        '+        Topic other = (Topic) obj;\n'
+                        '+        if (id != other.id)\n'
+                        '+            return false;\n'
+                        '+        if (name == null) {\n'
+                        '+            if (other.name != null)\n'
+                        '+                return false;\n'
+                        '+        } else if (!name.equals(other.name))\n'
+                        '+            return false;\n'
+                        '+        if (outDegree != other.outDegree)\n'
+                        '+            return false;\n'
+                        '+        if (Double.doubleToLongBits(score) != '
+                        'Double\n'
+                        '+            .doubleToLongBits(other.score))\n'
+                        '+            return false;\n'
+                        '+        if (!Arrays.equals(topicData, '
+                        'other.topicData))\n'
+                        '+            return false;\n'
+                        '+        return true;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Deserialize the fields of this object '
+                        'from input.\n'
+                        '+     * <p/>\n'
+                        '+     * For efficiency, implementations should '
+                        'attempt to re-use storage in the\n'
+                        '+     * existing object where possible.\n'
+                        '+     * \n'
+                        '+     * @param input\n'
+                        '+     *            DataInput to deserialize this '
+                        'object from.\n'
+                        '+     * @throws IOException\n'
+                        '+     */\n'
+                        '+    public void readFields(DataInput input) '
+                        'throws IOException {\n'
+                        '+        BytesWritable bytesWritable = new '
+                        'BytesWritable();\n'
+                        '+        bytesWritable.readFields(input);\n'
+                        '+        '
+                        'copyFrom(Topic.fromBytesWritable(bytesWritable));\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Serialize the fields of this object to '
+                        'output.\n'
+                        '+     * \n'
+                        '+     * @param output\n'
+                        '+     *            DataOutput to serialize this '
+                        'object into.\n'
+                        '+     * @throws IOException\n'
+                        '+     */\n'
+                        '+    public void write(DataOutput output) throws '
+                        'IOException {\n'
+                        '+        BytesWritable bytesWritable = new '
+                        'BytesWritable(toByteArray());\n'
+                        '+        bytesWritable.write(output);\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Comparing two Topic objects is the same '
+                        'as comparing two topicIds.\n'
+                        '+     * \n'
+                        '+     * @param right\n'
+                        '+     *            Node object to be compared '
+                        'to.\n'
+                        '+     * @return a negative integer, zero, or a '
+                        'positive integer as this object is\n'
+                        '+     *         less than, equal to, or greater '
+                        'than the specified object.\n'
+                        '+     */\n'
+                        '+    public int compareTo(Topic right) {\n'
+                        '+        return Ints.compare(this.id, right.id);\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Return a json string of this instance.\n'
+                        '+     */\n'
+                        '+    @Override\n'
+                        '+    public String toString() {\n'
+                        '+        Gson gson = new Gson();\n'
+                        '+        return gson.toJson(this);\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Topic score comparator.\n'
+                        '+     */\n'
+                        '+    public static class ScoreComparator '
+                        'implements Comparator<Topic> {\n'
+                        '+        @Override\n'
+                        '+        public int compare(Topic t1, Topic t2) '
+                        '{\n'
+                        '+            return '
+                        'Doubles.compare(t1.getScore(), t2.getScore());\n'
+                        '+        }\n'
+                        '+    }\n'
+                        '+}',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/java/titan/entity/socialgraph/Topic.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'added'},
+             { 'additions': 101,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/java/titan/entity/socialgraph/TopicList.java',
+               'changes': 101,
+               'deletions': 0,
+               'filename': 'entity/src/main/java/titan/entity/socialgraph/TopicList.java',
+               'patch': '@@ -0,0 +1,101 @@\n'
+                        '+package titan.entity.socialgraph;\n'
+                        '+\n'
+                        '+import java.io.DataInput;\n'
+                        '+import java.io.DataOutput;\n'
+                        '+import java.io.IOException;\n'
+                        '+import java.util.List;\n'
+                        '+\n'
+                        '+import org.apache.hadoop.io.BytesWritable;\n'
+                        '+import org.apache.hadoop.io.Writable;\n'
+                        '+\n'
+                        '+import '
+                        'titan.entity.socialgraph.protobuf.SocialGraph;\n'
+                        '+\n'
+                        '+import com.google.common.base.Function;\n'
+                        '+import com.google.common.collect.Lists;\n'
+                        '+import com.google.protobuf.CodedInputStream;\n'
+                        '+import '
+                        'com.google.protobuf.InvalidProtocolBufferException;\n'
+                        '+\n'
+                        '+/**\n'
+                        '+ * A Writable List of Topics.\n'
+                        '+ */\n'
+                        '+public class TopicList implements Writable {\n'
+                        '+    private List<Topic> topics = '
+                        'Lists.newArrayList();\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Add a topic into the topic list.\n'
+                        '+     * \n'
+                        '+     * @param topic\n'
+                        '+     *            topic to be added.\n'
+                        '+     */\n'
+                        '+    public void add(Topic topic) {\n'
+                        '+        topics.add(topic);\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    /**\n'
+                        '+     * Get the list of topics.\n'
+                        '+     * \n'
+                        '+     * @return list of topics.\n'
+                        '+     */\n'
+                        '+    public List<Topic> getTopicList() {\n'
+                        '+        return topics;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    public List<String> getTopicNames() {\n'
+                        '+        return Lists.transform(topics, new '
+                        'Function<Topic, String>() {\n'
+                        '+            @Override\n'
+                        '+            public String apply(Topic t) {\n'
+                        '+                return t.getName();\n'
+                        '+            }\n'
+                        '+        });\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    public static TopicList '
+                        'fromProtocolBuffer(SocialGraph.Topics data) {\n'
+                        '+        TopicList topics = new TopicList();\n'
+                        '+        for (SocialGraph.Topic t : '
+                        'data.getTopicList())\n'
+                        '+            '
+                        'topics.add(Topic.fromProtocolBuffer(t));\n'
+                        '+        return topics;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    public SocialGraph.Topics toProtocolBuffer() '
+                        '{\n'
+                        '+        SocialGraph.Topics.Builder builder = '
+                        'SocialGraph.Topics.newBuilder();\n'
+                        '+        for (Topic t : topics)\n'
+                        '+            '
+                        'builder.addTopic(t.toProtocolBuffer());\n'
+                        '+        return builder.build();\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    private static TopicList '
+                        'fromBytesWritable(BytesWritable data)\n'
+                        '+            throws IOException {\n'
+                        '+        CodedInputStream ins = '
+                        'CodedInputStream.newInstance(\n'
+                        '+            data.getBytes(), 0, '
+                        'data.getLength());\n'
+                        '+        SocialGraph.Topics topics = '
+                        'SocialGraph.Topics.parseFrom(ins);\n'
+                        '+        TopicList topicList = new TopicList();\n'
+                        '+        for (SocialGraph.Topic t : '
+                        'topics.getTopicList())\n'
+                        '+            '
+                        'topicList.add(Topic.fromProtocolBuffer(t));\n'
+                        '+        return topicList;\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    public static TopicList fromByteArray(byte[] '
+                        'data)\n'
+                        '+            throws '
+                        'InvalidProtocolBufferException {\n'
+                        '+        return '
+                        'fromProtocolBuffer(SocialGraph.Topics.parseFrom(data));\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    public byte[] toByteArray() {\n'
+                        '+        return '
+                        'toProtocolBuffer().toByteArray();\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    @Override\n'
+                        '+    public void readFields(DataInput input) '
+                        'throws IOException {\n'
+                        '+        BytesWritable bytesWritable = new '
+                        'BytesWritable();\n'
+                        '+        bytesWritable.readFields(input);\n'
+                        '+        TopicList srcTopics = '
+                        'fromBytesWritable(bytesWritable);\n'
+                        '+        topics = Lists.newArrayList();\n'
+                        '+        for (Topic t : '
+                        'srcTopics.getTopicList())\n'
+                        '+            topics.add(t);\n'
+                        '+    }\n'
+                        '+\n'
+                        '+    @Override\n'
+                        '+    public void write(DataOutput output) throws '
+                        'IOException {\n'
+                        '+        BytesWritable bytesWritable = new '
+                        'BytesWritable(toByteArray());\n'
+                        '+        bytesWritable.write(output);\n'
+                        '+    }\n'
+                        '+}',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/java/titan/entity/socialgraph/TopicList.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'added'},
+             { 'additions': 0,
+               'blob_url': 'https://github.com/nampham/Titan/blob/da0ca1ae8641c1aee9939d59aceb5ea3ec5b608d/entity/src/main/java/titan/entity/socialgraph/Topics.java',
+               'changes': 194,
+               'deletions': 194,
+               'filename': 'entity/src/main/java/titan/entity/socialgraph/Topics.java',
+               'patch': '@@ -1,194 +0,0 @@\n'
+                        '-package titan.entity.socialgraph;\n'
+                        '-\n'
+                        '-import java.io.DataInput;\n'
+                        '-import java.io.DataOutput;\n'
+                        '-import java.io.IOException;\n'
+                        '-import java.util.Collection;\n'
+                        '-import java.util.Set;\n'
+                        '-\n'
+                        '-import org.apache.hadoop.io.BytesWritable;\n'
+                        '-import org.apache.hadoop.io.Writable;\n'
+                        '-\n'
+                        '-import '
+                        'titan.entity.socialgraph.protobuf.SocialGraph;\n'
+                        '-\n'
+                        '-import com.google.common.collect.Sets;\n'
+                        '-import com.google.gson.Gson;\n'
+                        '-import com.google.protobuf.CodedInputStream;\n'
+                        '-import '
+                        'com.google.protobuf.InvalidProtocolBufferException;\n'
+                        '-\n'
+                        '-/**\n'
+                        '- * This class maintains a list of topic names. '
+                        'It supports serialization and\n'
+                        '- * deserialization of the underlying data.\n'
+                        '- * \n'
+                        '- */\n'
+                        '-public class Topics implements Writable {\n'
+                        '-    private Set<String> topicList = '
+                        'Sets.newHashSet();\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Add a topic into the list of topics.\n'
+                        '-     * \n'
+                        '-     * @param topic\n'
+                        '-     *            topic to be added.\n'
+                        '-     * \n'
+                        '-     */\n'
+                        '-    public void add(String topic) {\n'
+                        '-        topicList.add(topic);\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Add multiples topics into the list of '
+                        'topics.\n'
+                        '-     * \n'
+                        '-     * @param topics\n'
+                        '-     *            list of topics to be added.\n'
+                        '-     * \n'
+                        '-     */\n'
+                        '-    public void add(Collection<String> topics) '
+                        '{\n'
+                        '-        topicList.addAll(topics);\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Get the number of topics in the topic '
+                        'list.\n'
+                        '-     * \n'
+                        '-     * @return number of topics.\n'
+                        '-     */\n'
+                        '-    public int size() {\n'
+                        '-        return topicList.size();\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Get the whole list of topics. Any '
+                        'modification to this list will be\n'
+                        '-     * reflected into the instance.\n'
+                        '-     * \n'
+                        '-     * @return list of topics.\n'
+                        '-     */\n'
+                        '-    public Set<String> get() {\n'
+                        '-        return topicList;\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Check if the topics contain a given '
+                        'topic.\n'
+                        '-     * \n'
+                        '-     * @param topic\n'
+                        '-     *            topic to be checked.\n'
+                        '-     * \n'
+                        '-     * @return true if the list contain the '
+                        'topic, false otherwise.\n'
+                        '-     */\n'
+                        '-    public boolean hasTopic(String topic) {\n'
+                        '-        return topicList.contains(topic);\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Remove an topic from the list.\n'
+                        '-     * \n'
+                        '-     * @param topic\n'
+                        '-     *            topic to be removed.\n'
+                        '-     */\n'
+                        '-    public void remove(String topic) {\n'
+                        '-        topicList.remove(topic);\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Remove a list of topics.\n'
+                        '-     * \n'
+                        '-     * @param topics\n'
+                        '-     *            topics to be removed.\n'
+                        '-     */\n'
+                        '-    public void remove(Collection<String> '
+                        'topics) {\n'
+                        '-        topicList.remove(topics);\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Deserialize the data from the protocol '
+                        'buffer format.\n'
+                        '-     * \n'
+                        '-     * @param data\n'
+                        '-     *            protocol buffer data.\n'
+                        '-     * @return a Topics instance.\n'
+                        '-     */\n'
+                        '-    private static Topics '
+                        'fromProtocolBuffer(SocialGraph.Topics data) {\n'
+                        '-        Topics topics = new Topics();\n'
+                        '-        topics.add(data.getTopicList());\n'
+                        '-        return topics;\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Serialize the data into the protocol '
+                        'buffer format.\n'
+                        '-     * \n'
+                        '-     * @return protocol buffer representation.\n'
+                        '-     */\n'
+                        '-    private SocialGraph.Topics '
+                        'toProtocolBuffer() {\n'
+                        '-        SocialGraph.Topics.Builder builder =\n'
+                        '-            SocialGraph.Topics.newBuilder();\n'
+                        '-        builder.addAllTopic(topicList);\n'
+                        '-        return builder.build();\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Deserialize data from a byte array.\n'
+                        '-     * \n'
+                        '-     * @param data\n'
+                        '-     *            data to be imported from.\n'
+                        '-     * \n'
+                        '-     * @return a Topics instance.\n'
+                        '-     * \n'
+                        '-     * @throws InvalidProtocolBufferException\n'
+                        '-     */\n'
+                        '-    public static Topics fromByteArray(byte[] '
+                        'data)\n'
+                        '-            throws '
+                        'InvalidProtocolBufferException {\n'
+                        '-        return '
+                        'fromProtocolBuffer(SocialGraph.Topics.parseFrom(data));\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Serialize data into a byte array.\n'
+                        '-     * \n'
+                        '-     * @return byte array containing data.\n'
+                        '-     */\n'
+                        '-    public byte[] toByteArray() {\n'
+                        '-        return '
+                        'this.toProtocolBuffer().toByteArray();\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Import data from a BytesWritable.\n'
+                        '-     * \n'
+                        '-     * @param data\n'
+                        '-     *            data to be imported.\n'
+                        '-     * \n'
+                        '-     * @return Topics instance.\n'
+                        '-     * \n'
+                        '-     * @throws IOException\n'
+                        '-     */\n'
+                        '-    public static Topics '
+                        'fromBytesWritable(BytesWritable data)\n'
+                        '-            throws IOException {\n'
+                        '-        CodedInputStream ins = '
+                        'CodedInputStream.newInstance(data.getBytes(), 0,\n'
+                        '-            data.getLength());\n'
+                        '-        return Topics.fromProtocolBuffer(\n'
+                        '-            SocialGraph.Topics.parseFrom(ins));\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    /**\n'
+                        '-     * Serialize data into a BytesWritable.\n'
+                        '-     * \n'
+                        '-     * @return BytesWritable containing the '
+                        'data.\n'
+                        '-     */\n'
+                        '-    public BytesWritable toBytesWritable() {\n'
+                        '-        return new '
+                        'BytesWritable(this.toByteArray());\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    @Override\n'
+                        '-    public void readFields(DataInput in) throws '
+                        'IOException {\n'
+                        '-        BytesWritable data = new '
+                        'BytesWritable();\n'
+                        '-        data.readFields(in);\n'
+                        '-        Topics newTopics = '
+                        'fromBytesWritable(data);\n'
+                        '-        this.topicList = newTopics.get();\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    @Override\n'
+                        '-    public void write(DataOutput out) throws '
+                        'IOException {\n'
+                        '-        this.toBytesWritable().write(out);\n'
+                        '-    }\n'
+                        '-\n'
+                        '-    @Override\n'
+                        '-    public String toString() {\n'
+                        '-        Gson gson = new Gson();\n'
+                        '-        return gson.toJson(this.topicList); \n'
+                        '-    }\n'
+                        '-}',
+               'raw_url': 'https://github.com/nampham/Titan/raw/da0ca1ae8641c1aee9939d59aceb5ea3ec5b608d/entity/src/main/java/titan/entity/socialgraph/Topics.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'removed'},
+             { 'additions': 2215,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/java/titan/entity/socialgraph/protobuf/SocialGraph.java',
+               'changes': 2345,
+               'deletions': 130,
+               'filename': 'entity/src/main/java/titan/entity/socialgraph/protobuf/SocialGraph.java',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/java/titan/entity/socialgraph/protobuf/SocialGraph.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 0,
+               'blob_url': 'https://github.com/nampham/Titan/blob/da0ca1ae8641c1aee9939d59aceb5ea3ec5b608d/entity/src/main/schemas/connections.proto',
+               'changes': 13,
+               'deletions': 13,
+               'filename': 'entity/src/main/schemas/connections.proto',
+               'patch': '@@ -1,13 +0,0 @@\n'
+                        '-package titan.entity.socialgraph ;\n'
+                        '-\n'
+                        '-option java_package = '
+                        '"titan.entity.socialgraph.protobuf";\n'
+                        '-option java_outer_classname = "SocialGraph";\n'
+                        '-option optimize_for = SPEED ;\n'
+                        '-\n'
+                        '-message Connections {\n'
+                        '-    repeated int32 id = 1 [packed = true];\n'
+                        '-}\n'
+                        '-\n'
+                        '-message Topics {\n'
+                        '-\trepeated string topic = 1;\n'
+                        '-}\n'
+                        '\\ No newline at end of file',
+               'raw_url': 'https://github.com/nampham/Titan/raw/da0ca1ae8641c1aee9939d59aceb5ea3ec5b608d/entity/src/main/schemas/connections.proto',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'removed'},
+             { 'additions': 32,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/schemas/socialgraph.proto',
+               'changes': 32,
+               'deletions': 0,
+               'filename': 'entity/src/main/schemas/socialgraph.proto',
+               'patch': '@@ -0,0 +1,32 @@\n'
+                        '+package titan.entity.socialgraph ;\n'
+                        '+\n'
+                        '+option java_package = '
+                        '"titan.entity.socialgraph.protobuf";\n'
+                        '+option java_outer_classname = "SocialGraph";\n'
+                        '+option optimize_for = SPEED;\n'
+                        '+\n'
+                        '+message Connections {\n'
+                        '+    repeated int32 id = 1 [packed = true];\n'
+                        '+}\n'
+                        '+\n'
+                        '+message Topic {\n'
+                        '+\toptional int32 id = 1;\n'
+                        '+\toptional string name = 2;\n'
+                        '+\toptional double score = 3;\n'
+                        '+    optional int32 out_degree = 4;\n'
+                        '+    optional bytes topic_data = 5;\n'
+                        '+}\n'
+                        '+\n'
+                        '+message Topics {\n'
+                        '+\trepeated Topic topic = 1;\n'
+                        '+}\n'
+                        '+\n'
+                        '+message Node {\n'
+                        '+    required int32 node_id = 1;\n'
+                        '+    repeated Topic topic = 2;\n'
+                        '+    optional bytes node_data = 3;\n'
+                        '+}\n'
+                        '+\n'
+                        '+message Vertex {\n'
+                        '+    optional Node data = 1;\n'
+                        '+    repeated Node friend = 2;\n'
+                        '+}\n'
+                        '\\ No newline at end of file',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/entity/src/main/schemas/socialgraph.proto',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'added'},
+             { 'additions': 13,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/experiments/data/TopicFeatures/blacklist.manual.txt',
+               'changes': 13,
+               'deletions': 0,
+               'filename': 'experiments/data/TopicFeatures/blacklist.manual.txt',
+               'patch': '@@ -393,3 +393,16 @@ san francisco 49ers\n'
+                        '  musica\n'
+                        '  medicina\n'
+                        '  educational\n'
+                        '+ blank\n'
+                        '+ leven\n'
+                        '+ koffie\n'
+                        '+ titel\n'
+                        '+ muziek\n'
+                        '+ breathe\n'
+                        '+ makers\n'
+                        '+ senior\n'
+                        '+ gordo\n'
+                        '+ maker\n'
+                        '+ hanging\n'
+                        '+ york\n'
+                        '+ 14 up in america',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/experiments/data/TopicFeatures/blacklist.manual.txt',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 4,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/experiments/data/TopicFeatures/goodtopics.txt',
+               'changes': 18,
+               'deletions': 14,
+               'filename': 'experiments/data/TopicFeatures/goodtopics.txt',
+               'patch': '@@ -118,7 +118,6 @@ comedy\n'
+                        ' francisco\n'
+                        ' brand\n'
+                        ' development\n'
+                        '-senior\n'
+                        ' games\n'
+                        ' dreams\n'
+                        ' video\n'
+                        '@@ -204,7 +203,6 @@ bieber\n'
+                        ' fake\n'
+                        ' sin\n'
+                        ' australian\n'
+                        '-york\n'
+                        ' quotes\n'
+                        ' cars\n'
+                        ' historic\n'
+                        '@@ -376,7 +374,6 @@ servant\n'
+                        ' theatre\n'
+                        ' motor\n'
+                        ' case\n'
+                        '-muziek\n'
+                        ' las vegas\n'
+                        ' stand up\n'
+                        ' tea\n'
+                        '@@ -715,7 +712,6 @@ elf\n'
+                        ' russian\n'
+                        ' analysis\n'
+                        ' tokyo\n'
+                        '-maker\n'
+                        ' cross\n'
+                        ' teachers\n'
+                        ' nottingham\n'
+                        '@@ -950,7 +946,6 @@ knitting\n'
+                        ' summit\n'
+                        ' car\n'
+                        ' geld\n'
+                        '-hanging\n'
+                        ' rain\n'
+                        ' dean\n'
+                        ' automotive\n'
+                        '@@ -1020,7 +1015,6 @@ brings\n'
+                        ' ashley\n'
+                        ' twist\n'
+                        ' character\n'
+                        '-leven\n'
+                        ' new york jets\n'
+                        ' smart\n'
+                        ' drupal\n'
+                        '@@ -1991,7 +1985,6 @@ nikki\n'
+                        ' madison\n'
+                        ' vodka\n'
+                        ' destiny\n'
+                        '-breathe\n'
+                        ' clothes\n'
+                        ' carlisle\n'
+                        ' sugar\n'
+                        '@@ -2751,7 +2744,6 @@ repair\n'
+                        ' geo\n'
+                        ' dirt\n'
+                        ' codes\n'
+                        '-seniors\n'
+                        ' directing\n'
+                        ' diagnostic\n'
+                        ' promotion\n'
+                        '@@ -3458,8 +3450,6 @@ mutt\n'
+                        ' medien\n'
+                        ' mac os\n'
+                        ' haarlem\n'
+                        '-blank\n'
+                        '-14 up in america\n'
+                        ' saudi arabia\n'
+                        ' ribbon\n'
+                        ' posting\n'
+                        '@@ -4352,7 +4342,6 @@ connecticut\n'
+                        ' claim\n'
+                        ' sevilla\n'
+                        ' minnesota twins\n'
+                        '-makers\n'
+                        ' drummers\n'
+                        ' artificial\n'
+                        ' qatar\n'
+                        '@@ -4898,7 +4887,6 @@ lunar\n'
+                        ' klein\n'
+                        ' hofstra\n'
+                        ' affiliates\n'
+                        '-titel\n'
+                        ' surry\n'
+                        ' signals\n'
+                        ' pheasant\n'
+                        '@@ -6213,7 +6201,6 @@ mckinney\n'
+                        ' mckinley\n'
+                        ' macbeth\n'
+                        ' indiana pacers\n'
+                        '-gordo\n'
+                        ' galleries\n'
+                        ' east carolina\n'
+                        ' cosgrove\n'
+                        '@@ -7057,7 +7044,6 @@ peel\n'
+                        ' online media\n'
+                        ' messiah\n'
+                        ' makanan\n'
+                        '-koffie\n'
+                        ' jerusalem\n'
+                        ' el camino\n'
+                        ' eden\n'
+                        '@@ -7724,3 +7710,7 @@ professor\n'
+                        ' buildings\n'
+                        ' husband\n'
+                        ' triathlete\n'
+                        '+co-founder\n'
+                        '+seo\n'
+                        '+founder\n'
+                        '+cyclist',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/experiments/data/TopicFeatures/goodtopics.txt',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 5,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/mapred/src/main/java/titan/mapred/atlas/features/TopicTagger.java',
+               'changes': 8,
+               'deletions': 3,
+               'filename': 'mapred/src/main/java/titan/mapred/atlas/features/TopicTagger.java',
+               'patch': '@@ -27,7 +27,8 @@\n'
+                        ' import titan.commons.trie.Trie;\n'
+                        ' import titan.commons.trie.TrieFactory;\n'
+                        ' import titan.dao.TwitterProfileDaoHBase;\n'
+                        '-import titan.entity.socialgraph.Topics;\n'
+                        '+import titan.entity.socialgraph.Topic;\n'
+                        '+import titan.entity.socialgraph.TopicList;\n'
+                        ' import '
+                        'titan.mapred.util.Annotations.WriteJobXML;\n'
+                        ' import titan.mapred.util.WriteJobXMLModule;\n'
+                        ' \n'
+                        '@@ -84,8 +85,9 @@ protected void '
+                        'map(ImmutableBytesWritable key, Result r,\n'
+                        '             String description = '
+                        'dao.getDescription(id, profileTable);\n'
+                        '             Set<String> topics = '
+                        'MirrorMeCommons.getTopicNames(description,\n'
+                        '                 trie);\n'
+                        '-            Topics topicList = new Topics();\n'
+                        '-            topicList.add(topics);\n'
+                        '+            TopicList topicList = new '
+                        'TopicList();\n'
+                        '+            for (String t : topics)\n'
+                        '+                '
+                        'topicList.add(Topic.newTopic(t));\n'
+                        ' \n'
+                        '             Put put = new Put(key.get());\n'
+                        '             put.add(',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/mapred/src/main/java/titan/mapred/atlas/features/TopicTagger.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'},
+             { 'additions': 3,
+               'blob_url': 'https://github.com/nampham/Titan/blob/2c1b5e31e76ce5329375e6346a61028b79bc5249/util/src/main/java/titan/util/profile/ShowProfile.java',
+               'changes': 6,
+               'deletions': 3,
+               'filename': 'util/src/main/java/titan/util/profile/ShowProfile.java',
+               'patch': '@@ -16,7 +16,7 @@\n'
+                        ' import '
+                        'titan.dao.impl.TwitterProfileDaoImpl.TwitterProfileStorage;\n'
+                        ' import titan.entity.dao.TwitterProfile;\n'
+                        ' import titan.entity.socialgraph.Connections;\n'
+                        '-import titan.entity.socialgraph.Topics;\n'
+                        '+import titan.entity.socialgraph.TopicList;\n'
+                        ' \n'
+                        ' import com.google.inject.Guice;\n'
+                        ' import com.google.inject.Injector;\n'
+                        '@@ -34,7 +34,7 @@ private void show(int '
+                        'twitterId, String screenName) throws IOException '
+                        '{\n'
+                        '         GraphDao graphDaoS3 = '
+                        'DaoUtil.getGraphDao(STORAGE.S3);\n'
+                        ' \n'
+                        '         TwitterProfile profile = '
+                        'dao.get(twitterId);\n'
+                        '-        Topics originalTopics = '
+                        'graphDao.getOriginalTopics(twitterId);\n'
+                        '+        TopicList originalTopics = '
+                        'graphDao.getOriginalTopics(twitterId);\n'
+                        '         String lang = '
+                        'graphDao.getLanguage(twitterId);\n'
+                        ' \n'
+                        '         if (profile == null) {\n'
+                        '@@ -53,7 +53,7 @@ private void show(int '
+                        'twitterId, String screenName) throws IOException '
+                        '{\n'
+                        '         System.out.println("Listed count: " + '
+                        'profile.getListedCount());\n'
+                        '         System.out.println("Statuses count: " + '
+                        'profile.getStatusesCount());\n'
+                        '         System.out.println("Connected: " + '
+                        'profile.getConnected());\n'
+                        '-        System.out.println("Original topics: " + '
+                        'originalTopics.toString());\n'
+                        '+        System.out.println("Original topics: " + '
+                        'originalTopics.getTopicNames());\n'
+                        '         System.out.println("Language: " + '
+                        'lang);\n'
+                        ' \n'
+                        '         Connections[] ff = '
+                        'graphDaoS3.getFriendsFollowers(twitterId);',
+               'raw_url': 'https://github.com/nampham/Titan/raw/2c1b5e31e76ce5329375e6346a61028b79bc5249/util/src/main/java/titan/util/profile/ShowProfile.java',
+               'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+               'status': 'modified'}],
+  'parents': [ { 'sha': 'da0ca1ae8641c1aee9939d59aceb5ea3ec5b608d',
+                 'url': 'https://api.github.com/repos/nampham/Titan/commits/da0ca1ae8641c1aee9939d59aceb5ea3ec5b608d'}],
+  'sha': '2c1b5e31e76ce5329375e6346a61028b79bc5249',
+  'stats': {'additions': 2844, 'deletions': 364, 'total': 3208},
+  'url': 'https://api.github.com/repos/nampham/Titan/commits/2c1b5e31e76ce5329375e6346a61028b79bc5249'}
+{ '_id': ObjectId('4fc6986076d2ba10ee00588c'),
+  'author': { 'avatar_url': 'https://secure.gravatar.com/avatar/17aa28f838957d9eee06a414e3a5ecbf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+              'gravatar_id': '17aa28f838957d9eee06a414e3a5ecbf',
+              'id': 203745,
+              'login': 'opichon',
+              'url': 'https://api.github.com/users/opichon'},
+  'commit': { 'author': { 'date': '2012-02-16T07:44:45-08:00',
+                          'email': 'op@united-asian.com',
+                          'name': 'Olivier'},
+              'committer': { 'date': '2012-02-16T07:44:45-08:00',
+                             'email': 'op@united-asian.com',
+                             'name': 'Olivier'},
+              'message': 'fixed minor bugs',
+              'tree': { 'sha': 'abae22a53f3ffb9b24da9b3d363b8537db0b6306',
+                        'url': 'https://api.github.com/repos/opichon/autotabs/git/trees/abae22a53f3ffb9b24da9b3d363b8537db0b6306'},
+              'url': 'https://api.github.com/repos/opichon/autotabs/git/commits/6f49a5749764ffbbb582388c9fd7e293172129b9'},
+  'committer': { 'avatar_url': 'https://secure.gravatar.com/avatar/17aa28f838957d9eee06a414e3a5ecbf?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                 'gravatar_id': '17aa28f838957d9eee06a414e3a5ecbf',
+                 'id': 203745,
+                 'login': 'opichon',
+                 'url': 'https://api.github.com/users/opichon'},
+  'files': [ { 'additions': 1,
+               'blob_url': 'https://github.com/opichon/autotabs/blob/6f49a5749764ffbbb582388c9fd7e293172129b9/jquery.autotabs.js',
+               'changes': 2,
+               'deletions': 1,
+               'filename': 'jquery.autotabs.js',
+               'patch': '@@ -102,7 +102,7 @@\n'
+                        '       return methods.init.apply(this, '
+                        'arguments);\n'
+                        '     } \n'
+                        '     else {\n'
+                        "-      $.error('Method ' +  method + ' does not "
+                        "exist on jQuery.editInline');\n"
+                        "+      $.error('Method ' +  method + ' does not "
+                        "exist in jQuery.autotabs');\n"
+                        '     }\n'
+                        '   };\n'
+                        '   ',
+               'raw_url': 'https://github.com/opichon/autotabs/raw/6f49a5749764ffbbb582388c9fd7e293172129b9/jquery.autotabs.js',
+               'sha': '6f49a5749764ffbbb582388c9fd7e293172129b9',
+               'status': 'modified'}],
+  'parents': [ { 'sha': 'b5b29bb7f37026b830df497cf8c8d495f6c60c8e',
+                 'url': 'https://api.github.com/repos/opichon/autotabs/commits/b5b29bb7f37026b830df497cf8c8d495f6c60c8e'}],
+  'sha': '6f49a5749764ffbbb582388c9fd7e293172129b9',
+  'stats': {'additions': 1, 'deletions': 1, 'total': 2},
+  'url': 'https://api.github.com/repos/opichon/autotabs/commits/6f49a5749764ffbbb582388c9fd7e293172129b9'}
+events
+**************************{ '_id': ObjectId('4fc6986432c9b426ae004bcc'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/dcbc5b319874a27aa8a011cd5e30d66a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': 'dcbc5b319874a27aa8a011cd5e30d66a',
+             'id': 978263,
+             'login': 'SuperSpyTX',
+             'url': 'https://api.github.com/users/SuperSpyTX'},
+  'created_at': '2012-05-30T22:00:03Z',
+  'id': '1557447843',
+  'payload': { 'action': 'created',
+               'comment': { 'body': "I'll need more details for this to be "
+                                    'confirmed.\n'
+                                    '\n'
+                                    'Multiverse Portals work completely '
+                                    'fine.',
+                            'created_at': '2012-05-30T22:00:03Z',
+                            'id': 6022791,
+                            'updated_at': '2012-05-30T22:00:03Z',
+                            'url': 'https://api.github.com/repos/h31ix/AntiCheat/issues/comments/6022791',
+                            'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/dcbc5b319874a27aa8a011cd5e30d66a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                      'gravatar_id': 'dcbc5b319874a27aa8a011cd5e30d66a',
+                                      'id': 978263,
+                                      'login': 'SuperSpyTX',
+                                      'url': 'https://api.github.com/users/SuperSpyTX'}},
+               'issue': { 'assignee': None,
+                          'body': 'AC Build 129.\n'
+                                  '\n'
+                                  'When a player uses a multiverse portal, '
+                                  'it logs a warning:\n'
+                                  '\n'
+                                  '[WARNING] [AC] xxxxxxx tried to fly on '
+                                  'y-axis\n'
+                                  '\n'
+                                  'MV changes their x and z positions, but '
+                                  'their y position stays the same and '
+                                  'they end up above or below the actual '
+                                  'portal, often resulting in player '
+                                  'death.\n'
+                                  '\n'
+                                  'Multiverse-Core 2.4-b525\n'
+                                  'Multiverse-Portals 2.4-b540\n'
+                                  'CraftBukkit build 2149\n'
+                                  ' ',
+                          'closed_at': None,
+                          'comments': 2,
+                          'created_at': '2012-05-30T19:13:15Z',
+                          'html_url': 'https://github.com/h31ix/AntiCheat/issues/16',
+                          'id': 4822396,
+                          'labels': [ { 'color': 'cccccc',
+                                        'name': 'Duplicate',
+                                        'url': 'https://api.github.com/repos/h31ix/AntiCheat/labels/Duplicate'}],
+                          'milestone': None,
+                          'number': 16,
+                          'pull_request': { 'diff_url': None,
+                                            'html_url': None,
+                                            'patch_url': None},
+                          'state': 'open',
+                          'title': 'AC prevents y-axis change when using a '
+                                   'MultiVerse portal ',
+                          'updated_at': '2012-05-30T22:00:03Z',
+                          'url': 'https://api.github.com/repos/h31ix/AntiCheat/issues/16',
+                          'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf9ee241d767b80b495a202227f0bad4?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                    'gravatar_id': 'bf9ee241d767b80b495a202227f0bad4',
+                                    'id': 1280391,
+                                    'login': 'ZathrasNotTheOne',
+                                    'url': 'https://api.github.com/users/ZathrasNotTheOne'}}},
+  'public': True,
+  'repo': { 'id': 4033283,
+            'name': 'h31ix/AntiCheat',
+            'url': 'https://api.github.com/repos/h31ix/AntiCheat'},
+  'type': 'IssueCommentEvent'}
+{ '_id': ObjectId('4fc69864ed7c50227c000079'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/5a4d6e09dc3d87ab8dd61b96e279e652?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': '5a4d6e09dc3d87ab8dd61b96e279e652',
+             'id': 1591011,
+             'login': 'dottedt',
+             'url': 'https://api.github.com/users/dottedt'},
+  'created_at': '2012-05-30T22:00:03Z',
+  'id': '1557447840',
+  'payload': { 'commits': [ { 'author': { 'email': 'scott@dottedt.com',
+                                          'name': 'Scott C. Hughes'},
+                              'distinct': True,
+                              'message': 'Created Person model',
+                              'sha': '66c49a5efa8090cdc961650d238c57eb8368e8aa',
+                              'url': 'https://api.github.com/repos/JennDudley/aya/commits/66c49a5efa8090cdc961650d238c57eb8368e8aa'}],
+               'head': '66c49a5efa8090cdc961650d238c57eb8368e8aa',
+               'push_id': 81421444,
+               'ref': 'refs/heads/master',
+               'size': 1},
+  'public': True,
+  'repo': { 'id': 4488314,
+            'name': 'JennDudley/aya',
+            'url': 'https://api.github.com/repos/JennDudley/aya'},
+  'type': 'PushEvent'}
+{ '_id': ObjectId('4fc69864ed7c50227c00007a'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/d3ad832c1b522c85b7c1bba5cadf324d?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': 'd3ad832c1b522c85b7c1bba5cadf324d',
+             'id': 1091687,
+             'login': 'luis-villase',
+             'url': 'https://api.github.com/users/luis-villase'},
+  'created_at': '2012-05-30T22:00:02Z',
+  'id': '1557447837',
+  'payload': { 'commits': [ { 'author': { 'email': 'luis.villase@gmail.com',
+                                          'name': 'Luis Villasenor'},
+                              'distinct': True,
+                              'message': 'Small and medium changes to '
+                                         'support PostgreSQL and other '
+                                         "App server that's not Weblogic",
+                              'sha': '67c0f058a1fa07d77349f47d3831629a34dd30ab',
+                              'url': 'https://api.github.com/repos/luis-villase/NQLINQ/commits/67c0f058a1fa07d77349f47d3831629a34dd30ab'}],
+               'head': '67c0f058a1fa07d77349f47d3831629a34dd30ab',
+               'push_id': 81421438,
+               'ref': 'refs/heads/master',
+               'size': 1},
+  'public': True,
+  'repo': { 'id': 3310721,
+            'name': 'luis-villase/NQLINQ',
+            'url': 'https://api.github.com/repos/luis-villase/NQLINQ'},
+  'type': 'PushEvent'}
+{ '_id': ObjectId('50aceddfe89229509a1b6a29'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/86a8b15eac37b0ed046eeb3d84f6fe58?d=%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+             'gravatar_id': '86a8b15eac37b0ed046eeb3d84f6fe58',
+             'id': 619678,
+             'login': 'bde',
+             'url': 'https://api.github.com/users/bde'},
+  'created_at': '2012-02-27T21:42:24Z',
+  'id': '1524127404',
+  'payload': {'action': 'started'},
+  'public': True,
+  'repo': { 'id': 943149,
+            'name': 'mbostock/d3',
+            'url': 'https://api.github.com/repos/mbostock/d3'},
+  'type': 'WatchEvent'}
+{ '_id': ObjectId('4fc69864ed7c50227c00007b'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/514a514108e2319cb0fb1f8c19abeaeb?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': '514a514108e2319cb0fb1f8c19abeaeb',
+             'id': 192323,
+             'login': 'marek-saji',
+             'url': 'https://api.github.com/users/marek-saji'},
+  'created_at': '2012-05-30T22:00:00Z',
+  'id': '1557447825',
+  'payload': { 'commits': [ { 'author': { 'email': 'saji-san@o2.pl',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'properly format INSALL.md',
+                              'sha': '196b934c99cf17b9a861d3f76b6ebfb66daee040',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/196b934c99cf17b9a861d3f76b6ebfb66daee040'},
+                            { 'author': { 'email': 'saji-san@o2.pl',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'add apache requirement',
+                              'sha': '99df97b6289d5a2480d1abde3ebc0a5c94e4c2e8',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/99df97b6289d5a2480d1abde3ebc0a5c94e4c2e8'},
+                            { 'author': { 'email': 'saji-san@o2.pl',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'tweak INSTALL.md',
+                              'sha': 'e1889bc7c32b1dd35eedd097922bfab6611eb175',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/e1889bc7c32b1dd35eedd097922bfab6611eb175'},
+                            { 'author': { 'email': 'm.augustynowicz@holonglobe.com',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'group list styles',
+                              'sha': '56bd0066b20645336ac7daeea4ac72363edba05a',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/56bd0066b20645336ac7daeea4ac72363edba05a'},
+                            { 'author': { 'email': 'm.augustynowicz@holonglobe.com',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'update nyopaste definition',
+                              'sha': 'c89a2d73ad4ceddefd071da0cc10d85324ff0d77',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/c89a2d73ad4ceddefd071da0cc10d85324ff0d77'},
+                            { 'author': { 'email': 'm.augustynowicz@holonglobe.com',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'add prod to elseworlds and '
+                                         'icons to tools',
+                              'sha': 'daa39d0aca7cf10b96bbb4c6bc5ecd6e961aab69',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/daa39d0aca7cf10b96bbb4c6bc5ecd6e961aab69'},
+                            { 'author': { 'email': 'm.augustynowicz@holonglobe.com',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'fixup. use paste_type defauls '
+                                         'were used only when creating '
+                                         'new version',
+                              'sha': '92fbfe0fe1e5a8e285e2d1d686d75e65abf41017',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/92fbfe0fe1e5a8e285e2d1d686d75e65abf41017'},
+                            { 'author': { 'email': 'm.augustynowicz@holonglobe.com',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': 'by default, wrap plain pastes '
+                                         'at 80 character',
+                              'sha': '3a2f13c73c32902afbc541231bb6cb01f44fdcd6',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/3a2f13c73c32902afbc541231bb6cb01f44fdcd6'},
+                            { 'author': { 'email': 'm.augustynowicz@holonglobe.com',
+                                          'name': 'Marek Augustynowicz'},
+                              'distinct': True,
+                              'message': "Merge branch 'master' of "
+                                         'github.com:marek-saji/nyopaste',
+                              'sha': 'b923eff68fa3ff9193c2069658fc8925608f5d8a',
+                              'url': 'https://api.github.com/repos/marek-saji/nyopaste/commits/b923eff68fa3ff9193c2069658fc8925608f5d8a'}],
+               'head': 'b923eff68fa3ff9193c2069658fc8925608f5d8a',
+               'push_id': 81421437,
+               'ref': 'refs/heads/master',
+               'size': 9},
+  'public': True,
+  'repo': { 'id': 657069,
+            'name': 'marek-saji/nyopaste',
+            'url': 'https://api.github.com/repos/marek-saji/nyopaste'},
+  'type': 'PushEvent'}
+followers
+**************************{ '_id': ObjectId('4ffeb82957b3e217b800000c'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/7490b4e3e9cb85a1f7dc0c8ea01a86e5?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'follows': 'sharyanto',
+  'gravatar_id': '7490b4e3e9cb85a1f7dc0c8ea01a86e5',
+  'id': 50894,
+  'login': 'c9s',
+  'url': 'https://api.github.com/users/c9s'}
+{ '_id': ObjectId('4ffeb82957b3e217b800000d'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/dc078ac4dbdc06d3e3c0ec0b6801b53d?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'follows': 'sharyanto',
+  'gravatar_id': 'dc078ac4dbdc06d3e3c0ec0b6801b53d',
+  'id': 461397,
+  'login': 'back2arie',
+  'url': 'https://api.github.com/users/back2arie'}
+{ '_id': ObjectId('4ffeb82957b3e217b800000e'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/fb844ffed6c5a2e69638627e3b721308?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'follows': 'sharyanto',
+  'gravatar_id': 'fb844ffed6c5a2e69638627e3b721308',
+  'id': 30298,
+  'login': 'leto',
+  'url': 'https://api.github.com/users/leto'}
+{ '_id': ObjectId('4ffeb82957b3e217b800000f'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/3843ec7861e271e803ea076035d683dd?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'follows': 'sharyanto',
+  'gravatar_id': '3843ec7861e271e803ea076035d683dd',
+  'id': 46288,
+  'login': 'alanhaggai',
+  'url': 'https://api.github.com/users/alanhaggai'}
+{ '_id': ObjectId('4ffeb82957b3e217b8000010'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/f611628c5588f7a0a72c65ec1f94dfb8?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'follows': 'sharyanto',
+  'gravatar_id': 'f611628c5588f7a0a72c65ec1f94dfb8',
+  'id': 83806,
+  'login': 'amiri',
+  'url': 'https://api.github.com/users/amiri'}
+forks
+**************************{ '_id': ObjectId('501938a3edecb550a2000176'),
+  'clone_url': 'https://github.com/vgdagpin/fbconsole.git',
+  'created_at': '2012-08-01T13:21:30Z',
+  'description': 'A micro api client for writing scripts against the '
+                 'Facebook Graph API.',
+  'fork': True,
+  'forks': 0,
+  'forks_count': 0,
+  'full_name': 'vgdagpin/fbconsole',
+  'git_url': 'git://github.com/vgdagpin/fbconsole.git',
+  'has_downloads': True,
+  'has_issues': False,
+  'has_wiki': False,
+  'homepage': None,
+  'html_url': 'https://github.com/vgdagpin/fbconsole',
+  'id': 5259465,
+  'language': 'Python',
+  'mirror_url': None,
+  'name': 'fbconsole',
+  'open_issues': 0,
+  'open_issues_count': 0,
+  'owner': 'facebook',
+  'private': False,
+  'pushed_at': '2012-03-25T03:54:40Z',
+  'repo': 'fbconsole',
+  'size': 148,
+  'ssh_url': 'git@github.com:vgdagpin/fbconsole.git',
+  'svn_url': 'https://github.com/vgdagpin/fbconsole',
+  'updated_at': '2012-08-01T13:21:32Z',
+  'url': 'https://api.github.com/repos/vgdagpin/fbconsole',
+  'watchers': 1,
+  'watchers_count': 1}
+{ '_id': ObjectId('501938a3edecb550a2000177'),
+  'clone_url': 'https://github.com/martinsykora/fbconsole.git',
+  'created_at': '2012-07-25T17:38:16Z',
+  'description': 'A micro api client for writing scripts against the '
+                 'Facebook Graph API.',
+  'fork': True,
+  'forks': 0,
+  'forks_count': 0,
+  'full_name': 'martinsykora/fbconsole',
+  'git_url': 'git://github.com/martinsykora/fbconsole.git',
+  'has_downloads': True,
+  'has_issues': False,
+  'has_wiki': False,
+  'homepage': None,
+  'html_url': 'https://github.com/martinsykora/fbconsole',
+  'id': 5182318,
+  'language': 'Python',
+  'mirror_url': None,
+  'name': 'fbconsole',
+  'open_issues': 0,
+  'open_issues_count': 0,
+  'owner': 'facebook',
+  'private': False,
+  'pushed_at': '2012-03-25T03:54:40Z',
+  'repo': 'fbconsole',
+  'size': 148,
+  'ssh_url': 'git@github.com:martinsykora/fbconsole.git',
+  'svn_url': 'https://github.com/martinsykora/fbconsole',
+  'updated_at': '2012-07-25T17:38:19Z',
+  'url': 'https://api.github.com/repos/martinsykora/fbconsole',
+  'watchers': 1,
+  'watchers_count': 1}
+{ '_id': ObjectId('501938a3edecb550a2000178'),
+  'clone_url': 'https://github.com/jneight/fbconsole.git',
+  'created_at': '2012-07-11T07:27:13Z',
+  'description': 'A micro api client for writing scripts against the '
+                 'Facebook Graph API.',
+  'fork': True,
+  'forks': 0,
+  'forks_count': 0,
+  'full_name': 'jneight/fbconsole',
+  'git_url': 'git://github.com/jneight/fbconsole.git',
+  'has_downloads': True,
+  'has_issues': False,
+  'has_wiki': False,
+  'homepage': None,
+  'html_url': 'https://github.com/jneight/fbconsole',
+  'id': 4985773,
+  'language': 'Python',
+  'mirror_url': None,
+  'name': 'fbconsole',
+  'open_issues': 0,
+  'open_issues_count': 0,
+  'owner': 'facebook',
+  'private': False,
+  'pushed_at': '2012-03-25T03:54:40Z',
+  'repo': 'fbconsole',
+  'size': 148,
+  'ssh_url': 'git@github.com:jneight/fbconsole.git',
+  'svn_url': 'https://github.com/jneight/fbconsole',
+  'updated_at': '2012-07-11T07:27:14Z',
+  'url': 'https://api.github.com/repos/jneight/fbconsole',
+  'watchers': 1,
+  'watchers_count': 1}
+{ '_id': ObjectId('501938a3edecb550a2000179'),
+  'clone_url': 'https://github.com/teamA3K/fbconsole.git',
+  'created_at': '2012-07-09T07:37:17Z',
+  'description': 'A micro api client for writing scripts against the '
+                 'Facebook Graph API.',
+  'fork': True,
+  'forks': 0,
+  'forks_count': 0,
+  'full_name': 'teamA3K/fbconsole',
+  'git_url': 'git://github.com/teamA3K/fbconsole.git',
+  'has_downloads': True,
+  'has_issues': False,
+  'has_wiki': False,
+  'homepage': None,
+  'html_url': 'https://github.com/teamA3K/fbconsole',
+  'id': 4954203,
+  'language': 'Python',
+  'mirror_url': None,
+  'name': 'fbconsole',
+  'open_issues': 0,
+  'open_issues_count': 0,
+  'owner': 'facebook',
+  'private': False,
+  'pushed_at': '2012-03-25T03:54:40Z',
+  'repo': 'fbconsole',
+  'size': 148,
+  'ssh_url': 'git@github.com:teamA3K/fbconsole.git',
+  'svn_url': 'https://github.com/teamA3K/fbconsole',
+  'updated_at': '2012-07-09T07:37:17Z',
+  'url': 'https://api.github.com/repos/teamA3K/fbconsole',
+  'watchers': 1,
+  'watchers_count': 1}
+{ '_id': ObjectId('501938a3edecb550a200017a'),
+  'clone_url': 'https://github.com/cpi-cecko/fbconsole.git',
+  'created_at': '2012-07-04T06:19:35Z',
+  'description': 'A micro api client for writing scripts against the '
+                 'Facebook Graph API.',
+  'fork': True,
+  'forks': 0,
+  'forks_count': 0,
+  'full_name': 'cpi-cecko/fbconsole',
+  'git_url': 'git://github.com/cpi-cecko/fbconsole.git',
+  'has_downloads': True,
+  'has_issues': False,
+  'has_wiki': False,
+  'homepage': None,
+  'html_url': 'https://github.com/cpi-cecko/fbconsole',
+  'id': 4881219,
+  'language': 'Python',
+  'mirror_url': None,
+  'name': 'fbconsole',
+  'open_issues': 0,
+  'open_issues_count': 0,
+  'owner': 'facebook',
+  'private': False,
+  'pushed_at': '2012-03-25T03:54:40Z',
+  'repo': 'fbconsole',
+  'size': 148,
+  'ssh_url': 'git@github.com:cpi-cecko/fbconsole.git',
+  'svn_url': 'https://github.com/cpi-cecko/fbconsole',
+  'updated_at': '2012-07-04T06:19:36Z',
+  'url': 'https://api.github.com/repos/cpi-cecko/fbconsole',
+  'watchers': 1,
+  'watchers_count': 1}
+issue_comments
+**************************{ '_id': ObjectId('50abae60edecb53c5d001d6b'),
+  'body': 'Fixed by commit fbd3e6f12531e9',
+  'created_at': '2012-11-17T05:28:13Z',
+  'id': 10470848,
+  'issue_id': 41,
+  'owner': 'pertneer',
+  'repo': 'phpBB3-Knowledgebase',
+  'updated_at': '2012-11-17T05:28:13Z',
+  'url': 'https://api.github.com/repos/pertneer/phpBB3-Knowledgebase/issues/comments/10470848',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/485ed7ee7b2d767a2367a7537be910a7?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/pertneer/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/pertneer/followers',
+            'following_url': 'https://api.github.com/users/pertneer/following',
+            'gists_url': 'https://api.github.com/users/pertneer/gists{/gist_id}',
+            'gravatar_id': '485ed7ee7b2d767a2367a7537be910a7',
+            'id': 2450385,
+            'login': 'pertneer',
+            'organizations_url': 'https://api.github.com/users/pertneer/orgs',
+            'received_events_url': 'https://api.github.com/users/pertneer/received_events',
+            'repos_url': 'https://api.github.com/users/pertneer/repos',
+            'starred_url': 'https://api.github.com/users/pertneer/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/pertneer/subscriptions',
+            'url': 'https://api.github.com/users/pertneer'}}
+{ '_id': ObjectId('50abae61edecb53c5000221a'),
+  'body': 'Oops, wrong repo',
+  'created_at': '2012-11-17T05:25:59Z',
+  'id': 10470835,
+  'issue_id': 794,
+  'owner': 'wbond',
+  'repo': 'package_control_channel',
+  'updated_at': '2012-11-17T05:25:59Z',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/comments/10470835',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/28ce45a957e1fcf2ef95ebe73e0534f3?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/aparajita/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/aparajita/followers',
+            'following_url': 'https://api.github.com/users/aparajita/following',
+            'gists_url': 'https://api.github.com/users/aparajita/gists{/gist_id}',
+            'gravatar_id': '28ce45a957e1fcf2ef95ebe73e0534f3',
+            'id': 22218,
+            'login': 'aparajita',
+            'organizations_url': 'https://api.github.com/users/aparajita/orgs',
+            'received_events_url': 'https://api.github.com/users/aparajita/received_events',
+            'repos_url': 'https://api.github.com/users/aparajita/repos',
+            'starred_url': 'https://api.github.com/users/aparajita/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/aparajita/subscriptions',
+            'url': 'https://api.github.com/users/aparajita'}}
+{ '_id': ObjectId('50abae62edecb53c7400236b'),
+  'body': 'From RFC 2396, 2.4. Escape Sequences :\r\n'
+          '\r\n'
+          '>   Data must be escaped if it does not have a representation '
+          'using an\r\n'
+          '>   unreserved character; this includes data that does not '
+          'correspond to\r\n'
+          '>   a printable character of the US-ASCII coded character set, or '
+          'that\r\n'
+          '>   corresponds to any US-ASCII character that is disallowed, '
+          'as\r\n'
+          '>   explained below.\r\n'
+          '\r\n'
+          'So, your URI is not RFC compliant, no parser should sucesfully '
+          'parse it. However the parser should warn about the invalid byte '
+          'sequence, does it ?',
+  'created_at': '2012-11-10T23:33:03Z',
+  'id': 10261329,
+  'issue_id': 26,
+  'owner': 'joyent',
+  'repo': 'http-parser',
+  'updated_at': '2012-11-10T23:33:03Z',
+  'url': 'https://api.github.com/repos/joyent/http-parser/issues/comments/10261329',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/fec469bf6f5c71016bd0938de644906b?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/JulienPalard/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/JulienPalard/followers',
+            'following_url': 'https://api.github.com/users/JulienPalard/following',
+            'gists_url': 'https://api.github.com/users/JulienPalard/gists{/gist_id}',
+            'gravatar_id': 'fec469bf6f5c71016bd0938de644906b',
+            'id': 239510,
+            'login': 'JulienPalard',
+            'organizations_url': 'https://api.github.com/users/JulienPalard/orgs',
+            'received_events_url': 'https://api.github.com/users/JulienPalard/received_events',
+            'repos_url': 'https://api.github.com/users/JulienPalard/repos',
+            'starred_url': 'https://api.github.com/users/JulienPalard/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/JulienPalard/subscriptions',
+            'url': 'https://api.github.com/users/JulienPalard'}}
+{ '_id': ObjectId('50abae63edecb5506f002297'),
+  'body': 'We needed test suite to test folowing cases:\r\n'
+          'case 1. Whole file system;\r\n'
+          'case 2. File system loaded via channel:\r\n'
+          'Need to be tested integrity of data loaded via channel and was '
+          'saved into fs;\r\n'
+          '\r\n'
+          'For case1 I suggest to use  '
+          '(http://www.tuxera.com/community/posix-test-suite/, "pjd '
+          'fstests") that supports UFS, ZFS, ext3, XFS and the NTFS-3G file '
+          'systems. That test suite has been writen in c language and can be '
+          'easily ported into project. \r\n'
+          "Since Native Client doesn't support folowing syscalls: create, "
+          'mkdir, unlink, rmdir, fsync; we can modify pjd tests that will '
+          'skip unsupported functions during tests of our own filesystem '
+          '.\r\n'
+          '\r\n'
+          'For case2 any recommendations are welcome. \r\n'
+          'As for me: It can be just self-test of all files loaded from '
+          'channel were added to filesystem, and at the next step were read '
+          'again and performs bitwise compare for every loaded file;',
+  'created_at': '2012-09-30T16:53:32Z',
+  'id': 9015412,
+  'issue_id': 12,
+  'owner': 'zerovm',
+  'repo': 'zrt',
+  'updated_at': '2012-09-30T16:53:32Z',
+  'url': 'https://api.github.com/repos/zerovm/zrt/issues/comments/9015412',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/f935e7d676cc7079b675205dd0323a19?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/YaroslavLitvinov/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/YaroslavLitvinov/followers',
+            'following_url': 'https://api.github.com/users/YaroslavLitvinov/following',
+            'gists_url': 'https://api.github.com/users/YaroslavLitvinov/gists{/gist_id}',
+            'gravatar_id': 'f935e7d676cc7079b675205dd0323a19',
+            'id': 1463350,
+            'login': 'YaroslavLitvinov',
+            'organizations_url': 'https://api.github.com/users/YaroslavLitvinov/orgs',
+            'received_events_url': 'https://api.github.com/users/YaroslavLitvinov/received_events',
+            'repos_url': 'https://api.github.com/users/YaroslavLitvinov/repos',
+            'starred_url': 'https://api.github.com/users/YaroslavLitvinov/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/YaroslavLitvinov/subscriptions',
+            'url': 'https://api.github.com/users/YaroslavLitvinov'}}
+{ '_id': ObjectId('50abae63edecb5506f002298'),
+  'body': 'On Sun, Sep 30, 2012 at 6:53 PM, Yaroslav Litvinov '
+          '<notifications@github.com\r\n'
+          '> wrote:\r\n'
+          '\r\n'
+          '> We needed test suite to test folowing cases:\r\n'
+          '> case 1. Whole file system;\r\n'
+          '> case 2. File system loaded via channel:\r\n'
+          '> Need to be tested integrity of data loaded via channel and was '
+          'saved into\r\n'
+          '> fs;\r\n'
+          '>\r\n'
+          '> For case1 I suggest to use (\r\n'
+          '> http://www.tuxera.com/community/posix-test-suite/, "pjd '
+          'fstests") that\r\n'
+          '> supports UFS, ZFS, ext3, XFS and the NTFS-3G file systems. That '
+          'test suite\r\n'
+          '> has been writen in c language and can be easily ported into '
+          'project.\r\n'
+          "> Since Native Client doesn't support folowing syscalls: create, "
+          'mkdir,\r\n'
+          '> unlink, rmdir, fsync; we can modify pjd tests that will skip '
+          'unsupported\r\n'
+          '> functions during tests of our own filesystem .\r\n'
+          '>\r\n'
+          "we should support it! If we don't support it then a lot of ported "
+          'program\r\n'
+          'will choke on them. Why we cannot support them?\r\n'
+          '\r\n'
+          '> For case2 any recommendations are welcome.\r\n'
+          '> As for me: It can be just self-test of all files loaded from '
+          'channel were\r\n'
+          '> added to filesystem, and at the next step were read again and '
+          'performs\r\n'
+          '> bitwise compare for every loaded file;\r\n'
+          '>\r\n'
+          '\r\n'
+          'what do you mean by files loaded from channels?\r\n'
+          '\r\n'
+          '>  —\r\n'
+          '> Reply to this email directly or view it on '
+          'GitHub<https://github.com/Dazo-org/zrt/issues/12#issuecomment-9015412>.\r\n'
+          '>\r\n'
+          '>',
+  'created_at': '2012-09-30T18:22:58Z',
+  'id': 9016346,
+  'issue_id': 12,
+  'owner': 'zerovm',
+  'repo': 'zrt',
+  'updated_at': '2012-09-30T18:22:58Z',
+  'url': 'https://api.github.com/repos/zerovm/zrt/issues/comments/9016346',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/c25b8e1e6beda00dcdb964d98ac37f45?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/camuel/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/camuel/followers',
+            'following_url': 'https://api.github.com/users/camuel/following',
+            'gists_url': 'https://api.github.com/users/camuel/gists{/gist_id}',
+            'gravatar_id': 'c25b8e1e6beda00dcdb964d98ac37f45',
+            'id': 418084,
+            'login': 'camuel',
+            'organizations_url': 'https://api.github.com/users/camuel/orgs',
+            'received_events_url': 'https://api.github.com/users/camuel/received_events',
+            'repos_url': 'https://api.github.com/users/camuel/repos',
+            'starred_url': 'https://api.github.com/users/camuel/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/camuel/subscriptions',
+            'url': 'https://api.github.com/users/camuel'}}
+issue_events
+**************************{ '_id': ObjectId('50abae60edecb53c5d001d6a'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/485ed7ee7b2d767a2367a7537be910a7?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+             'events_url': 'https://api.github.com/users/pertneer/events{/privacy}',
+             'followers_url': 'https://api.github.com/users/pertneer/followers',
+             'following_url': 'https://api.github.com/users/pertneer/following',
+             'gists_url': 'https://api.github.com/users/pertneer/gists{/gist_id}',
+             'gravatar_id': '485ed7ee7b2d767a2367a7537be910a7',
+             'id': 2450385,
+             'login': 'pertneer',
+             'organizations_url': 'https://api.github.com/users/pertneer/orgs',
+             'received_events_url': 'https://api.github.com/users/pertneer/received_events',
+             'repos_url': 'https://api.github.com/users/pertneer/repos',
+             'starred_url': 'https://api.github.com/users/pertneer/starred{/owner}{/repo}',
+             'subscriptions_url': 'https://api.github.com/users/pertneer/subscriptions',
+             'url': 'https://api.github.com/users/pertneer'},
+  'commit_id': None,
+  'created_at': '2012-11-17T05:28:16Z',
+  'event': 'closed',
+  'id': 29782494,
+  'issue_id': 41,
+  'owner': 'pertneer',
+  'repo': 'phpBB3-Knowledgebase',
+  'url': 'https://api.github.com/repos/pertneer/phpBB3-Knowledgebase/issues/events/29782494'}
+{ '_id': ObjectId('50abae61edecb53c50002219'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/28ce45a957e1fcf2ef95ebe73e0534f3?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+             'events_url': 'https://api.github.com/users/aparajita/events{/privacy}',
+             'followers_url': 'https://api.github.com/users/aparajita/followers',
+             'following_url': 'https://api.github.com/users/aparajita/following',
+             'gists_url': 'https://api.github.com/users/aparajita/gists{/gist_id}',
+             'gravatar_id': '28ce45a957e1fcf2ef95ebe73e0534f3',
+             'id': 22218,
+             'login': 'aparajita',
+             'organizations_url': 'https://api.github.com/users/aparajita/orgs',
+             'received_events_url': 'https://api.github.com/users/aparajita/received_events',
+             'repos_url': 'https://api.github.com/users/aparajita/repos',
+             'starred_url': 'https://api.github.com/users/aparajita/starred{/owner}{/repo}',
+             'subscriptions_url': 'https://api.github.com/users/aparajita/subscriptions',
+             'url': 'https://api.github.com/users/aparajita'},
+  'commit_id': None,
+  'created_at': '2012-11-17T05:25:59Z',
+  'event': 'closed',
+  'id': 29782471,
+  'issue_id': 794,
+  'owner': 'wbond',
+  'repo': 'package_control_channel',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/events/29782471'}
+{ '_id': ObjectId('50abae63edecb5506f002294'),
+  'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/f935e7d676cc7079b675205dd0323a19?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+             'events_url': 'https://api.github.com/users/YaroslavLitvinov/events{/privacy}',
+             'followers_url': 'https://api.github.com/users/YaroslavLitvinov/followers',
+             'following_url': 'https://api.github.com/users/YaroslavLitvinov/following',
+             'gists_url': 'https://api.github.com/users/YaroslavLitvinov/gists{/gist_id}',
+             'gravatar_id': 'f935e7d676cc7079b675205dd0323a19',
+             'id': 1463350,
+             'login': 'YaroslavLitvinov',
+             'organizations_url': 'https://api.github.com/users/YaroslavLitvinov/orgs',
+             'received_events_url': 'https://api.github.com/users/YaroslavLitvinov/received_events',
+             'repos_url': 'https://api.github.com/users/YaroslavLitvinov/repos',
+             'starred_url': 'https://api.github.com/users/YaroslavLitvinov/starred{/owner}{/repo}',
+             'subscriptions_url': 'https://api.github.com/users/YaroslavLitvinov/subscriptions',
+             'url': 'https://api.github.com/users/YaroslavLitvinov'},
+  'commit_id': None,
+  'created_at': '2012-08-31T19:12:57Z',
+  'event': 'assigned',
+  'id': 23780469,
+  'issue_id': 12,
+  'owner': 'zerovm',
+  'repo': 'zrt',
+  'url': 'https://api.github.com/repos/zerovm/zrt/issues/events/23780469'}
+{ '_id': ObjectId('50ad6688edecb574a300eec2'),
+  'actor': None,
+  'commit_id': None,
+  'created_at': '2011-05-16T05:39:41Z',
+  'event': 'subscribed',
+  'id': 686665,
+  'issue_id': 1059,
+  'owner': 'rails',
+  'repo': 'rails',
+  'url': 'https://api.github.com/repos/rails/rails/issues/events/686665'}
+{ '_id': ObjectId('50ad668bedecb51d4500025b'),
+  'actor': None,
+  'commit_id': None,
+  'created_at': '2011-12-22T21:41:19Z',
+  'event': 'subscribed',
+  'id': 7103142,
+  'issue_id': 10,
+  'owner': 'bastiaanterhorst',
+  'repo': 'rich',
+  'url': 'https://api.github.com/repos/bastiaanterhorst/rich/issues/events/7103142'}
+issues
+**************************{ '_id': ObjectId('50abae5bedecb53c50001efb'),
+  'assignee': None,
+  'body': 'TweetLine is a Sublime Text 2 Plugin to post current line or '
+          'selected text to twitter \n'
+          '\n'
+          '[fukayatsu/SublimeTweetLine](https://github.com/fukayatsu/SublimeTweetLine)',
+  'closed_at': None,
+  'comments': 0,
+  'comments_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/809/comments',
+  'created_at': '2012-11-20T15:51:49Z',
+  'events_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/809/events',
+  'html_url': 'https://github.com/wbond/package_control_channel/issues/809',
+  'id': 8509346,
+  'labels': [],
+  'labels_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/809/labels{/name}',
+  'milestone': None,
+  'number': 809,
+  'owner': 'wbond',
+  'pull_request': { 'diff_url': 'https://github.com/wbond/package_control_channel/pull/809.diff',
+                    'html_url': 'https://github.com/wbond/package_control_channel/pull/809',
+                    'patch_url': 'https://github.com/wbond/package_control_channel/pull/809.patch'},
+  'repo': 'package_control_channel',
+  'state': 'open',
+  'title': 'Add SublimeTweetLine',
+  'updated_at': '2012-11-20T15:52:20Z',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/809',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/ffdf2b0baba2980a90923978cf32a6ca?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/fukayatsu/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/fukayatsu/followers',
+            'following_url': 'https://api.github.com/users/fukayatsu/following',
+            'gists_url': 'https://api.github.com/users/fukayatsu/gists{/gist_id}',
+            'gravatar_id': 'ffdf2b0baba2980a90923978cf32a6ca',
+            'id': 1041857,
+            'login': 'fukayatsu',
+            'organizations_url': 'https://api.github.com/users/fukayatsu/orgs',
+            'received_events_url': 'https://api.github.com/users/fukayatsu/received_events',
+            'repos_url': 'https://api.github.com/users/fukayatsu/repos',
+            'starred_url': 'https://api.github.com/users/fukayatsu/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/fukayatsu/subscriptions',
+            'url': 'https://api.github.com/users/fukayatsu'}}
+{ '_id': ObjectId('50abae5bedecb53c50001efe'),
+  'assignee': None,
+  'body': 'See readme for info!',
+  'closed_at': None,
+  'comments': 0,
+  'comments_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/805/comments',
+  'created_at': '2012-11-19T19:27:28Z',
+  'events_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/805/events',
+  'html_url': 'https://github.com/wbond/package_control_channel/issues/805',
+  'id': 8479860,
+  'labels': [],
+  'labels_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/805/labels{/name}',
+  'milestone': None,
+  'number': 805,
+  'owner': 'wbond',
+  'pull_request': { 'diff_url': 'https://github.com/wbond/package_control_channel/pull/805.diff',
+                    'html_url': 'https://github.com/wbond/package_control_channel/pull/805',
+                    'patch_url': 'https://github.com/wbond/package_control_channel/pull/805.patch'},
+  'repo': 'package_control_channel',
+  'state': 'open',
+  'title': 'Adding Expand Selection by Paragraph Plugin',
+  'updated_at': '2012-11-19T19:27:28Z',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/805',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/baff1969663ebce1d743a43a2bbaa00e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/natew/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/natew/followers',
+            'following_url': 'https://api.github.com/users/natew/following',
+            'gists_url': 'https://api.github.com/users/natew/gists{/gist_id}',
+            'gravatar_id': 'baff1969663ebce1d743a43a2bbaa00e',
+            'id': 12100,
+            'login': 'natew',
+            'organizations_url': 'https://api.github.com/users/natew/orgs',
+            'received_events_url': 'https://api.github.com/users/natew/received_events',
+            'repos_url': 'https://api.github.com/users/natew/repos',
+            'starred_url': 'https://api.github.com/users/natew/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/natew/subscriptions',
+            'url': 'https://api.github.com/users/natew'}}
+{ '_id': ObjectId('50abae5dedecb53c500020d4'),
+  'assignee': None,
+  'body': 'Sending pull request to add NightLion theme. See '
+          'https://github.com/oswaldoacauan/sublime-nightlion-theme',
+  'closed_at': '2012-05-30T01:33:51Z',
+  'comments': 1,
+  'created_at': '2012-05-21T12:10:02Z',
+  'html_url': 'https://github.com/wbond/package_control_channel/issues/326',
+  'id': 4669536,
+  'labels': [],
+  'milestone': None,
+  'number': 326,
+  'owner': 'wbond',
+  'pull_request': {'diff_url': None, 'html_url': None, 'patch_url': None},
+  'repo': 'package_control_channel',
+  'state': 'closed',
+  'title': "Added new theme 'DarkLion' ported from Aptana Studio",
+  'updated_at': '2012-05-30T01:33:51Z',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/326',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/c49ef242854e0f2fcb65d9390dff8e0b?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'gravatar_id': 'c49ef242854e0f2fcb65d9390dff8e0b',
+            'id': 1268518,
+            'login': 'oswaldoacauan',
+            'url': 'https://api.github.com/users/oswaldoacauan'}}
+{ '_id': ObjectId('50abae5bedecb53c50001efc'),
+  'assignee': None,
+  'body': 'Submitting a new package named AutoIndent which automatically '
+          'detects the indentation settings of opened files.',
+  'closed_at': None,
+  'comments': 0,
+  'comments_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/808/comments',
+  'created_at': '2012-11-20T08:16:05Z',
+  'events_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/808/events',
+  'html_url': 'https://github.com/wbond/package_control_channel/issues/808',
+  'id': 8496155,
+  'labels': [],
+  'labels_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/808/labels{/name}',
+  'milestone': None,
+  'number': 808,
+  'owner': 'wbond',
+  'pull_request': { 'diff_url': 'https://github.com/wbond/package_control_channel/pull/808.diff',
+                    'html_url': 'https://github.com/wbond/package_control_channel/pull/808',
+                    'patch_url': 'https://github.com/wbond/package_control_channel/pull/808.patch'},
+  'repo': 'package_control_channel',
+  'state': 'open',
+  'title': 'Added AutoIndent',
+  'updated_at': '2012-11-20T08:16:05Z',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/808',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/6bd0cd879b51c5be8efc06548723ae33?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/c0untd0wn/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/c0untd0wn/followers',
+            'following_url': 'https://api.github.com/users/c0untd0wn/following',
+            'gists_url': 'https://api.github.com/users/c0untd0wn/gists{/gist_id}',
+            'gravatar_id': '6bd0cd879b51c5be8efc06548723ae33',
+            'id': 665320,
+            'login': 'c0untd0wn',
+            'organizations_url': 'https://api.github.com/users/c0untd0wn/orgs',
+            'received_events_url': 'https://api.github.com/users/c0untd0wn/received_events',
+            'repos_url': 'https://api.github.com/users/c0untd0wn/repos',
+            'starred_url': 'https://api.github.com/users/c0untd0wn/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/c0untd0wn/subscriptions',
+            'url': 'https://api.github.com/users/c0untd0wn'}}
+{ '_id': ObjectId('50abae5bedecb53c50001efd'),
+  'assignee': None,
+  'body': 'Adding support for my library of Sublime Text compatible color '
+          'schemes : https://github.com/daylerees/colour-schemes \n'
+          '\n'
+          'Thanks!',
+  'closed_at': None,
+  'comments': 8,
+  'comments_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/806/comments',
+  'created_at': '2012-11-19T22:47:17Z',
+  'events_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/806/events',
+  'html_url': 'https://github.com/wbond/package_control_channel/issues/806',
+  'id': 8485997,
+  'labels': [],
+  'labels_url': 'https://api.github.com/repos/wbond/package_control_channel/issues/806/labels{/name}',
+  'milestone': None,
+  'number': 806,
+  'owner': 'wbond',
+  'pull_request': { 'diff_url': 'https://github.com/wbond/package_control_channel/pull/806.diff',
+                    'html_url': 'https://github.com/wbond/package_control_channel/pull/806',
+                    'patch_url': 'https://github.com/wbond/package_control_channel/pull/806.patch'},
+  'repo': 'package_control_channel',
+  'state': 'open',
+  'title': 'Adding Dayle Rees Color Schemes',
+  'updated_at': '2012-11-20T06:17:02Z',
+  'url': 'https://api.github.com/repos/wbond/package_control_channel/issues/806',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/fac3a58aaa455adbcb3f684ccff663b8?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
+            'events_url': 'https://api.github.com/users/daylerees/events{/privacy}',
+            'followers_url': 'https://api.github.com/users/daylerees/followers',
+            'following_url': 'https://api.github.com/users/daylerees/following',
+            'gists_url': 'https://api.github.com/users/daylerees/gists{/gist_id}',
+            'gravatar_id': 'fac3a58aaa455adbcb3f684ccff663b8',
+            'id': 207870,
+            'login': 'daylerees',
+            'organizations_url': 'https://api.github.com/users/daylerees/orgs',
+            'received_events_url': 'https://api.github.com/users/daylerees/received_events',
+            'repos_url': 'https://api.github.com/users/daylerees/repos',
+            'starred_url': 'https://api.github.com/users/daylerees/starred{/owner}{/repo}',
+            'subscriptions_url': 'https://api.github.com/users/daylerees/subscriptions',
+            'url': 'https://api.github.com/users/daylerees'}}
+org_members
+**************************{ '_id': ObjectId('501fdee21b66c04176000085'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/2b04b2e533ed8cb77e322e88e0e3374a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '2b04b2e533ed8cb77e322e88e0e3374a',
+  'id': 1291219,
+  'login': 'mfranklin',
+  'org': 'OpenSocial',
+  'url': 'https://api.github.com/users/mfranklin'}
+{ '_id': ObjectId('501fdee61b66c04176000086'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/9fe177761e534080867431dccd21c26c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '9fe177761e534080867431dccd21c26c',
+  'id': 959892,
+  'login': 'mgmarum',
+  'org': 'OpenSocial',
+  'url': 'https://api.github.com/users/mgmarum'}
+{ '_id': ObjectId('501fe2f61b66c042d200000d'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/59ede7d59084400a54104d1708f015f3?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '59ede7d59084400a54104d1708f015f3',
+  'id': 387759,
+  'login': 'cybik',
+  'org': 'photon-dev-team',
+  'url': 'https://api.github.com/users/cybik'}
+{ '_id': ObjectId('501fe2f61b66c042d200000e'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/9267f86dd436b2c73c4a1c2dbfba63eb?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '9267f86dd436b2c73c4a1c2dbfba63eb',
+  'id': 1154145,
+  'login': 'jokersax',
+  'org': 'photon-dev-team',
+  'url': 'https://api.github.com/users/jokersax'}
+{ '_id': ObjectId('501fe2f61b66c042d200000f'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/de76426861ce899fb3994e3b8d35ed6a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': 'de76426861ce899fb3994e3b8d35ed6a',
+  'id': 581716,
+  'login': 'mrinehart93',
+  'org': 'photon-dev-team',
+  'url': 'https://api.github.com/users/mrinehart93'}
+pull_request_comments
+**************************{ '_id': ObjectId('5023dfccedecb5539300003a'),
+  '_links': { 'html': { 'href': 'https://github.com/nvcDeb/CoinCod/pull/47#discussion_r1343752'},
+              'pull_request': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/47'},
+              'self': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343752'}},
+  'body': "Remove this line. Path.php isn't required (at least now).",
+  'commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'created_at': '2012-08-09T15:58:33Z',
+  'id': 1343752,
+  'issue_id': 47,
+  'original_commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'original_position': 4,
+  'owner': 'nvcDeb',
+  'path': 'index.php',
+  'position': 4,
+  'repo': 'CoinCod',
+  'updated_at': '2012-08-09T15:58:33Z',
+  'url': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343752',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/34cbf28dfc06fedb85dc5a656854f406?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': '34cbf28dfc06fedb85dc5a656854f406',
+            'id': 1807880,
+            'login': 'nvcDeb',
+            'url': 'https://api.github.com/users/nvcDeb'}}
+{ '_id': ObjectId('5023dfccedecb5539300003b'),
+  '_links': { 'html': { 'href': 'https://github.com/nvcDeb/CoinCod/pull/47#discussion_r1343759'},
+              'pull_request': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/47'},
+              'self': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343759'}},
+  'body': 'Remove this line & the next line. Both are wrong.\n'
+          '`<meta charset="utf-8" />` is what you have to put.',
+  'commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'created_at': '2012-08-09T15:59:14Z',
+  'id': 1343759,
+  'issue_id': 47,
+  'original_commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'original_position': 9,
+  'owner': 'nvcDeb',
+  'path': 'index.php',
+  'position': 9,
+  'repo': 'CoinCod',
+  'updated_at': '2012-08-09T16:02:56Z',
+  'url': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343759',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/34cbf28dfc06fedb85dc5a656854f406?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': '34cbf28dfc06fedb85dc5a656854f406',
+            'id': 1807880,
+            'login': 'nvcDeb',
+            'url': 'https://api.github.com/users/nvcDeb'}}
+{ '_id': ObjectId('5023dfccedecb5539300003c'),
+  '_links': { 'html': { 'href': 'https://github.com/nvcDeb/CoinCod/pull/47#discussion_r1343824'},
+              'pull_request': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/47'},
+              'self': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343824'}},
+  'body': '<meta charset="utf-8" />',
+  'commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'created_at': '2012-08-09T16:04:46Z',
+  'id': 1343824,
+  'original_commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'original_position': 5,
+  'owner': 'nvcDeb',
+  'path': 'template/templatefooter.html',
+  'position': 5,
+  'pullreq_id': 47,
+  'repo': 'CoinCod',
+  'updated_at': '2012-08-09T16:04:46Z',
+  'url': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343824',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/34cbf28dfc06fedb85dc5a656854f406?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': '34cbf28dfc06fedb85dc5a656854f406',
+            'id': 1807880,
+            'login': 'nvcDeb',
+            'url': 'https://api.github.com/users/nvcDeb'}}
+{ '_id': ObjectId('5106cfc6bd35432e040000f4'),
+  '_links': { 'html': { 'href': 'https://github.com/extend/cowboy/pull/181#discussion_r642164'},
+              'pull_request': { 'href': 'https://api.github.com/repos/extend/cowboy/pulls/181'},
+              'self': { 'href': 'https://api.github.com/repos/extend/cowboy/pulls/comments/642164'}},
+  'body': 'I found it to be easier to read if a more descriptive atom was '
+          'used for the "null" value of this field. See my first comment '
+          'about this being a simplistic state machine, we transition '
+          'between the nofragments, initializing, receiving and finishing '
+          'states.',
+  'commit_id': '80c67bff33939a14e445ee93e37e8db5778fdfdc',
+  'created_at': '2012-04-03T22:21:55Z',
+  'id': 642164,
+  'original_commit_id': '9bd34c0daa6c8bbaf431b814bf7e49dd0537ec36',
+  'original_position': 26,
+  'owner': 'extend',
+  'path': 'src/cowboy_http_websocket.erl',
+  'position': None,
+  'pullreq_id': 181,
+  'repo': 'cowboy',
+  'updated_at': '2012-04-06T15:54:20Z',
+  'url': 'https://api.github.com/repos/extend/cowboy/pulls/comments/642164',
+  'user': None}
+{ '_id': ObjectId('5023dfccedecb5539300003d'),
+  '_links': { 'html': { 'href': 'https://github.com/nvcDeb/CoinCod/pull/47#discussion_r1343830'},
+              'pull_request': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/47'},
+              'self': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343830'}},
+  'body': 'Remove this PHP block... not required.',
+  'commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'created_at': '2012-08-09T16:05:14Z',
+  'id': 1343830,
+  'original_commit_id': 'b3aaf5b48cc55f25f9c4d7d26ac1b0f3f7f5bb6f',
+  'original_position': 5,
+  'owner': 'nvcDeb',
+  'path': 'template/templateheader.php',
+  'position': 5,
+  'pullreq_id': 47,
+  'repo': 'CoinCod',
+  'updated_at': '2012-08-09T16:05:14Z',
+  'url': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343830',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/34cbf28dfc06fedb85dc5a656854f406?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': '34cbf28dfc06fedb85dc5a656854f406',
+            'id': 1807880,
+            'login': 'nvcDeb',
+            'url': 'https://api.github.com/users/nvcDeb'}}
+pull_requests
+**************************{ '_id': ObjectId('501948d9edecb50bba0007cc'),
+  '_links': { 'comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/39/comments'},
+              'html': { 'href': 'https://github.com/jHoldroyd/FireSALE/pull/39'},
+              'issue': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/39'},
+              'review_comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/39/comments'},
+              'self': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/39'}},
+  'assignee': None,
+  'base': { 'label': 'jHoldroyd:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/jHoldroyd/FireSALE.git',
+                      'created_at': '2012-07-15T22:54:09Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': False,
+                      'forks': 9,
+                      'forks_count': 9,
+                      'full_name': 'jHoldroyd/FireSALE',
+                      'git_url': 'git://github.com/jHoldroyd/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': True,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'id': 5060774,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 13,
+                      'open_issues_count': 13,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/825271389521c74257e16aa7ca5279fc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': '825271389521c74257e16aa7ca5279fc',
+                                 'id': 1971376,
+                                 'login': 'jHoldroyd',
+                                 'url': 'https://api.github.com/users/jHoldroyd'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T13:33:09Z',
+                      'size': 208,
+                      'ssh_url': 'git@github.com:jHoldroyd/FireSALE.git',
+                      'svn_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'updated_at': '2012-08-01T13:33:09Z',
+                      'url': 'https://api.github.com/repos/jHoldroyd/FireSALE',
+                      'watchers': 29,
+                      'watchers_count': 29},
+            'sha': '9b02faceb2d046109ccac78e6bbb7357aa17f61f',
+            'user': None},
+  'body': '',
+  'closed_at': None,
+  'created_at': '2012-08-01T14:19:38Z',
+  'diff_url': 'https://github.com/jHoldroyd/FireSALE/pull/39.diff',
+  'head': { 'label': 'Dixens:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/Dixens/FireSALE.git',
+                      'created_at': '2012-07-29T16:31:38Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': True,
+                      'forks': 0,
+                      'forks_count': 0,
+                      'full_name': 'Dixens/FireSALE',
+                      'git_url': 'git://github.com/Dixens/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': False,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/Dixens/FireSALE',
+                      'id': 5223681,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 0,
+                      'open_issues_count': 0,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf291d86195fcb087074755fdca49a91?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': 'bf291d86195fcb087074755fdca49a91',
+                                 'id': 1407919,
+                                 'login': 'Dixens',
+                                 'url': 'https://api.github.com/users/Dixens'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T14:17:55Z',
+                      'size': 120,
+                      'ssh_url': 'git@github.com:Dixens/FireSALE.git',
+                      'svn_url': 'https://github.com/Dixens/FireSALE',
+                      'updated_at': '2012-08-01T14:17:55Z',
+                      'url': 'https://api.github.com/repos/Dixens/FireSALE',
+                      'watchers': 1,
+                      'watchers_count': 1},
+            'sha': '915b00b6ca0fbab21ad531567152f473f9f99003',
+            'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf291d86195fcb087074755fdca49a91?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                      'gravatar_id': 'bf291d86195fcb087074755fdca49a91',
+                      'id': 1407919,
+                      'login': 'Dixens',
+                      'url': 'https://api.github.com/users/Dixens'}},
+  'html_url': 'https://github.com/jHoldroyd/FireSALE/pull/39',
+  'id': 1945251,
+  'issue_url': 'https://github.com/jHoldroyd/FireSALE/issues/39',
+  'merged_at': None,
+  'milestone': None,
+  'number': 39,
+  'owner': 'jHoldroyd',
+  'patch_url': 'https://github.com/jHoldroyd/FireSALE/pull/39.patch',
+  'repo': 'FireSALE',
+  'state': 'open',
+  'title': 'Added French translation',
+  'updated_at': '2012-08-01T14:19:38Z',
+  'url': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/39',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf291d86195fcb087074755fdca49a91?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': 'bf291d86195fcb087074755fdca49a91',
+            'id': 1407919,
+            'login': 'Dixens',
+            'url': 'https://api.github.com/users/Dixens'}}
+{ '_id': ObjectId('501948d9edecb50bba0007cd'),
+  '_links': { 'comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/38/comments'},
+              'html': { 'href': 'https://github.com/jHoldroyd/FireSALE/pull/38'},
+              'issue': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/38'},
+              'review_comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/38/comments'},
+              'self': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/38'}},
+  'assignee': None,
+  'base': { 'label': 'jHoldroyd:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/jHoldroyd/FireSALE.git',
+                      'created_at': '2012-07-15T22:54:09Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': False,
+                      'forks': 9,
+                      'forks_count': 9,
+                      'full_name': 'jHoldroyd/FireSALE',
+                      'git_url': 'git://github.com/jHoldroyd/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': True,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'id': 5060774,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 13,
+                      'open_issues_count': 13,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/825271389521c74257e16aa7ca5279fc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': '825271389521c74257e16aa7ca5279fc',
+                                 'id': 1971376,
+                                 'login': 'jHoldroyd',
+                                 'url': 'https://api.github.com/users/jHoldroyd'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T13:33:09Z',
+                      'size': 208,
+                      'ssh_url': 'git@github.com:jHoldroyd/FireSALE.git',
+                      'svn_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'updated_at': '2012-08-01T13:33:09Z',
+                      'url': 'https://api.github.com/repos/jHoldroyd/FireSALE',
+                      'watchers': 29,
+                      'watchers_count': 29},
+            'sha': 'b7ded9a4ef085af9f5543a6dc9194168efe251ed',
+            'user': None},
+  'body': '',
+  'closed_at': '2012-08-01T13:33:08Z',
+  'created_at': '2012-08-01T13:13:25Z',
+  'diff_url': 'https://github.com/jHoldroyd/FireSALE/pull/38.diff',
+  'head': { 'label': 'Dixens:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/Dixens/FireSALE.git',
+                      'created_at': '2012-07-29T16:31:38Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': True,
+                      'forks': 0,
+                      'forks_count': 0,
+                      'full_name': 'Dixens/FireSALE',
+                      'git_url': 'git://github.com/Dixens/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': False,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/Dixens/FireSALE',
+                      'id': 5223681,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 0,
+                      'open_issues_count': 0,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf291d86195fcb087074755fdca49a91?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': 'bf291d86195fcb087074755fdca49a91',
+                                 'id': 1407919,
+                                 'login': 'Dixens',
+                                 'url': 'https://api.github.com/users/Dixens'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T14:17:55Z',
+                      'size': 120,
+                      'ssh_url': 'git@github.com:Dixens/FireSALE.git',
+                      'svn_url': 'https://github.com/Dixens/FireSALE',
+                      'updated_at': '2012-08-01T14:17:55Z',
+                      'url': 'https://api.github.com/repos/Dixens/FireSALE',
+                      'watchers': 1,
+                      'watchers_count': 1},
+            'sha': '4c37332d3acecdc0937a2b1fc8a181d58ac7842a',
+            'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf291d86195fcb087074755fdca49a91?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                      'gravatar_id': 'bf291d86195fcb087074755fdca49a91',
+                      'id': 1407919,
+                      'login': 'Dixens',
+                      'url': 'https://api.github.com/users/Dixens'}},
+  'html_url': 'https://github.com/jHoldroyd/FireSALE/pull/38',
+  'id': 1944596,
+  'issue_url': 'https://github.com/jHoldroyd/FireSALE/issues/38',
+  'merged_at': '2012-08-01T13:33:08Z',
+  'milestone': None,
+  'number': 38,
+  'owner': 'jHoldroyd',
+  'patch_url': 'https://github.com/jHoldroyd/FireSALE/pull/38.patch',
+  'repo': 'FireSALE',
+  'state': 'closed',
+  'title': 'Added French translation.',
+  'updated_at': '2012-08-01T13:34:03Z',
+  'url': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/38',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bf291d86195fcb087074755fdca49a91?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': 'bf291d86195fcb087074755fdca49a91',
+            'id': 1407919,
+            'login': 'Dixens',
+            'url': 'https://api.github.com/users/Dixens'}}
+{ '_id': ObjectId('501948d9edecb50bba0007ce'),
+  '_links': { 'comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/33/comments'},
+              'html': { 'href': 'https://github.com/jHoldroyd/FireSALE/pull/33'},
+              'issue': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/33'},
+              'review_comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/33/comments'},
+              'self': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/33'}},
+  'assignee': None,
+  'base': { 'label': 'jHoldroyd:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/jHoldroyd/FireSALE.git',
+                      'created_at': '2012-07-15T22:54:09Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': False,
+                      'forks': 9,
+                      'forks_count': 9,
+                      'full_name': 'jHoldroyd/FireSALE',
+                      'git_url': 'git://github.com/jHoldroyd/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': True,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'id': 5060774,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 13,
+                      'open_issues_count': 13,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/825271389521c74257e16aa7ca5279fc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': '825271389521c74257e16aa7ca5279fc',
+                                 'id': 1971376,
+                                 'login': 'jHoldroyd',
+                                 'url': 'https://api.github.com/users/jHoldroyd'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T13:33:09Z',
+                      'size': 208,
+                      'ssh_url': 'git@github.com:jHoldroyd/FireSALE.git',
+                      'svn_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'updated_at': '2012-08-01T13:33:09Z',
+                      'url': 'https://api.github.com/repos/jHoldroyd/FireSALE',
+                      'watchers': 29,
+                      'watchers_count': 29},
+            'sha': '1202f8f6861967f5bfe4ca6702c360a6e66ad127',
+            'user': None},
+  'body': 'Added the installation step for the PyroCMS Community users',
+  'closed_at': '2012-07-31T18:02:04Z',
+  'created_at': '2012-07-31T12:01:42Z',
+  'diff_url': 'https://github.com/jHoldroyd/FireSALE/pull/33.diff',
+  'head': { 'label': 'ChristianGiupponi:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/ChristianGiupponi/FireSALE.git',
+                      'created_at': '2012-07-31T11:58:18Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': True,
+                      'forks': 0,
+                      'forks_count': 0,
+                      'full_name': 'ChristianGiupponi/FireSALE',
+                      'git_url': 'git://github.com/ChristianGiupponi/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': False,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/ChristianGiupponi/FireSALE',
+                      'id': 5245218,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 0,
+                      'open_issues_count': 0,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/a26927b903d94d6b01a91992f825241e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': 'a26927b903d94d6b01a91992f825241e',
+                                 'id': 1614796,
+                                 'login': 'ChristianGiupponi',
+                                 'url': 'https://api.github.com/users/ChristianGiupponi'},
+                      'private': False,
+                      'pushed_at': '2012-07-31T12:01:18Z',
+                      'size': 112,
+                      'ssh_url': 'git@github.com:ChristianGiupponi/FireSALE.git',
+                      'svn_url': 'https://github.com/ChristianGiupponi/FireSALE',
+                      'updated_at': '2012-07-31T12:01:19Z',
+                      'url': 'https://api.github.com/repos/ChristianGiupponi/FireSALE',
+                      'watchers': 1,
+                      'watchers_count': 1},
+            'sha': '95d680ecda5be803893b0a354d38202cf381b508',
+            'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/a26927b903d94d6b01a91992f825241e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                      'gravatar_id': 'a26927b903d94d6b01a91992f825241e',
+                      'id': 1614796,
+                      'login': 'ChristianGiupponi',
+                      'url': 'https://api.github.com/users/ChristianGiupponi'}},
+  'html_url': 'https://github.com/jHoldroyd/FireSALE/pull/33',
+  'id': 1932474,
+  'issue_url': 'https://github.com/jHoldroyd/FireSALE/issues/33',
+  'merged_at': '2012-07-31T18:02:04Z',
+  'milestone': None,
+  'number': 33,
+  'owner': 'jHoldroyd',
+  'patch_url': 'https://github.com/jHoldroyd/FireSALE/pull/33.patch',
+  'repo': 'FireSALE',
+  'state': 'closed',
+  'title': 'PyroStreams-Multiple-Relationships',
+  'updated_at': '2012-07-31T18:02:11Z',
+  'url': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/33',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/a26927b903d94d6b01a91992f825241e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': 'a26927b903d94d6b01a91992f825241e',
+            'id': 1614796,
+            'login': 'ChristianGiupponi',
+            'url': 'https://api.github.com/users/ChristianGiupponi'}}
+{ '_id': ObjectId('501948d9edecb50bba0007cf'),
+  '_links': { 'comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/16/comments'},
+              'html': { 'href': 'https://github.com/jHoldroyd/FireSALE/pull/16'},
+              'issue': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/16'},
+              'review_comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/16/comments'},
+              'self': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/16'}},
+  'assignee': None,
+  'base': { 'label': 'jHoldroyd:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/jHoldroyd/FireSALE.git',
+                      'created_at': '2012-07-15T22:54:09Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': False,
+                      'forks': 9,
+                      'forks_count': 9,
+                      'full_name': 'jHoldroyd/FireSALE',
+                      'git_url': 'git://github.com/jHoldroyd/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': True,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'id': 5060774,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 13,
+                      'open_issues_count': 13,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/825271389521c74257e16aa7ca5279fc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': '825271389521c74257e16aa7ca5279fc',
+                                 'id': 1971376,
+                                 'login': 'jHoldroyd',
+                                 'url': 'https://api.github.com/users/jHoldroyd'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T13:33:09Z',
+                      'size': 208,
+                      'ssh_url': 'git@github.com:jHoldroyd/FireSALE.git',
+                      'svn_url': 'https://github.com/jHoldroyd/FireSALE',
+                      'updated_at': '2012-08-01T13:33:09Z',
+                      'url': 'https://api.github.com/repos/jHoldroyd/FireSALE',
+                      'watchers': 29,
+                      'watchers_count': 29},
+            'sha': 'b11af9c5284159e720480c9b00125b687d56bcbc',
+            'user': None},
+  'body': "(I assume this won't break things anywhere else...)",
+  'closed_at': '2012-07-21T15:54:21Z',
+  'created_at': '2012-07-21T15:46:12Z',
+  'diff_url': 'https://github.com/jHoldroyd/FireSALE/pull/16.diff',
+  'head': { 'label': 'wturrell:bugfix_product_quick_edit',
+            'ref': 'bugfix_product_quick_edit',
+            'repo': { 'clone_url': 'https://github.com/wturrell/FireSALE.git',
+                      'created_at': '2012-07-21T10:39:38Z',
+                      'description': 'The lightweight eCommerce platform '
+                                     'for PyroCMS',
+                      'fork': True,
+                      'forks': 0,
+                      'forks_count': 0,
+                      'full_name': 'wturrell/FireSALE',
+                      'git_url': 'git://github.com/wturrell/FireSALE.git',
+                      'has_downloads': True,
+                      'has_issues': False,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/wturrell/FireSALE',
+                      'id': 5132874,
+                      'language': 'PHP',
+                      'mirror_url': None,
+                      'name': 'FireSALE',
+                      'open_issues': 0,
+                      'open_issues_count': 0,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/bb75b4eff895b67bedfad470fe9c6ca9?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': 'bb75b4eff895b67bedfad470fe9c6ca9',
+                                 'id': 848021,
+                                 'login': 'wturrell',
+                                 'url': 'https://api.github.com/users/wturrell'},
+                      'private': False,
+                      'pushed_at': '2012-07-30T17:49:07Z',
+                      'size': 264,
+                      'ssh_url': 'git@github.com:wturrell/FireSALE.git',
+                      'svn_url': 'https://github.com/wturrell/FireSALE',
+                      'updated_at': '2012-07-30T17:49:18Z',
+                      'url': 'https://api.github.com/repos/wturrell/FireSALE',
+                      'watchers': 1,
+                      'watchers_count': 1},
+            'sha': '78a59cf8c49ef1b99048d166021c78fee90e23ca',
+            'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bb75b4eff895b67bedfad470fe9c6ca9?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                      'gravatar_id': 'bb75b4eff895b67bedfad470fe9c6ca9',
+                      'id': 848021,
+                      'login': 'wturrell',
+                      'url': 'https://api.github.com/users/wturrell'}},
+  'html_url': 'https://github.com/jHoldroyd/FireSALE/pull/16',
+  'id': 1856415,
+  'issue_url': 'https://github.com/jHoldroyd/FireSALE/issues/16',
+  'merged_at': '2012-07-21T15:54:21Z',
+  'milestone': None,
+  'number': 16,
+  'owner': 'jHoldroyd',
+  'patch_url': 'https://github.com/jHoldroyd/FireSALE/pull/16.patch',
+  'repo': 'FireSALE',
+  'state': 'closed',
+  'title': "Bugfix: product Quick Edit wasn't updating the category",
+  'updated_at': '2012-07-21T15:54:55Z',
+  'url': 'https://api.github.com/repos/jHoldroyd/FireSALE/pulls/16',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/bb75b4eff895b67bedfad470fe9c6ca9?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': 'bb75b4eff895b67bedfad470fe9c6ca9',
+            'id': 848021,
+            'login': 'wturrell',
+            'url': 'https://api.github.com/users/wturrell'}}
+{ '_id': ObjectId('50194c9cedecb50fbd000019'),
+  '_links': { 'comments': { 'href': 'https://api.github.com/repos/ukhas/habitat-homepage/issues/3/comments'},
+              'html': { 'href': 'https://github.com/ukhas/habitat-homepage/pull/3'},
+              'issue': { 'href': 'https://api.github.com/repos/ukhas/habitat-homepage/issues/3'},
+              'review_comments': { 'href': 'https://api.github.com/repos/ukhas/habitat-homepage/pulls/3/comments'},
+              'self': { 'href': 'https://api.github.com/repos/ukhas/habitat-homepage/pulls/3'}},
+  'assignee': None,
+  'base': { 'label': 'ukhas:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/ukhas/habitat-homepage.git',
+                      'created_at': '2012-07-31T23:08:59Z',
+                      'description': 'Homepage for '
+                                     'http://habitat.habhub.org/',
+                      'fork': True,
+                      'forks': 1,
+                      'forks_count': 1,
+                      'full_name': 'ukhas/habitat-homepage',
+                      'git_url': 'git://github.com/ukhas/habitat-homepage.git',
+                      'has_downloads': True,
+                      'has_issues': False,
+                      'has_wiki': True,
+                      'homepage': None,
+                      'html_url': 'https://github.com/ukhas/habitat-homepage',
+                      'id': 5252692,
+                      'language': None,
+                      'mirror_url': None,
+                      'name': 'habitat-homepage',
+                      'open_issues': 0,
+                      'open_issues_count': 0,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/7cf4d5e16ffe0c87542c0ffeed3e53ee?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-orgs.png',
+                                 'gravatar_id': '7cf4d5e16ffe0c87542c0ffeed3e53ee',
+                                 'id': 349273,
+                                 'login': 'ukhas',
+                                 'url': 'https://api.github.com/users/ukhas'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T14:52:28Z',
+                      'size': 124,
+                      'ssh_url': 'git@github.com:ukhas/habitat-homepage.git',
+                      'svn_url': 'https://github.com/ukhas/habitat-homepage',
+                      'updated_at': '2012-08-01T14:52:28Z',
+                      'url': 'https://api.github.com/repos/ukhas/habitat-homepage',
+                      'watchers': 2,
+                      'watchers_count': 2},
+            'sha': 'c55b943b031c1f409d98d4084a39990f7ec90199',
+            'user': None},
+  'body': 'Relative links to allow deploying to both `habitat` and '
+          '`beta.habitat`.',
+  'closed_at': '2012-08-01T14:52:27Z',
+  'created_at': '2012-08-01T14:50:58Z',
+  'diff_url': 'https://github.com/ukhas/habitat-homepage/pull/3.diff',
+  'head': { 'label': 'priyeshpatel:master',
+            'ref': 'master',
+            'repo': { 'clone_url': 'https://github.com/priyeshpatel/habitat-homepage.git',
+                      'created_at': '2012-07-31T22:42:48Z',
+                      'description': 'Homepage for '
+                                     'http://habitat.habhub.org/',
+                      'fork': False,
+                      'forks': 2,
+                      'forks_count': 2,
+                      'full_name': 'priyeshpatel/habitat-homepage',
+                      'git_url': 'git://github.com/priyeshpatel/habitat-homepage.git',
+                      'has_downloads': True,
+                      'has_issues': True,
+                      'has_wiki': False,
+                      'homepage': 'http://habitat.habhub.org/',
+                      'html_url': 'https://github.com/priyeshpatel/habitat-homepage',
+                      'id': 5252457,
+                      'language': None,
+                      'mirror_url': None,
+                      'name': 'habitat-homepage',
+                      'open_issues': 0,
+                      'open_issues_count': 0,
+                      'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/48719a41221e6541d4d4ed55fc2ef955?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                                 'gravatar_id': '48719a41221e6541d4d4ed55fc2ef955',
+                                 'id': 545296,
+                                 'login': 'priyeshpatel',
+                                 'url': 'https://api.github.com/users/priyeshpatel'},
+                      'private': False,
+                      'pushed_at': '2012-08-01T14:50:14Z',
+                      'size': 120,
+                      'ssh_url': 'git@github.com:priyeshpatel/habitat-homepage.git',
+                      'svn_url': 'https://github.com/priyeshpatel/habitat-homepage',
+                      'updated_at': '2012-08-01T14:50:14Z',
+                      'url': 'https://api.github.com/repos/priyeshpatel/habitat-homepage',
+                      'watchers': 2,
+                      'watchers_count': 2},
+            'sha': 'a0464c9877812804afd82cae9ea474828a4b45b2',
+            'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/48719a41221e6541d4d4ed55fc2ef955?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+                      'gravatar_id': '48719a41221e6541d4d4ed55fc2ef955',
+                      'id': 545296,
+                      'login': 'priyeshpatel',
+                      'url': 'https://api.github.com/users/priyeshpatel'}},
+  'html_url': 'https://github.com/ukhas/habitat-homepage/pull/3',
+  'id': 1945636,
+  'issue_url': 'https://github.com/ukhas/habitat-homepage/issues/3',
+  'merged_at': '2012-08-01T14:52:27Z',
+  'milestone': None,
+  'number': 3,
+  'owner': 'ukhas',
+  'patch_url': 'https://github.com/ukhas/habitat-homepage/pull/3.patch',
+  'repo': 'habitat-homepage',
+  'state': 'closed',
+  'title': 'Relative links',
+  'updated_at': '2012-08-01T14:52:28Z',
+  'url': 'https://api.github.com/repos/ukhas/habitat-homepage/pulls/3',
+  'user': { 'avatar_url': 'https://secure.gravatar.com/avatar/48719a41221e6541d4d4ed55fc2ef955?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+            'gravatar_id': '48719a41221e6541d4d4ed55fc2ef955',
+            'id': 545296,
+            'login': 'priyeshpatel',
+            'url': 'https://api.github.com/users/priyeshpatel'}}
+repo_collaborators
+**************************{ '_id': ObjectId('5019380dedecb550a2000002'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/7344ba813f01e3819cbed04b7b205404?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '7344ba813f01e3819cbed04b7b205404',
+  'id': 1456663,
+  'login': 'oparadis',
+  'owner': 'oparadis',
+  'repo': 'try_git',
+  'url': 'https://api.github.com/users/oparadis'}
+{ '_id': ObjectId('5019380dedecb550a2000003'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/d5e18ff7e2d01beafbad009dbbec9bd2?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': 'd5e18ff7e2d01beafbad009dbbec9bd2',
+  'id': 1709557,
+  'login': 'Try-Git',
+  'owner': 'oparadis',
+  'repo': 'try_git',
+  'url': 'https://api.github.com/users/Try-Git'}
+{ '_id': ObjectId('50193812edecb550a2000009'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/c03510f02ec686d15aab39b9b1437516?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': 'c03510f02ec686d15aab39b9b1437516',
+  'id': 1561091,
+  'login': 'Chris-Cates',
+  'owner': 'Chris-Cates',
+  'repo': 'cc.bootstrapreference',
+  'url': 'https://api.github.com/users/Chris-Cates'}
+{ '_id': ObjectId('50193812edecb550a200000a'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/d053f6a633d578c70a8bd9ac9373f886?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': 'd053f6a633d578c70a8bd9ac9373f886',
+  'id': 171007,
+  'login': 'bheesham',
+  'owner': 'Chris-Cates',
+  'repo': 'cc.bootstrapreference',
+  'url': 'https://api.github.com/users/bheesham'}
+{ '_id': ObjectId('50193817edecb550a200001b'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/5db37e04905df77ec0c90dc7faebadfc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '5db37e04905df77ec0c90dc7faebadfc',
+  'id': 189730,
+  'login': 'josephbulger',
+  'owner': 'josephbulger',
+  'repo': 'try_git',
+  'url': 'https://api.github.com/users/josephbulger'}
+repo_labels
+**************************{ '_id': ObjectId('51b722951b66c0aa50000001'),
+  'color': 'fc2929',
+  'name': 'bug',
+  'owner': 'Netflix',
+  'repo': 'RxJava',
+  'url': 'https://api.github.com/repos/Netflix/RxJava/labels/bug'}
+{ '_id': ObjectId('51b722951b66c0aa50000002'),
+  'color': 'cccccc',
+  'name': 'duplicate',
+  'owner': 'Netflix',
+  'repo': 'RxJava',
+  'url': 'https://api.github.com/repos/Netflix/RxJava/labels/duplicate'}
+{ '_id': ObjectId('51b722951b66c0aa50000003'),
+  'color': '84b6eb',
+  'name': 'enhancement',
+  'owner': 'Netflix',
+  'repo': 'RxJava',
+  'url': 'https://api.github.com/repos/Netflix/RxJava/labels/enhancement'}
+{ '_id': ObjectId('51b722951b66c0aa50000004'),
+  'color': 'e6e6e6',
+  'name': 'invalid',
+  'owner': 'Netflix',
+  'repo': 'RxJava',
+  'url': 'https://api.github.com/repos/Netflix/RxJava/labels/invalid'}
+{ '_id': ObjectId('51b722951b66c0aa50000005'),
+  'color': 'cc317c',
+  'name': 'question',
+  'owner': 'Netflix',
+  'repo': 'RxJava',
+  'url': 'https://api.github.com/repos/Netflix/RxJava/labels/question'}
+repos
+**************************{ '_id': ObjectId('4ffeb7ef57b3e217b8000002'),
+  'clone_url': 'https://github.com/Michaelwussler/gittest.git',
+  'created_at': '2012-07-12T10:41:03Z',
+  'description': '',
+  'fork': False,
+  'forks': 1,
+  'full_name': 'Michaelwussler/gittest',
+  'git_url': 'git://github.com/Michaelwussler/gittest.git',
+  'has_downloads': True,
+  'has_issues': True,
+  'has_wiki': True,
+  'homepage': None,
+  'html_url': 'https://github.com/Michaelwussler/gittest',
+  'id': 5002137,
+  'language': 'Java',
+  'master_branch': 'master',
+  'mirror_url': None,
+  'name': 'gittest',
+  'open_issues': 0,
+  'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/a7e55f31bb45321f30211e901cd89ffa?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': 'a7e55f31bb45321f30211e901cd89ffa',
+             'id': 1706010,
+             'login': 'Michaelwussler',
+             'url': 'https://api.github.com/users/Michaelwussler'},
+  'private': False,
+  'pushed_at': '2012-07-12T11:40:07Z',
+  'size': 164,
+  'ssh_url': 'git@github.com:Michaelwussler/gittest.git',
+  'svn_url': 'https://github.com/Michaelwussler/gittest',
+  'updated_at': '2012-07-12T11:40:07Z',
+  'url': 'https://api.github.com/repos/Michaelwussler/gittest',
+  'watchers': 1}
+{ '_id': ObjectId('4ffeb83c57b3e217b800005b'),
+  'clone_url': 'https://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Devel.git',
+  'created_at': '2011-03-16T15:06:38Z',
+  'description': "Install modules currently used in SHARYANTO's developing "
+                 'environment',
+  'fork': False,
+  'forks': 1,
+  'full_name': 'sharyanto/perl-Task-BeLike-SHARYANTO-Devel',
+  'git_url': 'git://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Devel.git',
+  'has_downloads': True,
+  'has_issues': True,
+  'has_wiki': True,
+  'homepage': 'http://search.cpan.org/dist/Task-BeLike-SHARYANTO-Devel/',
+  'html_url': 'https://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Devel',
+  'id': 1487560,
+  'language': 'Perl',
+  'master_branch': 'master',
+  'mirror_url': None,
+  'name': 'perl-Task-BeLike-SHARYANTO-Devel',
+  'open_issues': 0,
+  'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/89e109fca8474e5636c9feef7a8422ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': '89e109fca8474e5636c9feef7a8422ea',
+             'id': 211084,
+             'login': 'sharyanto',
+             'url': 'https://api.github.com/users/sharyanto'},
+  'private': False,
+  'pushed_at': '2012-07-12T11:35:03Z',
+  'size': 608,
+  'ssh_url': 'git@github.com:sharyanto/perl-Task-BeLike-SHARYANTO-Devel.git',
+  'svn_url': 'https://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Devel',
+  'updated_at': '2012-07-12T11:35:03Z',
+  'url': 'https://api.github.com/repos/sharyanto/perl-Task-BeLike-SHARYANTO-Devel',
+  'watchers': 1}
+{ '_id': ObjectId('4ffeb86457b3e217b8000072'),
+  'clone_url': 'https://github.com/Toolpark/irma.git',
+  'created_at': '2012-03-20T11:31:16Z',
+  'description': '',
+  'fork': False,
+  'forks': 1,
+  'full_name': 'Toolpark/irma',
+  'git_url': 'git://github.com/Toolpark/irma.git',
+  'has_downloads': True,
+  'has_issues': True,
+  'has_wiki': True,
+  'homepage': '',
+  'html_url': 'https://github.com/Toolpark/irma',
+  'id': 3774477,
+  'language': 'JavaScript',
+  'master_branch': 'master',
+  'mirror_url': None,
+  'name': 'irma',
+  'open_issues': 0,
+  'organization': { 'avatar_url': 'https://secure.gravatar.com/avatar/ed73cf7f24c091318e507d167c7b3456?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-orgs.png',
+                    'gravatar_id': 'ed73cf7f24c091318e507d167c7b3456',
+                    'id': 1556245,
+                    'login': 'Toolpark',
+                    'url': 'https://api.github.com/users/Toolpark'},
+  'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/ed73cf7f24c091318e507d167c7b3456?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-orgs.png',
+             'gravatar_id': 'ed73cf7f24c091318e507d167c7b3456',
+             'id': 1556245,
+             'login': 'Toolpark',
+             'url': 'https://api.github.com/users/Toolpark'},
+  'private': False,
+  'pushed_at': '2012-07-12T11:43:31Z',
+  'size': 964,
+  'ssh_url': 'git@github.com:Toolpark/irma.git',
+  'svn_url': 'https://github.com/Toolpark/irma',
+  'updated_at': '2012-07-12T11:43:31Z',
+  'url': 'https://api.github.com/repos/Toolpark/irma',
+  'watchers': 2}
+{ '_id': ObjectId('4ffeb8b057b3e217b80000c9'),
+  'clone_url': 'https://github.com/mmacedo/myapp.git',
+  'created_at': '2012-07-05T21:09:14Z',
+  'description': 'Just test',
+  'fork': False,
+  'forks': 1,
+  'full_name': 'mmacedo/myapp',
+  'git_url': 'git://github.com/mmacedo/myapp.git',
+  'has_downloads': True,
+  'has_issues': False,
+  'has_wiki': False,
+  'homepage': None,
+  'html_url': 'https://github.com/mmacedo/myapp',
+  'id': 4915307,
+  'language': 'Ruby',
+  'master_branch': 'master',
+  'mirror_url': None,
+  'name': 'myapp',
+  'open_issues': 0,
+  'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/de1373715118caea7c80e173bd7ab04e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': 'de1373715118caea7c80e173bd7ab04e',
+             'id': 323764,
+             'login': 'mmacedo',
+             'url': 'https://api.github.com/users/mmacedo'},
+  'private': False,
+  'pushed_at': '2012-07-12T11:35:33Z',
+  'size': 356,
+  'ssh_url': 'git@github.com:mmacedo/myapp.git',
+  'svn_url': 'https://github.com/mmacedo/myapp',
+  'updated_at': '2012-07-12T11:35:33Z',
+  'url': 'https://api.github.com/repos/mmacedo/myapp',
+  'watchers': 1}
+{ '_id': ObjectId('4ffeb87157b3e217b800008c'),
+  'clone_url': 'https://github.com/hirakchatterjee/try_git.git',
+  'created_at': '2012-07-12T11:19:45Z',
+  'description': None,
+  'fork': False,
+  'forks': 1,
+  'full_name': 'hirakchatterjee/try_git',
+  'git_url': 'git://github.com/hirakchatterjee/try_git.git',
+  'has_downloads': True,
+  'has_issues': True,
+  'has_wiki': True,
+  'homepage': None,
+  'html_url': 'https://github.com/hirakchatterjee/try_git',
+  'id': 5002444,
+  'language': None,
+  'master_branch': 'master',
+  'mirror_url': None,
+  'name': 'try_git',
+  'open_issues': 0,
+  'owner': { 'avatar_url': 'https://secure.gravatar.com/avatar/fc54ff5e4cd8714969cd866b48db49a2?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+             'gravatar_id': 'fc54ff5e4cd8714969cd866b48db49a2',
+             'id': 86128,
+             'login': 'hirakchatterjee',
+             'url': 'https://api.github.com/users/hirakchatterjee'},
+  'private': False,
+  'pushed_at': '2012-07-12T11:31:50Z',
+  'size': 92,
+  'ssh_url': 'git@github.com:hirakchatterjee/try_git.git',
+  'svn_url': 'https://github.com/hirakchatterjee/try_git',
+  'updated_at': '2012-07-12T11:31:50Z',
+  'url': 'https://api.github.com/repos/hirakchatterjee/try_git',
+  'watchers': 1}
+users
+**************************{ '_id': ObjectId('4ffeb7ed57b3e217b8000001'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/a7e55f31bb45321f30211e901cd89ffa?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'created_at': '2012-05-04T13:59:54Z',
+  'followers': 0,
+  'following': 0,
+  'gravatar_id': 'a7e55f31bb45321f30211e901cd89ffa',
+  'html_url': 'https://github.com/Michaelwussler',
+  'id': 1706010,
+  'login': 'Michaelwussler',
+  'public_gists': 0,
+  'public_repos': 3,
+  'type': 'User',
+  'url': 'https://api.github.com/users/Michaelwussler'}
+{ '_id': ObjectId('4ffeb7f357b3e217b8000008'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/eb8139078bc623dee103ed3917c080dc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'created_at': '2012-05-03T18:47:13Z',
+  'followers': 0,
+  'following': 0,
+  'gravatar_id': 'eb8139078bc623dee103ed3917c080dc',
+  'html_url': 'https://github.com/praiser',
+  'id': 1703505,
+  'login': 'praiser',
+  'public_gists': 0,
+  'public_repos': 3,
+  'type': 'User',
+  'url': 'https://api.github.com/users/praiser'}
+{ '_id': ObjectId('4ffeb7f857b3e217b8000009'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/13c7b665e0cbd94e0155387c35957d13?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'bio': None,
+  'blog': '',
+  'company': '',
+  'created_at': '2010-04-07T12:15:00Z',
+  'email': 'vad.viktor@gmail.com',
+  'followers': 2,
+  'following': 3,
+  'gravatar_id': '13c7b665e0cbd94e0155387c35957d13',
+  'hireable': False,
+  'html_url': 'https://github.com/vadviktor',
+  'id': 238703,
+  'location': 'Budapest',
+  'login': 'vadviktor',
+  'name': 'Vad Viktor',
+  'public_gists': 0,
+  'public_repos': 10,
+  'type': 'User',
+  'url': 'https://api.github.com/users/vadviktor'}
+{ '_id': ObjectId('4ffeb7f857b3e217b800000a'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/b7937805411d278ceb839175e251e2a0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'bio': '',
+  'blog': None,
+  'company': 'Appcelerator',
+  'created_at': '2012-04-02T16:13:58Z',
+  'email': 'yjin@appcelerator.com',
+  'followers': 0,
+  'following': 0,
+  'gravatar_id': 'b7937805411d278ceb839175e251e2a0',
+  'hireable': False,
+  'html_url': 'https://github.com/ypjin',
+  'id': 1598831,
+  'location': 'Beijing',
+  'login': 'ypjin',
+  'name': 'Yuping',
+  'public_gists': 0,
+  'public_repos': 5,
+  'type': 'User',
+  'url': 'https://api.github.com/users/ypjin'}
+{ '_id': ObjectId('4ffeb82857b3e217b800000b'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/89e109fca8474e5636c9feef7a8422ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'bio': '',
+  'blog': 'http://blogs.perl.org/users/steven_haryanto',
+  'company': '-',
+  'created_at': '2010-02-26T01:28:09Z',
+  'email': 'stevenharyanto@gmail.com',
+  'followers': 39,
+  'following': 307,
+  'gravatar_id': '89e109fca8474e5636c9feef7a8422ea',
+  'hireable': False,
+  'html_url': 'https://github.com/sharyanto',
+  'id': 211084,
+  'location': 'Jakarta, Indonesia',
+  'login': 'sharyanto',
+  'name': 'Steven Haryanto',
+  'public_gists': 5,
+  'public_repos': 195,
+  'type': 'User',
+  'url': 'https://api.github.com/users/sharyanto'}
+watchers
+**************************{ '_id': ObjectId('50193812edecb550a200000b'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/c03510f02ec686d15aab39b9b1437516?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': 'c03510f02ec686d15aab39b9b1437516',
+  'id': 1561091,
+  'login': 'Chris-Cates',
+  'owner': 'Chris-Cates',
+  'repo': 'cc.bootstrapreference',
+  'url': 'https://api.github.com/users/Chris-Cates'}
+{ '_id': ObjectId('50193818edecb550a200001d'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/5db37e04905df77ec0c90dc7faebadfc?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '5db37e04905df77ec0c90dc7faebadfc',
+  'id': 189730,
+  'login': 'josephbulger',
+  'owner': 'josephbulger',
+  'repo': 'try_git',
+  'url': 'https://api.github.com/users/josephbulger'}
+{ '_id': ObjectId('50193892edecb550a20000a0'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/193c1a93276f729041fc875cf2a20773?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-orgs.png',
+  'id': 69631,
+  'login': 'facebook',
+  'owner': 'facebook',
+  'repo': 'fbconsole',
+  'url': 'https://api.github.com/orgs/facebook'}
+{ '_id': ObjectId('50193892edecb550a20000a1'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/1ba93fd9e39ebf48777f217c38e768fd?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '1ba93fd9e39ebf48777f217c38e768fd',
+  'id': 10111,
+  'login': 'mattn',
+  'owner': 'facebook',
+  'repo': 'fbconsole',
+  'url': 'https://api.github.com/users/mattn'}
+{ '_id': ObjectId('50193892edecb550a20000a2'),
+  'avatar_url': 'https://secure.gravatar.com/avatar/442e4aba6676d0473607168cab232f81?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
+  'gravatar_id': '442e4aba6676d0473607168cab232f81',
+  'id': 51904,
+  'login': 'jamesproud',
+  'owner': 'facebook',
+  'repo': 'fbconsole',
+  'url': 'https://api.github.com/users/jamesproud'}
