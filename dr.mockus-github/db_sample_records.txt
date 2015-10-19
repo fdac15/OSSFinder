@@ -1,5 +1,6 @@
 commit_comments
-**************************{ '_id': ObjectId('4ffec3aad1925c7427000075'),
+**************************
+{ '_id': ObjectId('4ffec3aad1925c7427000075'),
   'body': 'Nice to see this quickly falling into shape throughout the code '
           'tree!',
   'commit_id': 'f4d11b5bb6b6004c90ed137e91ccfe145b944ea5',
@@ -76,13 +77,15 @@ commit_comments
   'url': 'https://api.github.com/repos/zikula-modules/Dizkus/comments/1570841',
   'user': 'zikula-modules'}
 system.indexes
-**************************{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.commit_comments', 'v': 1}
+**************************
+{'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.commit_comments', 'v': 1}
 {'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.commits', 'v': 1}
 {'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.events', 'v': 1}
 {'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.followers', 'v': 1}
 {'key': {'_id': 1}, 'name': '_id_', 'ns': 'test.forks', 'v': 1}
 commits
-**************************{ '_id': ObjectId('4fc6986032503212a7005c0a'),
+**************************
+{ '_id': ObjectId('4fc6986032503212a7005c0a'),
   'author': { 'avatar_url': 'https://secure.gravatar.com/avatar/224f5b1b5ee448ec8152236ede91908c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
               'gravatar_id': '224f5b1b5ee448ec8152236ede91908c',
               'id': 173797,
@@ -1611,7 +1614,8 @@ commits
   'stats': {'additions': 1, 'deletions': 1, 'total': 2},
   'url': 'https://api.github.com/repos/opichon/autotabs/commits/6f49a5749764ffbbb582388c9fd7e293172129b9'}
 events
-**************************{ '_id': ObjectId('4fc6986432c9b426ae004bcc'),
+**************************
+{ '_id': ObjectId('4fc6986432c9b426ae004bcc'),
   'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/dcbc5b319874a27aa8a011cd5e30d66a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
              'gravatar_id': 'dcbc5b319874a27aa8a011cd5e30d66a',
              'id': 978263,
@@ -1820,7 +1824,8 @@ events
             'url': 'https://api.github.com/repos/marek-saji/nyopaste'},
   'type': 'PushEvent'}
 followers
-**************************{ '_id': ObjectId('4ffeb82957b3e217b800000c'),
+**************************
+{ '_id': ObjectId('4ffeb82957b3e217b800000c'),
   'avatar_url': 'https://secure.gravatar.com/avatar/7490b4e3e9cb85a1f7dc0c8ea01a86e5?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
   'follows': 'sharyanto',
   'gravatar_id': '7490b4e3e9cb85a1f7dc0c8ea01a86e5',
@@ -1856,7 +1861,8 @@ followers
   'login': 'amiri',
   'url': 'https://api.github.com/users/amiri'}
 forks
-**************************{ '_id': ObjectId('501938a3edecb550a2000176'),
+**************************
+{ '_id': ObjectId('501938a3edecb550a2000176'),
   'clone_url': 'https://github.com/vgdagpin/fbconsole.git',
   'created_at': '2012-08-01T13:21:30Z',
   'description': 'A micro api client for writing scripts against the '
@@ -2017,7 +2023,8 @@ forks
   'watchers': 1,
   'watchers_count': 1}
 issue_comments
-**************************{ '_id': ObjectId('50abae60edecb53c5d001d6b'),
+**************************
+{ '_id': ObjectId('50abae60edecb53c5d001d6b'),
   'body': 'Fixed by commit fbd3e6f12531e9',
   'created_at': '2012-11-17T05:28:13Z',
   'id': 10470848,
@@ -2208,7 +2215,8 @@ issue_comments
             'subscriptions_url': 'https://api.github.com/users/camuel/subscriptions',
             'url': 'https://api.github.com/users/camuel'}}
 issue_events
-**************************{ '_id': ObjectId('50abae60edecb53c5d001d6a'),
+**************************
+{ '_id': ObjectId('50abae60edecb53c5d001d6a'),
   'actor': { 'avatar_url': 'https://secure.gravatar.com/avatar/485ed7ee7b2d767a2367a7537be910a7?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png',
              'events_url': 'https://api.github.com/users/pertneer/events{/privacy}',
              'followers_url': 'https://api.github.com/users/pertneer/followers',
@@ -2298,7 +2306,8 @@ issue_events
   'repo': 'rich',
   'url': 'https://api.github.com/repos/bastiaanterhorst/rich/issues/events/7103142'}
 issues
-**************************{ '_id': ObjectId('50abae5bedecb53c50001efb'),
+**************************
+{ '_id': ObjectId('50abae5bedecb53c50001efb'),
   'assignee': None,
   'body': 'TweetLine is a Sublime Text 2 Plugin to post current line or '
           'selected text to twitter \n'
@@ -2478,7 +2487,8 @@ issues
             'subscriptions_url': 'https://api.github.com/users/daylerees/subscriptions',
             'url': 'https://api.github.com/users/daylerees'}}
 org_members
-**************************{ '_id': ObjectId('501fdee21b66c04176000085'),
+**************************
+{ '_id': ObjectId('501fdee21b66c04176000085'),
   'avatar_url': 'https://secure.gravatar.com/avatar/2b04b2e533ed8cb77e322e88e0e3374a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
   'gravatar_id': '2b04b2e533ed8cb77e322e88e0e3374a',
   'id': 1291219,
@@ -2514,7 +2524,8 @@ org_members
   'org': 'photon-dev-team',
   'url': 'https://api.github.com/users/mrinehart93'}
 pull_request_comments
-**************************{ '_id': ObjectId('5023dfccedecb5539300003a'),
+**************************
+{ '_id': ObjectId('5023dfccedecb5539300003a'),
   '_links': { 'html': { 'href': 'https://github.com/nvcDeb/CoinCod/pull/47#discussion_r1343752'},
               'pull_request': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/47'},
               'self': { 'href': 'https://api.github.com/repos/nvcDeb/CoinCod/pulls/comments/1343752'}},
@@ -2626,7 +2637,8 @@ pull_request_comments
             'login': 'nvcDeb',
             'url': 'https://api.github.com/users/nvcDeb'}}
 pull_requests
-**************************{ '_id': ObjectId('501948d9edecb50bba0007cc'),
+**************************
+{ '_id': ObjectId('501948d9edecb50bba0007cc'),
   '_links': { 'comments': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/39/comments'},
               'html': { 'href': 'https://github.com/jHoldroyd/FireSALE/pull/39'},
               'issue': { 'href': 'https://api.github.com/repos/jHoldroyd/FireSALE/issues/39'},
@@ -3173,7 +3185,8 @@ pull_requests
             'login': 'priyeshpatel',
             'url': 'https://api.github.com/users/priyeshpatel'}}
 repo_collaborators
-**************************{ '_id': ObjectId('5019380dedecb550a2000002'),
+**************************
+{ '_id': ObjectId('5019380dedecb550a2000002'),
   'avatar_url': 'https://secure.gravatar.com/avatar/7344ba813f01e3819cbed04b7b205404?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
   'gravatar_id': '7344ba813f01e3819cbed04b7b205404',
   'id': 1456663,
@@ -3214,7 +3227,8 @@ repo_collaborators
   'repo': 'try_git',
   'url': 'https://api.github.com/users/josephbulger'}
 repo_labels
-**************************{ '_id': ObjectId('51b722951b66c0aa50000001'),
+**************************
+{ '_id': ObjectId('51b722951b66c0aa50000001'),
   'color': 'fc2929',
   'name': 'bug',
   'owner': 'Netflix',
@@ -3245,7 +3259,8 @@ repo_labels
   'repo': 'RxJava',
   'url': 'https://api.github.com/repos/Netflix/RxJava/labels/question'}
 repos
-**************************{ '_id': ObjectId('4ffeb7ef57b3e217b8000002'),
+**************************
+{ '_id': ObjectId('4ffeb7ef57b3e217b8000002'),
   'clone_url': 'https://github.com/Michaelwussler/gittest.git',
   'created_at': '2012-07-12T10:41:03Z',
   'description': '',
@@ -3412,7 +3427,8 @@ repos
   'url': 'https://api.github.com/repos/hirakchatterjee/try_git',
   'watchers': 1}
 users
-**************************{ '_id': ObjectId('4ffeb7ed57b3e217b8000001'),
+**************************
+{ '_id': ObjectId('4ffeb7ed57b3e217b8000001'),
   'avatar_url': 'https://secure.gravatar.com/avatar/a7e55f31bb45321f30211e901cd89ffa?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
   'created_at': '2012-05-04T13:59:54Z',
   'followers': 0,
@@ -3499,7 +3515,8 @@ users
   'type': 'User',
   'url': 'https://api.github.com/users/sharyanto'}
 watchers
-**************************{ '_id': ObjectId('50193812edecb550a200000b'),
+**************************
+{ '_id': ObjectId('50193812edecb550a200000b'),
   'avatar_url': 'https://secure.gravatar.com/avatar/c03510f02ec686d15aab39b9b1437516?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png',
   'gravatar_id': 'c03510f02ec686d15aab39b9b1437516',
   'id': 1561091,
