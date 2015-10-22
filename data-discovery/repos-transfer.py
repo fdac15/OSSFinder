@@ -1,4 +1,5 @@
 import sys, re, pymongo
+from pprint import pprint
 
 client = pymongo.MongoClient (host="da0.eecs.utk.edu")
 
@@ -13,26 +14,31 @@ target = client['ossfinder']['repos']
 minForks = 20
 minWatchers = 20
 skip = 0
-limit = 100
+limit = 200
 count = 4
 total = 0
 query = {"forks": {"$gt": minForks}, "watchers": {"$gt": minWatchers}}
-#fields = {"_id": 0, "id": 1, "name": 1, "description": 1, "owner": 1, "forks": 1, "full_name": 1, "git_url": 1, "watchers": 1, "language": 1}
 fields = {"_id": 0}
 
 print('watchers: ', minWatchers)
 print('forks: ',  minForks)
 
-# Clear out the target
-target.delete_many({})
-
 while count > 1:
-	result = source.find(query, fields).skip(skip).limit(limit)
-	result_list = list(result)	
-	target.insert_many(result_list)
-	count = result.count(with_limit_and_skip=True)
+	# Get the docs, the count, and convert docs to a python friendly list
+	docs = source.find(query, fields).skip(skip).limit(limit)
+	
+	# Initialize a bulk operation - this is more performant than 
+	# individual inserts and allows us to "upsert()", which insert_many()
+	# doesn't allow 
+	bulk = target.initialize_unordered_bulk_op()
+	for doc in docs:
+		bulk.find({'id': doc['id']}).upsert().update({'$setOnInsert': doc})
+	# Execut the bulk operation
+	bulk_result = bulk.execute()
+	pprint(bulk_result)	
+
+	# Increment values to maintain the loop
+	count = docs.count(with_limit_and_skip=True)
 	total += count
 	skip += limit
-	print('inserted: ', count)
-	print('   total: ', total)
 
