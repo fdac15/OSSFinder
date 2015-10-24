@@ -1,13 +1,17 @@
 
 #commits-transfer.py
 
-#procedure:
-#- Source collection for commits and target collection for commits.
-#- Take 500 repos at a time from the repositories collection.
-#- Execute an $in query using the 500 repos on the source collection.
-#- All of the results that match the $in query get inserted to the target collection.
+# Procedure overview:
+#- Have a source collection for commits and target collection for commits.
+#- Retreive 500 repos at a time, take the url and full_name properties, store them in a dict.
+#- Retrieve 500 comits at a time, extract a full_name from the commit. If it matches one
+# of the repos, insert it to the target collection.
 
-import pymongo
+#- It is not possible to do an $in query here, because the commits only have a url property
+# and no full_name property. However, a url can be extracted from the full_name, so that's
+# why we iterate over all of the commits.
+
+import pymongo, sys
 from pprint import pprint
 
 client = pymongo.MongoClient (host="da0.eecs.utk.edu")
@@ -21,6 +25,7 @@ target = client['ossfinder']['commits']
 # The full_name is [user]/[repo name] - ex: twbs/bootstrap
 repo_full_names = {};
 
+# Clear out the target collection to ensure a clean copy
 target.delete_many({})
 
 # Populate the dict
@@ -46,54 +51,29 @@ limit = 500
 count = 1
 total = 0
 while count > 0:
-	docs = source.find({}, {"url": 1, "author": 1}).skip(skip).limit(limit)
-	docs = list(docs)
-	count = len(docs)
-	commits_to_insert = []
-	# Loop over the docs, extract the url and full_name properties
-	# The full_name property comes from the url
-	for doc in docs:
-		url = doc['url']
-		full_name = '/'.join(url.split('/')[4:6]) #comment
-		# If we care about this commit's repo, we need to insert it.
-		if full_name in repo_full_names:
-			commits_to_insert.append(doc)
-			print(full_name, 1)
-
-	# More efficient to insert a list all at once instead of individually
-	if len(commits_to_insert) > 0:
-		target.insert_many(commits_to_insert)
-
-	skip += limit	
-	total += len(commits_to_insert)
-
-	print(len(commits_to_insert), total)
-
-
-#pprint(repo_full_names)
-
-#while count > 0:
-	# Get the docs, the count, and convert docs to a python friendly list
-	#docs = source.find(query, fields).skip(skip).limit(limit)
+	try:
+		docs = source.find({}).skip(skip).limit(limit)
+		docs = list(docs)
+		commits_to_insert = []
+		# Loop over the docs, extract the url and full_name properties
+		# The full_name property comes from the url
+		for doc in docs:
+			url = doc['url']
+			full_name = '/'.join(url.split('/')[4:6]) #comment
+			# If we care about this commit's repo, we need to insert it.
+			if full_name in repo_full_names:
+				commits_to_insert.append(doc)
 	
-	# Initialize a bulk operation - this is more performant than 
-	# individual inserts and allows us to "upsert()", which insert_many()
-	# doesn't allow 
-	#bulk = target.initialize_ordered_bulk_op()
-	#for doc in docs:
-	#	bulk.find({'id': doc['id']}).upsert().update({'$set': doc})
-		#bulk.insert(doc)
-	# Execut the bulk operation
-	#bulk_result = bulk.execute()
-	#pprint(bulk_result)	
+		# More efficient to insert a list all at once instead of individually
+		if len(commits_to_insert) > 0:
+			target.insert_many(commits_to_insert)
+	
+		count = len(docs)
+		skip += limit	
+		total += len(commits_to_insert)
+	
+		print(count, len(commits_to_insert), total)
 
-	#result = target.insert_many(list(docs))
-	#print(result.inserted_ids)
-	# Increment values to maintain the loop
-	#count = docs.count(with_limit_and_skip=True)
-	#count = len(result.inserted_ids)
-	#total += count
-	#skip += limit
-
-	#print(count, total)
-
+	except:
+		print("Unexpected error:", sys.exc_info()[0])
+		pass

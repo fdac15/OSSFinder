@@ -1,0 +1,5712 @@
+1000 462 462
+1000 580 1042
+1000 551 1593
+1000 557 2150
+1000 582 2732
+1000 238 2970
+1000 161 3131
+1000 625 3756
+1000 832 4588
+1000 200 4788
+1000 987 5775
+1000 618 6393
+1000 614 7007
+1000 508 7515
+1000 879 8394
+1000 944 9338
+1000 968 10306
+1000 985 11291
+1000 958 12249
+1000 980 13229
+1000 991 14220
+1000 511 14731
+1000 441 15172
+1000 870 16042
+1000 984 17026
+1000 800 17826
+1000 792 18618
+1000 713 19331
+1000 849 20180
+1000 386 20566
+1000 310 20876
+1000 25 20901
+1000 250 21151
+1000 906 22057
+1000 867 22924
+1000 709 23633
+1000 994 24627
+1000 984 25611
+1000 715 26326
+1000 517 26843
+1000 980 27823
+1000 999 28822
+1000 983 29805
+1000 894 30699
+1000 972 31671
+1000 956 32627
+1000 929 33556
+1000 990 34546
+1000 993 35539
+1000 970 36509
+1000 795 37304
+1000 793 38097
+1000 440 38537
+1000 556 39093
+1000 531 39624
+1000 1000 40624
+1000 880 41504
+1000 926 42430
+1000 1000 43430
+1000 818 44248
+1000 806 45054
+1000 809 45863
+1000 855 46718
+1000 527 47245
+1000 458 47703
+1000 437 48140
+1000 737 48877
+1000 832 49709
+1000 894 50603
+1000 793 51396
+1000 501 51897
+1000 815 52712
+1000 974 53686
+1000 938 54624
+1000 487 55111
+1000 879 55990
+1000 722 56712
+1000 638 57350
+1000 945 58295
+1000 283 58578
+1000 274 58852
+1000 609 59461
+1000 325 59786
+1000 629 60415
+1000 70 60485
+1000 4 60489
+1000 2 60491
+1000 43 60534
+1000 1 60535
+1000 20 60555
+1000 44 60599
+1000 7 60606
+1000 417 61023
+1000 508 61531
+1000 851 62382
+1000 854 63236
+1000 810 64046
+1000 995 65041
+1000 846 65887
+1000 973 66860
+1000 788 67648
+1000 901 68549
+1000 707 69256
+1000 520 69776
+1000 528 70304
+1000 716 71020
+1000 782 71802
+1000 810 72612
+1000 997 73609
+1000 874 74483
+1000 932 75415
+1000 944 76359
+1000 989 77348
+1000 933 78281
+1000 867 79148
+1000 634 79782
+1000 932 80714
+1000 801 81515
+1000 989 82504
+1000 987 83491
+1000 970 84461
+1000 904 85365
+1000 979 86344
+1000 849 87193
+1000 801 87994
+1000 969 88963
+1000 902 89865
+1000 755 90620
+1000 568 91188
+1000 737 91925
+1000 608 92533
+1000 512 93045
+1000 752 93797
+1000 320 94117
+1000 734 94851
+1000 951 95802
+1000 661 96463
+1000 561 97024
+1000 480 97504
+1000 920 98424
+1000 937 99361
+1000 759 100120
+1000 834 100954
+1000 930 101884
+1000 928 102812
+1000 907 103719
+1000 717 104436
+1000 884 105320
+1000 883 106203
+1000 934 107137
+1000 934 108071
+1000 973 109044
+1000 884 109928
+1000 798 110726
+1000 791 111517
+1000 793 112310
+1000 519 112829
+1000 656 113485
+1000 836 114321
+1000 331 114652
+1000 444 115096
+1000 733 115829
+1000 786 116615
+1000 696 117311
+1000 815 118126
+1000 962 119088
+1000 964 120052
+1000 941 120993
+1000 791 121784
+1000 884 122668
+1000 987 123655
+1000 164 123819
+1000 407 124226
+1000 631 124857
+1000 832 125689
+1000 940 126629
+1000 998 127627
+1000 976 128603
+1000 959 129562
+1000 886 130448
+1000 925 131373
+1000 982 132355
+1000 901 133256
+1000 749 134005
+1000 850 134855
+1000 919 135774
+1000 863 136637
+1000 952 137589
+1000 610 138199
+1000 758 138957
+1000 775 139732
+1000 817 140549
+1000 977 141526
+1000 967 142493
+1000 869 143362
+1000 841 144203
+1000 786 144989
+1000 488 145477
+1000 841 146318
+1000 702 147020
+1000 395 147415
+1000 133 147548
+1000 272 147820
+1000 657 148477
+1000 748 149225
+1000 199 149424
+1000 593 150017
+1000 705 150722
+1000 233 150955
+1000 382 151337
+1000 956 152293
+1000 563 152856
+1000 959 153815
+1000 882 154697
+1000 774 155471
+1000 972 156443
+1000 745 157188
+1000 963 158151
+1000 980 159131
+1000 918 160049
+1000 612 160661
+1000 826 161487
+1000 811 162298
+1000 986 163284
+1000 976 164260
+1000 751 165011
+1000 927 165938
+1000 224 166162
+1000 792 166954
+1000 756 167710
+1000 845 168555
+1000 749 169304
+1000 796 170100
+1000 849 170949
+1000 896 171845
+1000 855 172700
+1000 787 173487
+1000 571 174058
+1000 816 174874
+1000 30 174904
+1000 679 175583
+1000 774 176357
+1000 830 177187
+1000 921 178108
+1000 942 179050
+1000 842 179892
+1000 796 180688
+1000 89 180777
+1000 534 181311
+1000 780 182091
+1000 642 182733
+1000 829 183562
+1000 487 184049
+1000 430 184479
+1000 957 185436
+1000 774 186210
+1000 618 186828
+1000 896 187724
+1000 765 188489
+1000 768 189257
+1000 878 190135
+1000 741 190876
+1000 573 191449
+1000 366 191815
+1000 859 192674
+1000 462 193136
+1000 876 194012
+1000 965 194977
+1000 767 195744
+1000 870 196614
+1000 743 197357
+1000 520 197877
+1000 605 198482
+1000 397 198879
+1000 844 199723
+1000 976 200699
+1000 984 201683
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f94f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfb70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfc50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfcc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfda0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfc50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfcc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfda0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fbfc50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255feaf60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fba2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d07f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d08d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562d0630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255db5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564284e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564285c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564284e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564285c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564284e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564285c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564284e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564285c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564284e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564285c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564282e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256428320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e49470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f105c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f104e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f10470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f74080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561955c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dcf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dda0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618db00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dcf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dda0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dcf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dda0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dcf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dd68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618dc88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566d4c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925618d2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b41d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b45c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b46d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b42e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b41d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b45c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b46d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b42e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b41d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b45c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b46d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b42e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b41d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b42e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b41d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b42e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b44e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b41d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b42e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564b4128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564adac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad278>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564adac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564ad240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255f3d6d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fcb7b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256646048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566460b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c86d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c86d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c84e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92565c8898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566646a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566642e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566648d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566646a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566642e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566648d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566646a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566642e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566646a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664278>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566646a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664278>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566646a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256664860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92567075c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256707e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92567076a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566962e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566967b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566964e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566962e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566967b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566964e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566962e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566962e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566962e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256696a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c2ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d7fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e20b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e21d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e20b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e21d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e21d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2a20>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e20b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e21d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2a20>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e21d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560e2e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c00b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c09b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c07b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c06d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c00b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c09b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c07b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c00b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c09b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c07b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c00b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c09b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c07b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c06d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c00b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560c0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a5f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a5f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a5f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a5f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a5f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925644a4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c89e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562c8ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a55f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a56a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5978>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a55f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a56a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a59b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562a5518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd26a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd26a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd24e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd24e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2b70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256431048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255fd2828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561885f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561886a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561887f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256188668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e228d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e222e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e228d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e222e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e228d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e222e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e224e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e224a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e228d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e222e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e224e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226a0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e224a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e228d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22a90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e226d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e222e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9255e22ac8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c14e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c13c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c13c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c14e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c13c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c14e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c13c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92566c1390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256225630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e48>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3cc0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562b3d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e03c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c88>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e03c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e03c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e03c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0a58>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0c50>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e04a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92562e0358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421eb8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d30>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256421e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564062e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564062e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564062e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406550>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564062e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406630>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564064a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406518>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256406358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d59e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d53c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d59e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d59e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d58d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d59e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d53c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d59e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5588>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d50b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d53c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d5438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560d56d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256357fd0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc898>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc908>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc278>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc278>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc8d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc358>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc860>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc278>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc320>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92560cc2e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564653c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564651d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564651d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e10>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564651d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564653c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564651d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465be0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465dd8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465cf8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564653c8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465c18>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465f28>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465d68>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465ef0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564651d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256465e80>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564631d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463160>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564630f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564634e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564638d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564631d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564636d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564634e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564637f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564632e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564630f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564638d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564631d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564636d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564634e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564637f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564632e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564630f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564638d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564631d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463400>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564636d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564634e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564637f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564632e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564630f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564638d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463470>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564636d8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564634e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564631d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564632e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564630f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564638d0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463668>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463780>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256463048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564540f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564540f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564540f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564540f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454438>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256454240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925ae7b0f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92564542e8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c0b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642ca90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c0b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c048>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642ca90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c0b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c9b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642ca90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb70>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c9b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c390>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642ca90>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c2b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642cb38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c198>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c080>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c128>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c208>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c4a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c240>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f925642c0b8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561564e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561567f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561569b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561564a8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561564e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561567f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561569b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561564e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156da0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561569b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f60>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561564e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156940>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156ba8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156b00>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156748>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561567f0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156f98>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561569b0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156710>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565c0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561565f8>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156b38>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f92561564e0>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156828>
+error with docs
+<pymongo.cursor.Cursor object at 0x7f9256156940>
+error with docs
