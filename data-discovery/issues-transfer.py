@@ -3,9 +3,11 @@
 # Procedure overview:
 # - Same as the commits-transfer procedure
 
-import pymongo
+import pymongo,sys
 from pprint import pprint
 import transfer_helpers as helpers
+
+output = open('issues-transfer.txt', 'w')
 
 client = pymongo.MongoClient (host="da0.eecs.utk.edu")
 
@@ -23,23 +25,27 @@ skip = 0
 limit = 1000
 count = 1
 total = 0
+fields = {"user": 1, "url": 1}
 while count > 0:
 	try:
-		docs = source.find({}).skip(skip).limit(limit)
+		docs = source.find({}, fields).skip(skip).limit(limit)
 		docs = list(docs)
-		issues_to_insert = []
+		to_insert = []
 		for doc in docs:
 			full_name = helpers.url_to_full_name(doc['url'])
 			if full_name in repo_full_names:
-				issues_to_insert.append(doc)
+				to_insert.append(doc)
 	
-		if len(issues_to_insert) > 0:
-			target.insert_many(issues_to_insert)
-				
+		if len(to_insert) > 0:
+			target.insert_many(to_insert)
+			
 		skip += limit
 		count = len(docs)
-		total += len(issues_to_insert)
-		print(len(issues_to_insert), total)
+		total += len(to_insert)
+		info = str(['issues', count, len(to_insert), total])
+		output.write(info)
+		print(info)
+
 	except:
                 print("Unexpected error:", sys.exc_info()[0])
-                pass
+               	raise SystemExit

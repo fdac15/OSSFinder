@@ -14,6 +14,8 @@
 import pymongo, sys
 from pprint import pprint
 
+output = open('commits-transfer.txt', 'w')
+
 client = pymongo.MongoClient (host="da0.eecs.utk.edu")
 
 # Define the source and target collections
@@ -40,7 +42,7 @@ while count > 0:
 	for doc in docs:
 		repo_full_names[doc['full_name']] = 0
 
-pprint(repo_full_names)
+print('here')
 
 # Retrieve and iterate over all commits.
 # We only care about the url and the commiter, so we are ignoring other fields. 
@@ -50,9 +52,10 @@ skip = 0
 limit = 500
 count = 1
 total = 0
+fields = {"url": 1, "author": 1}
 while count > 0:
 	try:
-		docs = source.find({}).skip(skip).limit(limit)
+		docs = source.find({}, fields).skip(skip).limit(limit)
 		docs = list(docs)
 		commits_to_insert = []
 		# Loop over the docs, extract the url and full_name properties
@@ -71,9 +74,10 @@ while count > 0:
 		count = len(docs)
 		skip += limit	
 		total += len(commits_to_insert)
-	
-		print(count, len(commits_to_insert), total)
+		info = str([count,len(commits_to_insert),total])
+		output.write(info)
+		print(info)			
 
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
-		pass
+		raise SystemExit

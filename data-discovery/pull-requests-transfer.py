@@ -7,6 +7,8 @@ import pymongo, sys
 from pprint import pprint
 import transfer_helpers as helpers
 
+output = open('pull-requests-transfer.txt', 'w')
+
 client = pymongo.MongoClient (host="da0.eecs.utk.edu")
 
 # Define the source and target collections
@@ -23,9 +25,10 @@ skip = 0
 limit = 1000
 count = 1
 total = 0
+fields = {"url": 1, "user": 1}
 while count > 0:
 	try:
-		docs = source.find({}).skip(skip).limit(limit)
+		docs = source.find({}, fields).skip(skip).limit(limit)
 		docs = list(docs)
 		to_insert = []
 		for doc in docs:
@@ -39,9 +42,9 @@ while count > 0:
 		skip += limit
 		count = len(docs)
 		total += len(to_insert)
-		print(count, len(to_insert), total)
+		info = str(['pull requests', count, len(to_insert), total])
+		print(info)
+		output.write(info)
 	except:
-		print('error with docs')
-		print(str(docs))
-		pass
-
+		print("Unexpected error:", sys.exc_info()[0])
+		raise SystemExit
