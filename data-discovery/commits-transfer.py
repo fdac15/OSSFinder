@@ -42,7 +42,6 @@ while count > 0:
 	for doc in docs:
 		repo_full_names[doc['full_name']] = 0
 
-print('here')
 
 # Retrieve and iterate over all commits.
 # We only care about the url and the commiter, so we are ignoring other fields. 
@@ -65,6 +64,7 @@ while count > 0:
 			full_name = '/'.join(url.split('/')[4:6]) #comment
 			# If we care about this commit's repo, we need to insert it.
 			if full_name in repo_full_names:
+				doc['full_name'] = full_name
 				commits_to_insert.append(doc)
 	
 		# More efficient to insert a list all at once instead of individually
@@ -81,3 +81,7 @@ while count > 0:
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
 		raise SystemExit
+info = 'COMPLETE: ' + str(total)
+output.write(info)
+print(info)
+

@@ -47,3 +47,8 @@ while count > 0:
 	info =str(['forks', count, len(to_insert), total])
 	output.write(info)
 	print(info)
+
+info = 'COMPLETE: ' + str(total)
+output.write(info)
+print(info)
+

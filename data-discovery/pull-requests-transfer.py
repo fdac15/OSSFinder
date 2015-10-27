@@ -33,6 +33,7 @@ while count > 0:
 		to_insert = []
 		for doc in docs:
 			full_name = helpers.url_to_full_name(doc['url'])
+			doc['full_name'] = full_name
 			if full_name in repo_full_names:
 				to_insert.append(doc)
 	
@@ -48,3 +49,7 @@ while count > 0:
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
 		raise SystemExit
+
+info = 'COMPLETE: ' + str(total)
+output.write(info)
+print(info)

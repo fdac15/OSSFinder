@@ -50,3 +50,8 @@ while count > 0:
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
 		raise SystemExit
+
+info = 'COMPLETE: ' + str(total)
+output.write(info)
+print(info)
+
