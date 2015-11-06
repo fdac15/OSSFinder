@@ -4,7 +4,7 @@
 import pymongo
 from pprint import pprint
 
-output = open('commits-output.txt', 'w')
+output = open('commit-output.txt', 'w')
 
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 
@@ -29,14 +29,14 @@ for user in users:
 				if(len(rel) > 0):
 					rel = rel[0]
 					rel['commits'] = rel['commits'] + 1
-					print('U', userCommits[i], userCommits[j])
+					out = str(['U', userCommits[i], userCommits[j]])
+					print(out)
+					output.write(out)
 				else:
 					rel = {'repo_a': userCommits[i], 'repo_b': userCommits[j], 'commits': 1}
-					relationships.insert(rel)
-					print('C', userCommits[i], userCommits[j])
-				
-				# find the relationship that matches these two repos
-				# if it doesn't exist, create it
-				# increment the commits value by 1
-				# save it 
-				# print(userCommits[i], "  ", userCommits[j])	
+					out = str(['C', userCommits[i], userCommits[j]])
+					print(out)
+					output.write(out)
+
+print('\nDONE')
+output.write('\nDONE')
