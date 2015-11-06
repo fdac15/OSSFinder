@@ -1,42 +1,42 @@
-
 # Iterate over repos, compare each of the repos to all of the
 # repos after it.
 
 import pymongo
 from pprint import pprint
 
-output = open('commits-output.txt', 'w')
+output = open('commit-output.txt', 'w')
 
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 
 # Define source and target collections
-repos = client['ossfinder']['repositories']
+repositories = client['ossfinder']['repositories']
 commits = client['ossfinder']['commits']
-relationships = client['ossfinder']['relationships']
+relationships = client['ossfinder']['rel_commits']
+
+# Clear 
+relationships.delete_many({})
+
+users = commits.distinct("author.login")
 
 
-# Iterate over repos, one by one
-begin_outer = 0
-while True:
-	docs = repos.find({}).skip(begin_outer).limit(1)
-	docs = list(docs)
-	begin_outer += 1
+for user in users:
+	userCommits = commits.find({"author.login": user}).distinct("full_name")
+	if (len(userCommits) > 1): #map all relations between the repos
+		for i in range(0, len(userCommits)):
+			for j in range(i+1, len(userCommits)): #this works
+				rel = relationships.find({'repo_a': userCommits[i], 'repo_b': userCommits[j]})
+				rel = list(rel)
+				if(len(rel) > 0):
+					rel = rel[0]
+					rel['commits'] = rel['commits'] + 1
+					out = str(['U', userCommits[i], userCommits[j]])
+					print(out)
+					output.write(out)
+				else:
+					rel = {'repo_a': userCommits[i], 'repo_b': userCommits[j], 'commits': 1}
+					out = str(['C', userCommits[i], userCommits[j]])
+					print(out)
+					output.write(out)
 
-	if(len(docs) < 1):
-		break
-
-	print(docs[0]['full_name'])
-
-	# Iterate again, this time starting at begin_outer + 1
-	begin_inner = begin_outer + 1
-	limit_inner = 1000
-	while True:
-		docs_inner = repos.find({}).skip(begin_inner).limit(limit_inner)
-		docs_inner = list(docs_inner)
-		begin_inner += limit_inner
-		if(len(docs_inner) < 1): break
-		print('  ', docs_inner[0]['full_name'])	
-		
-
-
-	
+print('\nDONE')
+output.write('\nDONE')
