@@ -1,4 +1,3 @@
-
 # Iterate over repos, compare each of the repos to all of the
 # repos after it.
 
@@ -10,33 +9,34 @@ output = open('commits-output.txt', 'w')
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 
 # Define source and target collections
-repos = client['ossfinder']['repositories']
+repositories = client['ossfinder']['repositories']
 commits = client['ossfinder']['commits']
-relationships = client['ossfinder']['relationships']
+relationships = client['ossfinder']['rel_commits']
+
+# Clear 
+relationships.delete_many({})
+
+users = commits.distinct("author.login")
 
 
-# Iterate over repos, one by one
-begin_outer = 0
-while True:
-	docs = repos.find({}).skip(begin_outer).limit(1)
-	docs = list(docs)
-	begin_outer += 1
-
-	if(len(docs) < 1):
-		break
-
-	print(docs[0]['full_name'])
-
-	# Iterate again, this time starting at begin_outer + 1
-	begin_inner = begin_outer + 1
-	limit_inner = 1000
-	while True:
-		docs_inner = repos.find({}).skip(begin_inner).limit(limit_inner)
-		docs_inner = list(docs_inner)
-		begin_inner += limit_inner
-		if(len(docs_inner) < 1): break
-		print('  ', docs_inner[0]['full_name'])	
-		
-
-
-	
+for user in users:
+	userCommits = commits.find({"author.login": user}).distinct("full_name")
+	if (len(userCommits) > 1): #map all relations between the repos
+		for i in range(0, len(userCommits)):
+			for j in range(i+1, len(userCommits)): #this works
+				rel = relationships.find({'repo_a': userCommits[i], 'repo_b': userCommits[j]})
+				rel = list(rel)
+				if(len(rel) > 0):
+					rel = rel[0]
+					rel['commits'] = rel['commits'] + 1
+					print('U', userCommits[i], userCommits[j])
+				else:
+					rel = {'repo_a': userCommits[i], 'repo_b': userCommits[j], 'commits': 1}
+					relationships.insert(rel)
+					print('C', userCommits[i], userCommits[j])
+				
+				# find the relationship that matches these two repos
+				# if it doesn't exist, create it
+				# increment the commits value by 1
+				# save it 
+				# print(userCommits[i], "  ", userCommits[j])	
