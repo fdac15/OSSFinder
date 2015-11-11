@@ -1,4 +1,6 @@
 from flask import Flask, url_for
+import lib.features as features
+
 app = Flask(__name__, static_url_path='')
 
 # Serve the static index.html file
@@ -16,5 +18,4 @@ def get_repos():
 def features_search():
   return 'features search'
 
-  
 app.run()
