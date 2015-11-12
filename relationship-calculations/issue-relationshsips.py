@@ -24,11 +24,13 @@ for user in users:
 					out = str(['U', userIssues[i], userIssues[j]])
 					print(out)
 					output.write(out)
+					relationships.update_one({'_id': rel['_id']}, {"$inc": {"issues":1}})
 				else:
-					rel = {'repo_a':userIssues[i], 'repo_b':userIssues[j], 'commits': 1}
+					rel = {'repo_a':userIssues[i], 'repo_b':userIssues[j], 'issues': 1}
 					out = str(['C', userIssues[i], userIssues[j]])
 					print(out)
 					output.write(out)
+					relationships.save(rel)
 
 print('\nDONE')
 output.write('\nDONE')
