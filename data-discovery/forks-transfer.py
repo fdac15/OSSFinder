@@ -13,8 +13,8 @@ client = pymongo.MongoClient (host="da0.eecs.utk.edu")
 
 # Define the source and target collections
 repos = client['ossfinder']['repositories']
-source = client['test']['watchers']
-target = client['ossfinder']['watchers']
+source = client['test']['forks']
+target = client['ossfinder']['forks']
 
 repo_full_names = helpers.get_repo_full_names(repos);
 
