@@ -1,5 +1,6 @@
-from flask import Flask, url_for
-import lib.features as features
+from flask import Flask, url_for, jsonify
+import lib.features as Features
+import lib.repo as Repo
 
 app = Flask(__name__, static_url_path='')
 
@@ -11,7 +12,8 @@ def root():
 # Return a list of repos from the mongo database
 @app.route('/repos', methods=['GET'])
 def get_repos():
-  return 'get repos'
+  repos = Repo.find()
+  return jsonify(repos=repos)
 
 # Handle the user's search
 @app.route('/features/search', methods=['POST'])
