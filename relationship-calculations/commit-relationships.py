@@ -32,7 +32,7 @@ for user in users:
 					out = str(['U', userCommits[i], userCommits[j]])
 					print(out)
 					output.write(out)
-					#relationships.update_one(rel)
+					relationships.update_one({'_id': rel['_id']}, {"$inc": {"commits":1}})
 				else:
 					rel = {'repo_a': userCommits[i], 'repo_b': userCommits[j], 'commits': 1}
 					out = str(['C', userCommits[i], userCommits[j]])
