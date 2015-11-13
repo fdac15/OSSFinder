@@ -1,7 +1,7 @@
 var app = angular.module("app", []),
 
 config = {
-  api: 'localhost:5000'
+  api: 'http://localhost:5000'
 },
 
 homeController = app.controller("HomeController", function($scope, DataService) {
