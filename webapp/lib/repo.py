@@ -1,3 +1,9 @@
+import pymongo
+from bson.json_util import dumps
+
+client = pymongo.MongoClient(host="da0.eecs.utk.edu")
+source = client['ossfinder']['repositories']
 
 def find():
-  return [1,2,3,4,5]
+  docs = source.find({}, {"full_name": 1, "html_url": 1, "name": 1, "owner.login": 1})
+  return dumps(docs)

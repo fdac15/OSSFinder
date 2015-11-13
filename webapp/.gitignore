@@ -1,2 +1,3 @@
 venv
 lib/__pycache__
+**/*.pyc

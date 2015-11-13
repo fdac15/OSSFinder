@@ -1,6 +1,9 @@
+#! /usr/bin/env python
 from flask import Flask, url_for, jsonify
-import lib.features as Features
+#import lib.features as Features
+import json
 import lib.repo as Repo
+import pymongo
 
 app = Flask(__name__, static_url_path='')
 
@@ -13,7 +16,7 @@ def root():
 @app.route('/repos', methods=['GET'])
 def get_repos():
   repos = Repo.find()
-  return jsonify(repos=repos)
+  return repos
 
 # Handle the user's search
 @app.route('/features/search', methods=['POST'])
