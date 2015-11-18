@@ -19,10 +19,16 @@
 
     <!-- Form part 2 -->
     <p><strong>2. Select several repos have used in the past.</strong></p>
+    <label>Search: <input ng-model="selectReposFilter"></label>
+    <select multiple name="select-repos" style="height: 25vh; width: 50vw">
+      <option ng-repeat="(key,repo) in repos | filter:selectReposFilter" value={{repo.full_name}}>{{repo.full_name}}</option>
+    </select>    
     <hr/>
 
     <!-- Form part 3 -->
-    <p><strong>3. See your results.</strong></p>
+    <div>
+      <button ng-click="submitForm()">3. See your results.</button>
+    </div>
     <hr/>
 
 

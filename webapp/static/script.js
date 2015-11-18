@@ -15,6 +15,9 @@ homeController = app.controller("HomeController", function($scope, DataService) 
     });
   })();
 
+  $scope.submitForm = function() {
+    console.log('hello!');
+  };
 
 }),
 
@@ -23,7 +26,17 @@ dataService = app.service("DataService", function($http) {
   return {
     getRepos: function() {
 
-      return $http.get(config.api + '/repos');
+      return $http.get(config.api + '/repos')
+	.then(function(res) { 
+	  // sort
+/*	  res.data.sort(function(a,b) {
+	    if(a.full_name > b.full_name) return 1;
+            if(a.full_name < b.full_name) return -1;
+	    return 0;
+	  });*/
+          console.log(res.data.length);
+	  return res.data;
+	});
 
     },
     searchFeatures: function() {
