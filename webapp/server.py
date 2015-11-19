@@ -8,8 +8,9 @@ from flask.ext.cors import CORS
 app = Flask(__name__, static_url_path='')
 CORS(app)
 
-# Setup feature search
-
+# Setup feature search (everything that needs to run one time)
+Features.service_initialization('./.service', './.readmes')
+Features.load_readme_files('./readme-files')
 
 
 # Define routes

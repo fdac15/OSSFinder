@@ -2,3 +2,5 @@ venv
 lib/__pycache__
 **/*.pyc
 readme-files
+.readmes
+.service
