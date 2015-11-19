@@ -15,9 +15,15 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 _texts = {}
 
-def service_initialization(directory_path='.'): #'../Extract_features_using_readmeAPIsource/', directory to place this service
-    service = SessionServer(directory_path)
+#return a service. used as parameter in search() function.
+def service_initialization(directory_path='.',readme_path='.',autosession=True): 
+    #'../Extract_features_using_readmeAPIsource/', directory to place this service 
+    #'./Readme/Readme_set_complete', directory where the readme file source is stored.
+    service = SessionServer(directory_path,autosession)
+    if 'model'  not in os.listdir(directory_path+'a/') :
+        upload_train(service,readme_path)
     return service
+
 # Takes a directory path. Loads the readme files into simserver.
 # Return the number of files loaded if the files were loaded successfully.
 # Throw an error is any problem loading the files.
@@ -51,6 +57,13 @@ def train_model(service=None):
     service.index(corpus)
     return
 
+#Check if model exists. If not, do the data uploading and model training.
+def upload_train(service=None,readme_path='.'):
+    if service == None:
+        raise ValueError("You should give the service value in upload_train.\n")
+    load_readme_files(readme_path)
+    train_model(service)
+            
 # used to do AND search.(It can be used by setting AndSearch into True in function search)
 def go_parsing(pre_result= [],search_string=''):
     result = []
@@ -80,28 +93,29 @@ def go_parsing(pre_result= [],search_string=''):
 
 # Taks a search query and a similarity threshold.
 # Performs a search using the query and threshold against the simserver model.
-# Returns a list of search results for the query
+# Returns a list of search results for the query()--------Example:plivo/plivoframework
 # Throw an error if something goes wrong.
-def search(query, service,min_score=0.4,max_results=50,AndSearch=False): #query = 'javascript framework'
+def search(query, service,min_score=0.4,max_results=50,AndSearch=False,ignore=True): #query = 'javascript framework'
     doc = {'tokens': utils.simple_preprocess(query)}
     pre_result = service.find_similar(doc, min_score, max_results)
+    if ignore==True:
+        pre_result = list(map(lambda result:result[0],pre_result))
+        pre_result = list(map(lambda result:result.split('____')[1]+'/'+result.split('____')[2].replace('.md',''),pre_result))
     if AndSearch == True:
-        print(go_parsing(pre_result,query))
+        return go_parsing(pre_result,query)
     else:
-        print(pre_result)
-    return
+        return pre_result
+
 
 
 #########API
-#way to use this module
 #do once
 '''
-service = service_initialization('../Extract_features_complete/')
-load_readme_files('./Readme/Readme_set_complete')
-train_model(service)
-'''
-
-#do as many times as you want
-'''
+#put this line in the beginning.
+service_initialization(directory_path='.',readme_path='.',autosession=True):
+    #'../Extract_features_using_readmeAPIsource/', directory to place this service 
+    #'./Readme/Readme_set_complete', directory where the readme file source is stored.
+# each time you want to do search, do as following.
+# service is the value returned by service_initialization function
 search('javascript framework',service)
 '''
