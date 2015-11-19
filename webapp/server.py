@@ -36,6 +36,11 @@ def features_search():
   def get_full_name(r): return str(r["full_name"])
   full_names = map(get_full_name, repos)
 
-  return json.dumps({"query": query, "repos": repos })
+  # TODO: use the Features module to search.
+  # TODO: sort the returned repos based on relationship
+  results = []
+  
+
+  return json.dumps(results)
 
 app.run(debug=True)
