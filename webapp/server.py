@@ -8,6 +8,12 @@ from flask.ext.cors import CORS
 app = Flask(__name__, static_url_path='')
 CORS(app)
 
+# Setup feature search
+
+
+
+# Define routes
+
 # Serve the static index.html file
 @app.route('/')
 def root():
