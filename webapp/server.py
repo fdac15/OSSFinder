@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-from flask import Flask, url_for, jsonify
+from flask import Flask, url_for, jsonify, request
 import lib.features as Features
 import json, pymongo
 import lib.repo as Repo
@@ -20,8 +20,15 @@ def get_repos():
   return repos
 
 # Handle the user's search
-@app.route('/features/search', methods=['POST'])
+@app.route('/search', methods=['POST'])
 def features_search():
-  return 'features search'
+  data = json.loads(request.data)
+  query = str(data["query"])
+  repos = list(data["repos"])
 
-app.run()
+  def get_full_name(r): return str(r["full_name"])
+  full_names = map(get_full_name, repos)
+
+  return json.dumps({"query": query, "repos": repos })
+
+app.run(debug=True)

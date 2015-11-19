@@ -2,7 +2,7 @@ import pymongo
 from bson.json_util import dumps
 
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
-source = client['ossfinder']['repositories']
+source = client['ossfinder']['repositories_unique']
 
 # A little cache never hurt
 cache = {}

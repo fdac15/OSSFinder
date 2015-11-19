@@ -13,16 +13,18 @@
 
 
     <!-- Form part 1 -->
-    <p><strong>1. Enter the feature you are looking for.</strong></p>
+    <div>   
+      <p><strong>1. Enter the feature you are looking for.</strong></p>
+      <input ng-model="featureSearchQuery"></input>
+    </div>
     <hr/>
 
 
     <!-- Form part 2 -->
     <p><strong>2. Select several repos have used in the past.</strong></p>
     <label>Search: <input ng-model="selectReposFilter"></label>
-    <select multiple name="select-repos" style="height: 25vh; width: 50vw">
-      <option ng-repeat="(key,repo) in repos | filter:selectReposFilter" value={{repo.full_name}}>{{repo.full_name}}</option>
-    </select>    
+    <select multiple ng-options="repo as repo.full_name for repo in repos" ng-model="selectedRepos" style="height: 25vh;"></select>
+
     <hr/>
 
     <!-- Form part 3 -->
