@@ -20,7 +20,7 @@ def service_initialization(directory_path='.',readme_path='.',autosession=True):
     #'../Extract_features_using_readmeAPIsource/', directory to place this service 
     #'./Readme/Readme_set_complete', directory where the readme file source is stored.
     service = SessionServer(directory_path,autosession)
-    if 'model'  not in os.listdir(directory_path+'a/') :
+    if 'model'  not in os.listdir(directory_path+'/a/') :
         upload_train(service,readme_path)
     return service
 

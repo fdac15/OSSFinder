@@ -9,8 +9,9 @@ app = Flask(__name__, static_url_path='')
 CORS(app)
 
 # Setup feature search (everything that needs to run one time)
-Features.service_initialization('./.service', './.readmes')
-Features.load_readme_files('./readme-files')
+#Features.service_initialization('./.service', './.readmes')
+Features.service_initialization('./model_directory', './readme-files')
+#Features.load_readme_files('./readme-files')
 
 
 # Define routes
