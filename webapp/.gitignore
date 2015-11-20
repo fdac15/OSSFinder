@@ -8,3 +8,4 @@ feature-search-model/*
 feature-search-readmes/*
 !feature-search-readmes/.keep
 
+sqldict*

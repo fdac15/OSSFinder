@@ -15,13 +15,14 @@
     <!-- Form part 1 -->
     <div>   
       <p><strong>1. Enter the feature you are looking for.</strong></p>
+      <p><small>Ex: "mapping", "graphing", "math", "matrix"</small></p>
       <input ng-model="featureSearchQuery"></input>
     </div>
     <hr/>
 
 
     <!-- Form part 2 -->
-    <p><strong>2. Select several repos have used in the past.</strong></p>
+    <p><strong>2. Select several repos you are familiar with or have used in the past.</strong></p>
     <label>Search: <input ng-model="selectReposFilter"></label>
     <select multiple ng-options="repo as repo.full_name for repo in repos" ng-model="selectedRepos" style="height: 25vh;"></select>
 
