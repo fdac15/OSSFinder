@@ -8,11 +8,8 @@ from flask.ext.cors import CORS
 app = Flask(__name__, static_url_path='')
 CORS(app)
 
-# Setup feature search (everything that needs to run one time)
-#Features.service_initialization('./.service', './.readmes')
-Features.service_initialization('./model_directory', './readme-files')
-#Features.load_readme_files('./readme-files')
-
+# Setup feature search
+search_service = Features.service_initialization('./feature-search-model', './feature-search-readmes')
 
 # Define routes
 
@@ -37,11 +34,11 @@ def features_search():
   def get_full_name(r): return str(r["full_name"])
   full_names = map(get_full_name, repos)
 
+  results = Features.search(query, search_service, min_score=0.25, max_results=100)
+
   # TODO: use the Features module to search.
   # TODO: sort the returned repos based on relationship
-  results = []
   
-
   return json.dumps(results)
 
 app.run(debug=True)

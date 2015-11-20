@@ -1,6 +1,10 @@
 venv
 lib/__pycache__
 **/*.pyc
-readme-files
-.readmes
-.service
+
+feature-search-model
+!feature-search-model/.keep
+
+feature-search-readmes
+!feature-search-readmes/.keep
+
