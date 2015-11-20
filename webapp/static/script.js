@@ -6,9 +6,11 @@ var config = {
 
 var homeController = app.controller("HomeController", function($scope, DataService) {
   $scope.message = "foobar";
-  $scope.repos = [];
+  $scope.repos = [{ full_name: 'Loading repos...' }];
   $scope.selectedRepos = [];
   $scope.featureSearchQuery = '';
+  $scope.featureSearchResults = [];
+  $scope.recommendationSearchResults = [];
 
   (function initialize() {
     DataService.getRepos().then(function(repos) {
@@ -16,10 +18,20 @@ var homeController = app.controller("HomeController", function($scope, DataServi
     });
   })();
 
-  $scope.submitForm = function() {
+  $scope.submitFeatureSearch = function() {
+    DataService.featureSearch($scope.featureSearchQuery)
+	.then(function(results) {
+          $scope.featureSearchResults = results;
+        });
+  };
+
+  $scope.submitRecommendationSearch = function() {
     console.log($scope.selectedRepos);
     console.log($scope.featureSearchQuery);
-    DataService.getResults($scope.featureSearchQuery, $scope.selectedRepos);
+    DataService.recommendationSearch($scope.featureSearchQuery, $scope.selectedRepos)
+	.then(function(results) {
+          $scope.recommendationSearchResults = results;
+	});
   };
 
 });
@@ -28,7 +40,6 @@ var dataService = app.service("DataService", function($http) {
 
   return {
     getRepos: function() {
-
       return $http.get(config.api + '/repos')
 	.then(function(res) { 
 	  // sort
@@ -39,13 +50,21 @@ var dataService = app.service("DataService", function($http) {
 	  });
 	  return res.data;
 	});
-
     },
-    searchFeatures: function() {
-
+    featureSearch: function(featureSearchQuery) {
+      return $http.post(config.api + '/search/feature', {
+        query: featureSearchQuery
+      }, {
+        headers: {
+          "Content-Type": "application/json"
+        }
+      })
+      .then(function(res) {
+         return res.data;
+      });
     },
-    getResults: function(featureSearchQuery, selectedRepos) {
-      $http.post(config.api + '/search', {
+    recommendationSearch: function(featureSearchQuery, selectedRepos) {
+      return $http.post(config.api + '/search/recommendation', {
           query: featureSearchQuery,
           repos: selectedRepos
         }, {
@@ -54,7 +73,7 @@ var dataService = app.service("DataService", function($http) {
           }
         })
 	.then(function(res) {
-	  console.log(res);
+	  return res.data;
 	});
     }
   };

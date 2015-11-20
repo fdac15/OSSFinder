@@ -25,9 +25,20 @@ def get_repos():
   repos = Repo.find()
   return repos
 
-# Handle the user's search
-@app.route('/search', methods=['POST'])
+# Handle the feature search
+@app.route('/search/feature', methods=['POST'])
 def features_search():
+  data = json.loads(request.data)
+  feature_query = str(data["query"])
+
+  feature_repos = Features.search(feature_query, search_service, min_score=0.25, max_results=100)
+
+  return json.dumps(feature_repos)
+
+
+# Handle the user's search
+@app.route('/search/recommendation', methods=['POST'])
+def search():
   data = json.loads(request.data)
   feature_query = str(data["query"])
   user_repos = list(data["repos"])

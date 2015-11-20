@@ -2,35 +2,47 @@
 <html ng-app="app">
 
   <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/base-min.css">
     <link rel="stylesheet" href="style.css">
+    <title>OSSFinder</title>
   </head>
 
   <body ng-controller="HomeController">
 
     <h1>OSSFinder</h1>
     <hr/>
-
-
     <!-- Form part 1 -->
     <div>   
-      <p><strong>1. Enter the feature you are looking for.</strong></p>
+      <h3>1. Enter the feature you are looking for.</h3>
       <p><small>Ex: "mapping", "graphing", "math", "matrix"</small></p>
       <input ng-model="featureSearchQuery"></input>
+      <button ng-click="submitFeatureSearch()">Check</button>
+      <p><span ng-bind="featureSearchResults.length"></span> repos match this query.</div>
     </div>
     <hr/>
 
-
     <!-- Form part 2 -->
-    <p><strong>2. Select several repos you are familiar with or have used in the past.</strong></p>
-    <label>Search: <input ng-model="selectReposFilter"></label>
-    <select multiple ng-options="repo as repo.full_name for repo in repos" ng-model="selectedRepos" style="height: 25vh;"></select>
-
-    <hr/>
+    <div>
+      <h3>2. Select several repos you are familiar with or have used in the past.</h3>
+      <label>Type to filter: <input ng-model="selectReposFilter"></label>
+      <br/>
+      <select multiple ng-options="repo as repo.full_name for repo in repos | filter: selectReposFilter" ng-model="selectedRepos" style="height: 25vh;"></select>
+      <hr/>
+    </div>
 
     <!-- Form part 3 -->
     <div>
-      <button ng-click="submitForm()">3. See your results.</button>
+      <h3>3. Get Recommendations</h3>
+      <button ng-click="submitRecommendationSearch()">Get Recommendations</button>
+    </div>
+
+    <div>
+      <h3>4. Results</h3>
+      <ol>
+        <li ng-repeat="result in recommendationSearchResults">
+          {{result}}
+        </li>
+      </ol>
     </div>
     <hr/>
 
