@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 from flask import Flask, url_for, jsonify, request
 import lib.features as Features
+import lib.relationships as Relationships
 import json, pymongo
 import lib.repo as Repo
 from flask.ext.cors import CORS
@@ -28,17 +29,15 @@ def get_repos():
 @app.route('/search', methods=['POST'])
 def features_search():
   data = json.loads(request.data)
-  query = str(data["query"])
-  repos = list(data["repos"])
+  feature_query = str(data["query"])
+  user_repos = list(data["repos"])
 
   def get_full_name(r): return str(r["full_name"])
-  full_names = map(get_full_name, repos)
+  full_names = map(get_full_name, user_repos)
 
-  results = Features.search(query, search_service, min_score=0.25, max_results=100)
-
-  # TODO: use the Features module to search.
-  # TODO: sort the returned repos based on relationship
+  feature_repos = Features.search(feature_query, search_service, min_score=0.25, max_results=100)
+  matched_repos = Relationships.match_repos(feature_repos, user_repos)
   
-  return json.dumps(results)
+  return json.dumps(matched_repos)
 
 app.run(debug=True)
