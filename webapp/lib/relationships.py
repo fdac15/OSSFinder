@@ -10,8 +10,12 @@ user_repos are the repos that the user selected (step 2 in the webapp).
 
 Create a matched list.
 The matched list consists of any feature_repos that have a relationship > 0 with user_repos
-Sort the list by relationship value
+Sort the list by relationship value.
+
+The returned list should have the format:
+[{ full_name: 'user/repo', count: 12345 }, { full_name: 'user/repo', count: 6789}]
 '''
+
 def match_repos(feature_repos, user_repos):
   matched = []
   
@@ -19,6 +23,4 @@ def match_repos(feature_repos, user_repos):
   
   # Put stuff in the matched list
   
-
-
   return matched
