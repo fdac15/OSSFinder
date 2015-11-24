@@ -39,7 +39,7 @@ class Worker(Thread):
     count = 1
     skip = self.begin 
     while count != 0 and skip < self.end:
-      docs = source.find({}).skip(skip).limit(self.limit)
+      docs = self.source.find({}).skip(skip).limit(self.limit)
       docs = list(docs)
       
       # call external library to perform the aggregation
