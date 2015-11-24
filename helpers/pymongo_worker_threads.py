@@ -1,6 +1,5 @@
 from threading import Thread
 import pymongo, sys, math
-import aggregate_calculate as agcalc 
 
 # The worker class defines an object that takes a portion of a mongo
 # collection at one time and runs a passed function against it.
@@ -14,7 +13,7 @@ class Worker(Thread):
   worker_function: function; the function to which the chunks of the pymongo collection will be passed as the first argument
   worker_args: dict; key/value pairs represent the named arguments passed to the pymongo .find() function
   '''
-  def __init__(self, source_collection, find_args = {}, begin, end, limit, worker_function, worker_args = {}):
+  def __init__(self, source_collection, find_args, begin, end, limit, worker_function, worker_args):
     Thread.__init__(self)
     self.source_collection = source_collection
     self.find_args = find_args
@@ -31,22 +30,30 @@ class Worker(Thread):
     count = 1
     skip = self.begin 
     while count != 0 and skip < self.end:
-      chunk = self.source.find(**self.find_args).skip(skip).limit(self.limit)
+      chunk = self.source_collection.find(**self.find_args).skip(skip).limit(self.limit)
       chunk = list(chunk)
       self.worker_args["chunk"] = chunk
       self.worker_function(**self.worker_args)
       count = len(chunk)
       skip += self.limit
 
-def do_work(source_collection, find_args, worker_function, worker_args, num_docs_per_thread = 1000):
+def do_work(source_collection, worker_function, find_args = {}, worker_args = {}, num_docs_per_thread = 1000):
   # determine the number of threads to spawn
   num_docs = source_collection.find(**find_args).count()
   num_threads = math.ceil(num_docs / num_docs_per_thread)
   limit = min(500, num_docs)
  
+  workers = []
+
   # spawn the workers
   for i in range(0, num_threads):
     begin = i * num_docs_per_thread
     end = (i + 1) * num_docs_per_thread
     thread = Worker(source_collection, find_args, begin, end, limit, worker_function, worker_args) 
     thread.start()
+    workers.append(thread)
+
+  for w in workers:
+    w.join()
+
+  print(str(i) + ' threads spawned and completed')
