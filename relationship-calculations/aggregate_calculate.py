@@ -19,9 +19,11 @@ These entries should be stored in the collection rel_aggregate
 '''
 
 
-def aggregate_calculate(curlist, multiplier, name):
-	aggregate = client['ossfinder']['rel_aggregate']
-	aggregate.delete_many({})
+def aggregate_calculate(source, target, multiplier, name):
+	curlist = source
+	aggregate = target
+	# aggregate = client['ossfinder']['rel_aggregate']
+	# aggregate.delete_many({})
 	#loop through curlist
 		#check if the repos exist
 			#add the value and increment total by it
