@@ -37,6 +37,14 @@ class Worker(Thread):
       count = len(chunk)
       skip += self.limit
 
+'''
+source_collection: the mongo collection
+worker_function: the function doing work on the chunks of documents. should take 'chunks' as
+  its first parameter
+find_args: the .find() arguments that should be passed to mongo .find() method.
+worker_args: the arguments that should be passed to the worker function
+num_docs_per_thread: what the name says.
+'''
 def do_work(source_collection, worker_function, find_args = {}, worker_args = {}, num_docs_per_thread = 1000):
   # determine the number of threads to spawn
   num_docs = source_collection.find(**find_args).count()
