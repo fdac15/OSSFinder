@@ -48,11 +48,15 @@ def worker_function(chunk, target, repo_full_names, output):
   output.write(info)
 
 # These are the arguments that have to get passed into worker_function
-# by the do_work function.
+# by the do_work function. These are the fork and knife that you put in
+# your lunch box. 
 worker_args = {
   'target': target,
   'repo_full_names': repo_full_names,
   'output': output
 }
 
+# Finally we call the do_work function, passing in all of the named arguments that we defined above.
+# Note, that when passing worker_args = worker_args, the second worker_args refers to the variable 
+# defined above.
 workers.do_work(source_collection = source, worker_function = worker_function, worker_args = worker_args, num_docs_per_thread=10000)
