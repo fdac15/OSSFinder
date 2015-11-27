@@ -20,6 +20,17 @@ print('retrieved full names')
 target.delete_many({})
 print('deleted from target')
 
+# This is the worker function that gets passed into the do_work function.
+# It will be given a "chunk" of mongodb records. It iterates over those
+# records to find any documents with a full_name that exists in the "repo_full_names"
+# argument. Then it inserts the documents that it finds into the "target" collection.
+# Finally it writes some information to the "output" argument.
+
+# It is important to understand that this function DOES NOT execute in the context of this
+# script. It executes in the context of the do_work function. So it's like your packing
+# your lunch here, but then you're gonna eat it once you get to work. If you need a fork
+# and knife to eat your lunch, you put it in your lunch box. "Chunk" is your lunch, and the
+# remaining arguments are your fork and knife...
 def worker_function(chunk, target, repo_full_names, output):
   info = str(['chunk', len(chunk)])
   print(info)
@@ -36,6 +47,8 @@ def worker_function(chunk, target, repo_full_names, output):
   print(info)
   output.write(info)
 
+# These are the arguments that have to get passed into worker_function
+# by the do_work function.
 worker_args = {
   'target': target,
   'repo_full_names': repo_full_names,
