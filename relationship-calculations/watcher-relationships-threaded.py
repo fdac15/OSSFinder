@@ -24,9 +24,12 @@ def worker_function(chunk, relationships, users, output):
 	for user in users:
 		watchers[user] = []
 	for doc in chunk:
-		if doc['login'] in watchers:
-			watchers[doc['login']].append(doc['full_name'])
-	print(watchers)
+		#if doc['login'] in watchers:
+		watchers['foo'] = 'bar'
+		#watchers[doc['login']] = 'ayylmao';
+		#print(doc['login'])
+			#watchers[doc['login']].append(doc['full_name'])
+	print(watchers['foo'])
 
 '''
 	for key, vals in watchers.items():
