@@ -7,7 +7,7 @@ output = open('watcher-output.txt', 'w')
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 
 watchers = client['ossfinder']['watchers']
-relationships = client['ossfinder']['rel_watchers']
+relationships = client['ossfinder']['rel_watchers2']
 
 relationships.delete_many({})
 
