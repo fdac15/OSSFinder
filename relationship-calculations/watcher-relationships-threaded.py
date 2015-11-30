@@ -24,12 +24,23 @@ def worker_function(chunk, relationships, users, output):
 	for user in users:
 		watchers[user] = []
 	for doc in chunk:
-		#if doc['login'] in watchers:
-		watchers['foo'] = 'bar'
-		#watchers[doc['login']] = 'ayylmao';
+		if doc['login'] in watchers:
+			tmp = watchers[doc['login']]
+			print("tmp before append: ")
+			print(tmp)
+			tmp.append(doc['full_name'])
+			print("tmp after append: ")
+			print(tmp)
+			watchers[doc['login']] = tmp
+			print("watchers[doc['login']]: ")
+			print(watchers[doc['login']])
+			#watchers[doc['login']] = 'ayylmao';
+			#print(doc['login'])
+		#watchers['foo'] = 'bar'
 		#print(doc['login'])
 			#watchers[doc['login']].append(doc['full_name'])
-	print(watchers['foo'])
+	#print(watchers['foo'])
+	print(watchers)
 
 '''
 	for key, vals in watchers.items():
@@ -66,5 +77,5 @@ worker_args = {
 }
 
 # Call the module function with the correct params named
-workers.do_work(source_collection = watchers, worker_function = worker_function, find_args = {}, worker_args = worker_args, num_docs_per_thread = 10000)
+workers.do_work(source_collection = watchers, worker_function = worker_function, find_args = {}, worker_args = worker_args, num_docs_per_thread = 10000, wait_to_join = true)
 

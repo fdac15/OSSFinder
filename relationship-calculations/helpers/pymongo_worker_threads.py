@@ -59,7 +59,7 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
     end = (i + 1) * num_docs_per_thread
     thread = Worker(source_collection, find_args, begin, end, limit, worker_function, worker_args) 
     thread.start()
-    if (wait_to_join) thread.join
+    if (wait_to_join) thread.join()
     workers.append(thread)
   
   if(!wait_to_join):    
