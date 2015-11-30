@@ -11,40 +11,49 @@ relationships = client['ossfinder']['rel_watchers2']
 
 relationships.delete_many({})
 
-users = watchers.distinct("login")
-
-
+# Read all of the unique users in from a file to save some time.
+users_file = open('watcher-users.txt', 'r')
+users = []
+for line in users_file: users.append(line.strip())
 
 # Replace this with the function that will process the chunk
 # of documents. In our case this will be the aggregate_calculate
 # function. 
 
 def worker_function(chunk, relationships, users, output):
+	# dict for key/val storage
+	# key: user name
+	# val: the repos that the user has watched
 	watchers={}
 	for user in users:
 		watchers[user] = []
+
+	# iterate over the mongo docs in the chunk
 	for doc in chunk:
-		if doc['login'] in watchers:
-			tmp = watchers[doc['login']]
-			#print("tmp before append: ")
-			#print(tmp)
-			tmp.append(doc['full_name'])
-			#print("tmp after append: ")
-			#print(tmp)
-			watchers[doc['login']] = tmp
+		# grab the user's list from the dict
+		tmp = watchers[doc['login']]
+		# append the repo full name to the list
+		tmp.append(doc['full_name'])
+		# store the list back on the watchers dict
+		watchers[doc['login']] = tmp
+
 	for user in users:
+		#if the user has more than one watched repo
 		if(len(watchers[user]) > 1):
+			#loop through all of the possible repos
 			for i in range(0, len(watchers[user])):
 				for j in range(i+1, len(watchers[user])):
+					#check if the relationship already exists
 					rel = relationships.find({'repo_a': watchers[user][i], 'repo_b': watchers[user][j]})
 					rel = list(rel)
+					#if the relationship already exists, update the watchers count
 					if(len(rel) > 0):
 						rel = rel[0]
-						rel['watchers'] = rel['watchers'] + 1
 						out = str(['U', watchers[user][i], watchers[user][j]])
 						print(out)
 						output.write(out)
 						relationships.update_one({'_id':rel['_id']}, {"$inc": {"watchers":1}})
+					#if the relationship doesn't exist, create it
 					else:
 						rel = {'repo_a': watchers[user][i], 'repo_b': watchers[user][j], 'watchers': 1}
 						out = str(['C', watchers[user][i], watchers[user][j]])
@@ -52,28 +61,6 @@ def worker_function(chunk, relationships, users, output):
 						output.write(out)
 						relationships.save(rel)
 	
-'''
-	for user in users:
-		userWatchers = chunk.find({"login": user}).distinct("full_name")
-		if(len(userWatchers) > 1):
-			for i in range(0, len(userWatchers)):
-				for j in range(i+1, len(userWatchers)):
-					rel = relationships.find({'repo_a': userWatchers[i], 'repo_b': userWatchers[j]})
-					rel = list(rel)
-					if(len(rel) > 0):
-						rel = rel[0]
-						rel['watchers'] = rel['watchers'] + 1
-						out = str(['U', userWatchers[i], userWatchers[j]])
-						print(out)
-						output.write(out)
-						relationships.update_one({'_id': rel['_id']}, {"$inc": {"watchers":1}})
-					else:
-						rel = {'repo_a': userWatchers[i], 'repo_b': userWatchers[j], 'watchers': 1}
-						out = str(['C', userWatchers[i], userWatchers[j]])
-						print(out)
-						output.write(out)
-						relationships.save(rel)
-'''
 	
 
 
