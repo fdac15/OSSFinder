@@ -20,6 +20,17 @@ print('retrieved full names')
 target.delete_many({})
 print('deleted from target')
 
+# This is the worker function that gets passed into the do_work function.
+# It will be given a "chunk" of mongodb records. It iterates over those
+# records to find any documents with a full_name that exists in the "repo_full_names"
+# argument. Then it inserts the documents that it finds into the "target" collection.
+# Finally it writes some information to the "output" argument.
+
+# It is important to understand that this function DOES NOT execute in the context of this
+# script. It executes in the context of the do_work function. So it's like your packing
+# your lunch here, but then you're gonna eat it once you get to work. If you need a fork
+# and knife to eat your lunch, you put it in your lunch box. "Chunk" is your lunch, and the
+# remaining arguments are your fork and knife...
 def worker_function(chunk, target, repo_full_names, output):
   info = str(['chunk', len(chunk)])
   print(info)
@@ -36,47 +47,16 @@ def worker_function(chunk, target, repo_full_names, output):
   print(info)
   output.write(info)
 
+# These are the arguments that have to get passed into worker_function
+# by the do_work function. These are the fork and knife that you put in
+# your lunch box. 
 worker_args = {
   'target': target,
   'repo_full_names': repo_full_names,
   'output': output
 }
 
+# Finally we call the do_work function, passing in all of the named arguments that we defined above.
+# Note, that when passing worker_args = worker_args, the second worker_args refers to the variable 
+# defined above.
 workers.do_work(source_collection = source, worker_function = worker_function, worker_args = worker_args, num_docs_per_thread=10000)
-
-
-'''
-skip = 0
-limit = 1000
-count = 1
-total = 0
-fields = {"owner": 1, "repo": 1, "login": 1}
-while count > 0:
-	try:
-		docs = source.find({}, fields).skip(skip).limit(limit)
-		docs = list(docs)
-		to_insert = []
-		for doc in docs:
-			full_name = doc['owner'] + '/' + doc['repo']
-			if full_name in repo_full_names:
-				doc['full_name'] = full_name
-				to_insert.append(doc)
-	
-		if len(to_insert) > 0:
-			target.insert_many(to_insert)
-			
-		skip += limit
-		count = len(docs)
-		total += len(to_insert)
-		info = str(['watchers', count, len(to_insert), total])
-		output.write(info)
-		print(info)
-
-	except:
-		print("Unexpected error:", sys.exc_info()[0])
-		raise SystemExit
-
-info = 'COMPLETE: ' + str(total)
-output.write(info)
-print(info)
-'''
