@@ -45,7 +45,7 @@ find_args: the .find() arguments that should be passed to mongo .find() method.
 worker_args: the arguments that should be passed to the worker function
 num_docs_per_thread: what the name says.
 '''
-def do_work(source_collection, worker_function, find_args = {}, worker_args = {}, num_docs_per_thread = 1000):
+def do_work(source_collection, worker_function, find_args = {}, worker_args = {}, num_docs_per_thread = 1000, wait_to_join = false):
   # determine the number of threads to spawn
   num_docs = source_collection.find(**find_args).count()
   num_threads = math.ceil(num_docs / num_docs_per_thread)
@@ -59,9 +59,11 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
     end = (i + 1) * num_docs_per_thread
     thread = Worker(source_collection, find_args, begin, end, limit, worker_function, worker_args) 
     thread.start()
+    if (wait_to_join) thread.join
     workers.append(thread)
-
-  for w in workers:
-    w.join()
+  
+  if(!wait_to_join):    
+    for w in workers:
+      w.join()
 
   print(str(i) + ' threads spawned and completed')
