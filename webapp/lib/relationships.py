@@ -22,8 +22,8 @@ The returned list should have the format:
 #parameter: features is a list of search results, and user_repo is a list of repos that user has selected.
 def match_repos(features,user_repos):
     features_refined = list(set(features).difference(set(user_repos)))    
-    Client = pymongo.MongoClient(host='da0.eecs.utk.edu')
-    source = Client['ossfinder']['rel_aggregate']
+#    Client = pymongo.MongoClient(host='da0.eecs.utk.edu')
+#    source = Client['ossfinder']['rel_aggregate']
     return_list = []    
     def calculation(repo_a,repo_b_list):
         count = 0
@@ -37,7 +37,7 @@ def match_repos(features,user_repos):
     
     for feature in features_refined:
         return_list.append({'full_name':feature,'count':calculation(feature,user_repos)})
-    return return_list
+    return sorted(return_list, key=lambda entry: entry['count'], reverse=True)
 
   
 
