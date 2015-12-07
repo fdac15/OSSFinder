@@ -18,17 +18,16 @@ These entries should be stored in the collection rel_aggregate
 
 '''
 
-def aggregate_calculate(source, target, multiplier, name):
-	curlist = source
+def aggregate_calculate(chunk, target, multiplier, name):
 	aggregate = target
 	# aggregate = client['ossfinder']['rel_aggregate']
 	# aggregate.delete_many({})
-	#loop through curlist
+	#loop through chunk
 		#check if the repos exist
 			#add the value and increment total by it
 		#else
 			#add a new doc with the repos, value, and total
-	for rel in curlist:
+	for rel in chunk:
 		tot = rel[name] * multiplier
 		#aggregate.save(rel)
 		if(aggregate.find({'repo_a' : rel['repo_a']}).count() > 0): #rel a is f1 a
