@@ -44,11 +44,15 @@ def search():
   user_repos = list(data["repos"])
 
   def get_full_name(r): return str(r["full_name"])
-  full_names = map(get_full_name, user_repos)
+  user_repos_full_names = map(get_full_name, user_repos)
 
   feature_repos = Features.search(feature_query, search_service, min_score=0.25, max_results=100)
-  matched_repos = Relationships.match_repos(feature_repos, user_repos)
   
+  
+  matched_repos = Relationships.match_repos(feature_repos, user_repos_full_names)
+ # matched_repos = []
+
+ 
   return json.dumps(matched_repos)
 
 app.run(debug=True)
