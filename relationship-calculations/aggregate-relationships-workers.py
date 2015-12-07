@@ -1,6 +1,7 @@
 from helpers import pymongo_worker_threads as workers
 import aggregate_calculate as agr
 import pymongo
+import sys
 
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 
@@ -8,11 +9,11 @@ client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 
 # Take command line arguments
 src = sys.argv[1]
-multiplier = sys.argv[2]
+multiplier = int(sys.argv[2])
 name = sys.argv[3]
 
 source = client['ossfinder'][src]
-target = client['ossfinder']['rel_aggregate']
+target = client['ossfinder']['rel_aggregate2']
 
 
 # Use your aggregate_calculate function as the worker_function
@@ -27,7 +28,7 @@ def worker_function(chunk, a, b, c):
 '''
 
 # Call the module function with the correct params named
-workers.do_work(source_collection = source, worker_function = agr, find_args = {}, worker_args = {'source': source, 'target': target, 'multiplier': multiplier, 'name' = name})
+workers.do_work(source_collection = source, worker_function = agr.aggregate_calculate, find_args = {}, worker_args = {'target': target, 'multiplier': multiplier, 'name': name})
 
 
 

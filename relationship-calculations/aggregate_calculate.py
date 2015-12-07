@@ -28,37 +28,37 @@ def aggregate_calculate(chunk, target, multiplier, name):
 		#else
 			#add a new doc with the repos, value, and total
 	for rel in chunk:
-		tot = rel[name] * multiplier
-		#aggregate.save(rel)
+		tot = int(rel[name]) * int(multiplier)
+#aggregate.save(rel)
 		if(aggregate.find({'repo_a' : rel['repo_a']}).count() > 0): #rel a is f1 a
 			for f1 in aggregate.find({'repo_a':rel['repo_a']}):
 				if(rel['repo_b'] == f1['repo_b']):
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{name:1}})
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{'total':tot}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{name:1}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{'total':tot}})
 					#out = str(['U', rel['repo_a'], rel['repo_b'], name])
 					#print("if 1")
 					break
 		elif(aggregate.find({'repo_b': rel['repo_a']}).count() > 0): #rel a is f1 b
 			for f1 in aggregate.find({'repo_b':rel['repo_a']}):
 				if(rel['repo_b'] == f1['repo_a']):
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{name:1}})
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{'total':tot}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{name:1}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{'total':tot}})
 					#out = str(['U', rel['repo_a'], rel['repo_b'], name])
 					#print("if 2")
 					break
 		elif(aggregate.find({'repo_a': rel['repo_b']}).count() > 0): #rel b is f1 a
 			for f1 in aggregate.find({'repo_a':rel['repo_b']}):
 				if(rel['repo_a'] == f1['repo_b']):
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{name:1}})
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{'total':tot}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{name:1}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{'total':tot}})
 					#out = str(['U', rel['repo_a'], rel['repo_b'], name])
 					#print("if 3")
 					break
 		elif(aggregate.find({'repo_b': rel['repo_b']}).count() > 0): #rel b is f1 b
 			for f1 in aggregate.find({'repo_b':rel['repo_b']}):
 				if(rel['repo_a'] == f1['repo_a']):
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{name:1}})
-					aggregate.update_one({'_id':f1['_id']}, {"$inc":{'total':tot}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{name:1}})
+					aggregate.update_one({'_id':f1['_id']}, {'$inc':{'total':tot}})
 					#out = str(['U', rel['repo_a'], rel['repo_b'], name])
 					#print("if 4")
 					break
