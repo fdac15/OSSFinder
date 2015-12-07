@@ -5,6 +5,12 @@ import pymongo
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
 source = client['ossfinder']['repositories']
 
+# MB:
+
+# Take command line arguments
+
+# Use your aggregate_calculate function as the worker_function
+
 # Replace this with the function that will process the chunk
 # of documents. In our case this will be the aggregate_calculate
 # function. 

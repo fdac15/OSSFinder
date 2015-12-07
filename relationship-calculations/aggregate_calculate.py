@@ -18,7 +18,6 @@ These entries should be stored in the collection rel_aggregate
 
 '''
 
-
 def aggregate_calculate(source, target, multiplier, name):
 	curlist = source
 	aggregate = target
