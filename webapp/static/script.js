@@ -18,6 +18,15 @@ var homeController = app.controller("HomeController", function($scope, DataServi
     });
   })();
 
+  $scope.selectRepo = function(item) {
+    item = JSON.stringify(item);
+    $scope.selectedRepos.push(JSON.parse(item));
+  };
+
+  $scope.deselectRepo = function(index) {
+    $scope.selectedRepos.splice(index, 1);
+  };
+
   $scope.submitFeatureSearch = function() {
     DataService.featureSearch($scope.featureSearchQuery)
 	.then(function(results) {

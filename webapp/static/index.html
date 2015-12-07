@@ -22,14 +22,32 @@
     <hr/>
 
     <!-- Form part 2 -->
-    <div>
+    <div style="">
       <h3>2. Select several repos you are familiar with or have used in the past.</h3>
       <label>Type to filter: <input ng-model="selectReposFilter"></label>
+      <label>Left side is all repos, right side is selected repos</label>
       <br/>
-      <select multiple ng-options="repo as repo.full_name for repo in repos | filter: selectReposFilter" ng-model="selectedRepos" style="height: 25vh;"></select>
-      <hr/>
-    </div>
+<!--      <select multiple ng-options="repo as repo.full_name for repo in repos | filter: selectReposFilter" ng-model="selectedRepos" style="height: 25vh;"></select>-->
 
+      <div style="display: flex">
+        <div style="width: 500px; height: 300px; overflow: scroll">
+	  <h4>All repos</h4>
+          <div ng-repeat="repo in repos | filter: selectReposFilter">
+            <p>
+              <a href="#" ng-click="selectRepo(repo); $event.preventDefault()">
+                {{repo.full_name}}</a>
+            </p>
+          </div>
+        </div>
+        <div style="width: 500px; height: 300px; overflow: scroll">
+          <h4>Selected Repos</h4>
+          <div ng-repeat="repo in selectedRepos">
+            <p><a href="#" ng-click="deselectRepo($index); $event.preventDefault()">{{repo.full_name}}</a></p>
+          </div>
+        </div>
+        <hr/>
+      </div>
+    </div>
     <!-- Form part 3 -->
     <div>
       <h3>3. Get Recommendations</h3>
