@@ -1,4 +1,4 @@
-from threading import Thread
+from threading import Thread, active_count
 import pymongo, sys, math
 
 # The worker class defines an object that takes a portion of a mongo
@@ -45,7 +45,7 @@ find_args: the .find() arguments that should be passed to mongo .find() method.
 worker_args: the arguments that should be passed to the worker function
 num_docs_per_thread: what the name says.
 '''
-def do_work(source_collection, worker_function, find_args = {}, worker_args = {}, num_docs_per_thread = 1000, wait_to_join = False):
+def do_work(source_collection, worker_function, find_args = {}, worker_args = {}, num_docs_per_thread = 1000, num_max_threads = 25, wait_to_join = False):
   # determine the number of threads to spawn
   num_docs = source_collection.find(**find_args).count()
   num_threads = math.ceil(num_docs / num_docs_per_thread)
@@ -60,6 +60,10 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
     thread = Worker(source_collection, find_args, begin, end, limit, worker_function, worker_args) 
     thread.start()
     if wait_to_join: thread.join()
+
+    if active_count() > num_max_threads: print('waiting for threads', active_count())
+    while active_count() > num_max_threads: pass
+
     workers.append(thread)
   
   if not wait_to_join:    
