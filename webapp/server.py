@@ -31,7 +31,7 @@ def features_search():
   data = json.loads(request.data)
   feature_query = str(data["query"])
 
-  feature_repos = Features.search(feature_query, search_service, min_score=0.25, max_results=100)
+  feature_repos = Features.search(feature_query, search_service, min_score=0.1, max_results=9999)
 
   return json.dumps(feature_repos)
 
@@ -46,7 +46,7 @@ def search():
   def get_full_name(r): return str(r["full_name"])
   user_repos_full_names = map(get_full_name, user_repos)
 
-  feature_repos = Features.search(feature_query, search_service, min_score=0.25, max_results=100)
+  feature_repos = Features.search(feature_query, search_service, min_score=0.1, max_results=9999)
   
   
   matched_repos = Relationships.match_repos(feature_repos, user_repos_full_names)

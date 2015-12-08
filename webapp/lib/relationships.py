@@ -1,7 +1,7 @@
 import pymongo
 
 client = pymongo.MongoClient(host="da0.eecs.utk.edu")
-source = client['ossfinder']['rel_aggregate']
+source = client['ossfinder']['rel_aggregate2']
 
 '''
 Take a list of feature repos and user repos.

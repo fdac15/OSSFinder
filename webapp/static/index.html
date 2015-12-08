@@ -31,17 +31,20 @@
       <div style="display: flex">
         <div style="width: 500px; height: 300px; overflow: scroll">
 	  <h4>All repos</h4>
-          <div ng-repeat="repo in repos | filter: selectReposFilter">
-            <p>
-              <a href="#" ng-click="selectRepo(repo); $event.preventDefault()">
-                {{repo.full_name}}</a>
+          <p ng-show="repos.length === 0">Loading Repos</p>
+          <div ng-repeat="repo in repos | filter: selectReposFilter track by $index">
+            <p style="display: flex; justify-content: space-between">
+              {{repo.full_name}} <button href="#" ng-click="selectRepo(repo); $event.preventDefault()">
+                select &gt;&gt;</button>
             </p>
           </div>
         </div>
         <div style="width: 500px; height: 300px; overflow: scroll">
           <h4>Selected Repos</h4>
-          <div ng-repeat="repo in selectedRepos">
-            <p><a href="#" ng-click="deselectRepo($index); $event.preventDefault()">{{repo.full_name}}</a></p>
+          <div ng-repeat="repo in selectedRepos track by $index">
+            <p style="display: flex; justify-content: space-between">
+              {{repo.full_name}}<button ng-click="deselectRepo($index); $event.preventDefault()">&lt;&lt; Remove</button>
+            </p>
           </div>
         </div>
         <hr/>
@@ -57,7 +60,7 @@
       <h3>4. Results</h3>
       <ol>
         <li ng-repeat="result in recommendationSearchResults">
-          {{result}}
+          <span><a href="http://github.com/{{result.full_name}}">{{result.full_name}}</a>, {{result.count}}</span>
         </li>
       </ol>
     </div>

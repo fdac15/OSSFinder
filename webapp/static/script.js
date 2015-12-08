@@ -7,7 +7,7 @@ var config = {
 
 var homeController = app.controller("HomeController", function($scope, DataService) {
   $scope.message = "foobar";
-  $scope.repos = [{ full_name: 'Loading repos...' }];
+  $scope.repos = [];
   $scope.selectedRepos = [];
   $scope.featureSearchQuery = '';
   $scope.featureSearchResults = [];
