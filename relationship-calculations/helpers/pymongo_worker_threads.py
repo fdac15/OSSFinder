@@ -50,6 +50,8 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
   num_docs = source_collection.find(**find_args).count()
   num_threads = math.ceil(num_docs / num_docs_per_thread)
   limit = min(500, num_docs)
+
+  print(num_threads, num_max_threads, num_docs)
  
   workers = []
 
@@ -59,6 +61,7 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
     end = (i + 1) * num_docs_per_thread
     thread = Worker(source_collection, find_args, begin, end, limit, worker_function, worker_args) 
     thread.start()
+    print('spawning thread: ', i)
     if wait_to_join: thread.join()
 
     if active_count() > num_max_threads: print('waiting for threads', active_count())
