@@ -32,7 +32,10 @@ class Worker(Thread):
     while count != 0 and skip < self.end:
       chunk = self.source_collection.find(**self.find_args).skip(skip).limit(self.limit)
       chunk = list(chunk)
+      self.worker_args["begin"] = skip
+      self.worker_args["end"] = skip + self.limit
       self.worker_args["chunk"] = chunk
+      print('do_work: passing', skip, (skip + self.limit))
       self.worker_function(**self.worker_args)
       count = len(chunk)
       skip += self.limit
@@ -51,7 +54,9 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
   num_threads = math.ceil(num_docs / num_docs_per_thread)
   limit = min(500, num_docs)
 
-  print(num_threads, num_max_threads, num_docs)
+  print('do_work: # documents', num_docs)
+  print('do_work: # threads', num_threads)
+  print('do_work: # threads at any given time', num_max_threads)
  
   workers = []
 
@@ -59,18 +64,22 @@ def do_work(source_collection, worker_function, find_args = {}, worker_args = {}
   for i in range(0, num_threads):
     begin = i * num_docs_per_thread
     end = (i + 1) * num_docs_per_thread
+
+    print('do_work: spawning thread: ', i)
     thread = Worker(source_collection, find_args, begin, end, limit, worker_function, worker_args) 
     thread.start()
-    print('spawning thread: ', i)
+
     if wait_to_join: thread.join()
 
-    if active_count() > num_max_threads: print('waiting for threads', active_count())
+    if active_count() > num_max_threads: print('do_work: waiting for threads', active_count())
     while active_count() > num_max_threads: pass
 
     workers.append(thread)
-  
-  if not wait_to_join:    
+
+  print('do_work:', str(i), 'threads spawned, waiting for all to complete')
+
+  if not wait_to_join:
     for w in workers:
       w.join()
 
-  print(str(i) + ' threads spawned and completed')
+

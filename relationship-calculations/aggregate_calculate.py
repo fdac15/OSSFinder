@@ -18,7 +18,7 @@ These entries should be stored in the collection rel_aggregate
 
 '''
 
-def aggregate_calculate(chunk, target, multiplier, name):
+def aggregate_calculate(chunk, begin, end, target, multiplier, name):
 	aggregate = target
 	# aggregate = client['ossfinder']['rel_aggregate']
 	# aggregate.delete_many({})
@@ -35,6 +35,7 @@ def aggregate_calculate(chunk, target, multiplier, name):
 				if(rel['repo_b'] == f1['repo_b']):
 					aggregate.update_one({'_id':f1['_id']}, {'$inc':{name:1}})
 					aggregate.update_one({'_id':f1['_id']}, {'$inc':{'total':tot}})
+					
 					#out = str(['U', rel['repo_a'], rel['repo_b'], name])
 					#print("if 1")
 					break
@@ -67,3 +68,6 @@ def aggregate_calculate(chunk, target, multiplier, name):
 			aggregate.save(newrel)
 			#out = str(['C', rel['repo_a'], rel['repo_b'], name])
 			#print(out)
+
+	print('aggregate_calculate: complete', begin, end)
+
