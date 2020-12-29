@@ -10,7 +10,7 @@ MarkupSafe==0.23
 numpy==1.10.1
 pymongo==3.1
 Pyro4==4.40
-requests==2.8.1
+requests==2.20.0
 scipy==0.16.1
 serpent==1.11
 simserver==0.1.4
